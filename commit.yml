@@ -3,129 +3,15 @@ branches: {
   }
 fileChange:
   /code:
-    newFile: !uuid '359a2a020eb9085537475a3c48bb6a80f4198e7a'
-    oldFile: !uuid 'a7ccd47a8f18553c2d91baa2410c87c80de48a59'
+    newFile: !uuid 'a64fc57cd4a0d6681421019cecbd1338f249d3d5'
+    oldFile: !uuid '359a2a020eb9085537475a3c48bb6a80f4198e7a'
   /code/gBrush.cpp:
-    newFile: !uuid '1720bc088af8a4a7bf728344fa85860f6424354f'
-    oldFile: null
-  /code/gColor.cpp:
     newFile: !uuid '58fa869b9107a5ab5869aa4d2266910de553d26e'
-    oldFile: null
-  /code/gConstDefine.cpp:
-    newFile: !uuid '5c288ff47a9bc6d8446da256a7fe0ba51011aea2'
-    oldFile: null
-  /code/gCtrlButton.cpp:
-    newFile: !uuid '045e776694763582b0987b62631778b4455fb190'
-    oldFile: null
-  /code/gCtrlDllSym.cpp:
-    newFile: !uuid '629a7032bc82a41415a6a2e3a8f8f9362a5e050f'
-    oldFile: null
-  /code/gCtrlForm.cpp:
-    newFile: !uuid '2ed8480b0c0914c85e236641907a0ba74d2aedb5'
-    oldFile: null
-  /code/gCtrlItem.cpp:
-    newFile: !uuid 'b8bb4f43cb9fa4076a250d3bf22f1ea9b8f5486c'
-    oldFile: null
-  /code/gCtrlLineEdit.cpp:
-    newFile: !uuid '62b4c5e5c2c7a861891b2b2be334436c080e79d9'
-    oldFile: null
-  /code/gCtrlListBox.cpp:
-    newFile: !uuid '0dddc8fc1d47c98b31b8a8196095af08578b3ee8'
-    oldFile: null
-  /code/gCtrlMsgBox.cpp:
-    newFile: !uuid '7cbcc40a7d705f6600f056e68b7ba95c1e541121'
-    oldFile: null
-  /code/gCtrlProgressBar.cpp:
-    newFile: !uuid '28cb059c4a528abbc39e48084c057f4d8896fe80'
-    oldFile: null
-  /code/gCtrlRadioButtonGroup.cpp:
-    newFile: !uuid '2f59cf3175bbac272f60dfadee32271ee0ea0e1c'
-    oldFile: null
-  /code/gEvent.cpp:
-    newFile: !uuid '38ba822af947fb613aff505f8e270e9e1af34a59'
-    oldFile: null
-  /code/gFont.cpp:
-    newFile: !uuid '03b1813fbf9e4c8fa768df1f815f5c551a4c632b'
-    oldFile: null
-  /code/gFontMetrics.cpp:
-    newFile: !uuid '3dcb465fa0d3914e03186c7fdd1869e63200c247'
-    oldFile: null
-  /code/gGlobal.cpp:
-    newFile: !uuid 'b4cc78ac2d182c56afb8cc1bf8c0a83ac10dfbed'
-    oldFile: null
-  /code/gImage.cpp:
-    newFile: !uuid '34faf60363f930abcfa99745198763c6c20e9d4e'
-    oldFile: null
-  /code/gImageAttr.cpp:
-    newFile: !uuid '1d169a017a51996403941d1087eac17990ea1717'
-    oldFile: null
-  /code/gMItem.cpp:
-    newFile: !uuid '950f27ae416624bc464da7f5324464bffc73ed8e'
-    oldFile: null
-  /code/gMap.cpp:
-    newFile: !uuid 'a1b1c40c46e812a62803e72d65af9cd6f4b3c866'
-    oldFile: null
-  /code/gObject.cpp:
-    newFile: !uuid '7a8c1914a730326a1f8f1bef84d8ebcf32d7d540'
-    oldFile: null
-  /code/gPaintDevice.cpp:
-    newFile: !uuid 'f34a74c93a2e9c7c3fa073278c1e740c3a13f014'
-    oldFile: null
-  /code/gPainter.cpp:
-    newFile: !uuid '70a6a152a4c9bbc0267b4fe1f71cf6ce32e96876'
-    oldFile: null
-  /code/gPoint.cpp:
-    newFile: !uuid '6d070767f8d14b7a053cf914ec2b91f4568b895d'
-    oldFile: null
-  /code/gPointer.cpp:
-    newFile: !uuid 'd0833584de34ec0b33797482f9ca5fde073b443f'
-    oldFile: null
-  /code/gPtrList.cpp:
-    newFile: !uuid '2eddad0686058377cdac9d78ed24b34ab09600b1'
-    oldFile: null
-  /code/gRect.cpp:
-    newFile: !uuid '2aecf622385aec7091cb291ab3f3651b2ab1e3a4'
-    oldFile: null
-  /code/gRegExp.cpp:
-    newFile: !uuid '3461c7a3afaf522630ed4e0385247dd7f2f3febc'
-    oldFile: null
-  /code/gRegion.cpp:
-    newFile: !uuid '8dc2a3fa472dd6c06b8c63f93159ea4649f0a70d'
-    oldFile: null
-  /code/gRwLock.cpp:
-    newFile: !uuid '430d7983072c797ad7c83a5b707d7f1a7f030178'
-    oldFile: null
-  /code/gSharedData.cpp:
-    newFile: !uuid '9d9aa8e24745f2650853858bb38886a50ec9819c'
-    oldFile: null
-  /code/gSize.cpp:
-    newFile: !uuid '0ae0bdc7d048331b557e00fe7298cf3385acc76c'
-    oldFile: null
-  /code/gSocketInterface.cpp:
-    newFile: !uuid 'c9d8b00f21e3eb718fa8f498bcb4966c0644b5e4'
-    oldFile: null
-  /code/gString.cpp:
-    newFile: !uuid 'e005ae981fa117bcc75572c46af8d0c7a05ecf21'
-    oldFile: null
-  /code/gTcpServer.cpp:
-    newFile: !uuid 'ce8512df8743698042592e887d72b05e13f4469a'
-    oldFile: null
-  /code/gTcpSocket.cpp:
-    newFile: !uuid '9d1882d182feadf8a2669c1b8abc399bbd5258c7'
-    oldFile: null
-  /code/gTimer.cpp:
-    newFile: !uuid 'f572e93dd4b302d3e55f54a96a8a3c02d04fda1a'
-    oldFile: null
-  /code/gUIEvent.cpp:
-    newFile: !uuid '260ec77d8a4869b6f21723cda6d602c7c6614ad4'
-    oldFile: null
-  /code/gUIEvtLoop.cpp:
-    newFile: !uuid 'fc30245edba9462be8e4f8f59c3002722ea14749'
-    oldFile: null
-  /code/gUdpSocket.cpp:
-    newFile: !uuid '322e8d3bb7b3cade681ee5d5c3d700552f63d25a'
-    oldFile: null
-gitCommitId: !uuid '3b30462a3494d8a7346ac4d48e665d1b291fc38c'
+    oldFile: !uuid '1720bc088af8a4a7bf728344fa85860f6424354f'
+  /code/gColor.cpp:
+    newFile: !uuid '1720bc088af8a4a7bf728344fa85860f6424354f'
+    oldFile: !uuid '58fa869b9107a5ab5869aa4d2266910de553d26e'
+gitCommitId: !uuid 'd02383991283f0ed7a60c98283d05f7d2fd6b48d'
 renames: {
   }
-revisionId: 11
+revisionId: 12
