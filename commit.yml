@@ -3,15 +3,15 @@ branches: {
   }
 fileChange:
   /code:
-    newFile: !uuid 'a64fc57cd4a0d6681421019cecbd1338f249d3d5'
-    oldFile: !uuid '359a2a020eb9085537475a3c48bb6a80f4198e7a'
-  /code/gBrush.cpp:
-    newFile: !uuid '58fa869b9107a5ab5869aa4d2266910de553d26e'
-    oldFile: !uuid '1720bc088af8a4a7bf728344fa85860f6424354f'
-  /code/gColor.cpp:
-    newFile: !uuid '1720bc088af8a4a7bf728344fa85860f6424354f'
-    oldFile: !uuid '58fa869b9107a5ab5869aa4d2266910de553d26e'
-gitCommitId: !uuid 'd02383991283f0ed7a60c98283d05f7d2fd6b48d'
+    newFile: !uuid '5af4e2f83b0ee56430e30aa1e02c48f1498c556e'
+    oldFile: !uuid 'a64fc57cd4a0d6681421019cecbd1338f249d3d5'
+  /code/gUIEvent.cpp:
+    newFile: !uuid 'fc30245edba9462be8e4f8f59c3002722ea14749'
+    oldFile: !uuid '260ec77d8a4869b6f21723cda6d602c7c6614ad4'
+  /code/gUIEvtLoop.cpp:
+    newFile: !uuid '260ec77d8a4869b6f21723cda6d602c7c6614ad4'
+    oldFile: !uuid 'fc30245edba9462be8e4f8f59c3002722ea14749'
+gitCommitId: !uuid '2e46510cdb159c4339689eb00452805fb9d4e9df'
 renames: {
   }
-revisionId: 12
+revisionId: 13
