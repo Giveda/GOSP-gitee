@@ -3,390 +3,390 @@ branches: {
   }
 fileChange:
   /code:
-    newFile: !uuid '68b00cfaabd8caeb910ba9cea886577821f1719b'
-    oldFile: !uuid '10e3d0abf37efa79378dabd6f5504c05589925bc'
+    newFile: !uuid 'ffaa35271ade229d3ab68eeda3dd481060853bb3'
+    oldFile: !uuid '68b00cfaabd8caeb910ba9cea886577821f1719b'
   /code/example:
-    newFile: !uuid '748154114cfdb9bdf5bba95de53141e59d277799'
-    oldFile: !uuid '82ee1a9a9c5234266f0f7f7397412f455ac19bfc'
+    newFile: !uuid 'a888ed122fb1b45c1c2b76adfb5029bbabea59fa'
+    oldFile: !uuid '748154114cfdb9bdf5bba95de53141e59d277799'
   /code/example/gCtrlButton:
-    newFile: !uuid '05a80f1a410efcd0b506b8a2f250e1d431bab9be'
-    oldFile: !uuid '92fe2a2b5cf081ebe488da4b0256e387bd3aceea'
+    newFile: !uuid 'ce93866c02c30fd889f63bed09ad27ddb6a25115'
+    oldFile: !uuid '05a80f1a410efcd0b506b8a2f250e1d431bab9be'
   /code/example/gCtrlButton/gMyForm.cpp:
-    newFile: !uuid '66bd671cc1118a58183679d997d6e7572b221a86'
-    oldFile: !uuid '1f7de94db19c2c625c7c3a274149a317c97c1884'
+    newFile: !uuid '1789806c08fd72cf1afc951f3923d5226c2dfbff'
+    oldFile: !uuid '66bd671cc1118a58183679d997d6e7572b221a86'
   /code/example/gCtrlButton/gMyForm.h:
-    newFile: !uuid '4f28aeaee89da6fab9a166c1cb11a24f397ad6d3'
-    oldFile: !uuid '67893b2053a219053284270ff03b665a3049dd90'
+    newFile: !uuid '27faa463ff13982366f302ae60493f40f5e223eb'
+    oldFile: !uuid '4f28aeaee89da6fab9a166c1cb11a24f397ad6d3'
   /code/example/gCtrlButton/gmyapplication.cpp:
-    newFile: !uuid '262166fe3b5b1959025b5b5c3da20b6c2a271780'
-    oldFile: !uuid '7ac7721850bce4c11be791b01499d8f1614ac7ed'
+    newFile: !uuid '1a35333aa4bc055783d9d48d118e9dafaf6f3500'
+    oldFile: !uuid '262166fe3b5b1959025b5b5c3da20b6c2a271780'
   /code/example/gCtrlButton/gmyapplication.h:
-    newFile: !uuid '55dcfbc8a40a7410b6c3add67fe4ea04911e5024'
-    oldFile: !uuid '03d9ea11e7c4a560943e780954bbdd19d7a83ebd'
+    newFile: !uuid '6afd2c5da02447b76d78c41740879ab47c1ed21e'
+    oldFile: !uuid '55dcfbc8a40a7410b6c3add67fe4ea04911e5024'
   /code/example/gCtrlButton/main.cpp:
-    newFile: !uuid '4cd9614121e557d01c9358a83b55d2645fd46a00'
-    oldFile: !uuid 'ebbcd62bc1af819d5db85579187c7f700bf75ecf'
+    newFile: !uuid 'dcd7b1353dc0398c6a125cc4060527bae527e03b'
+    oldFile: !uuid '4cd9614121e557d01c9358a83b55d2645fd46a00'
   /code/example/gCtrlIconView:
-    newFile: !uuid '7114101710d1cded2f9081c27a5daa84bb19b205'
-    oldFile: !uuid 'f20a5ad64c7865a47fe1eeca000a4cea2151015d'
+    newFile: !uuid '2f03c0d7a123f5f7d505820f046858a0bc85ec6a'
+    oldFile: !uuid '7114101710d1cded2f9081c27a5daa84bb19b205'
   /code/example/gCtrlIconView/gMyForm.cpp:
-    newFile: !uuid 'f0b26bd9f673ab3df918ca445adccb34e1d13063'
-    oldFile: !uuid 'c3964a7ed7b42e9ee5ba2b05e57d012c075613b3'
+    newFile: !uuid '85bd36cc21fcf68a48a3614a044fd8ae11ec289e'
+    oldFile: !uuid 'f0b26bd9f673ab3df918ca445adccb34e1d13063'
   /code/example/gCtrlIconView/gMyForm.h:
-    newFile: !uuid '7834c9ddae0603c351a37ae1d220421226076157'
-    oldFile: !uuid 'ff8054e6b1d468f641fc0eda87160e2ecac5a785'
+    newFile: !uuid 'edcc7140c056d57cd96644862a9ff9a3d501b8c5'
+    oldFile: !uuid '7834c9ddae0603c351a37ae1d220421226076157'
   /code/example/gCtrlIconView/main.cpp:
-    newFile: !uuid '139bd863769a450d0665196fd276e4dff8d94a5b'
-    oldFile: !uuid 'bb85c927d3a87c69f4e7a7159317a3fd062f9b73'
+    newFile: !uuid 'b5ad8188cb06ea6b9495bf8995ab1435ca136b89'
+    oldFile: !uuid '139bd863769a450d0665196fd276e4dff8d94a5b'
   /code/example/gCtrlItem:
-    newFile: !uuid '918d855dd244ec001077574a56ffb742b18ddfaa'
-    oldFile: !uuid '3ed78fc775638c9ac4034af198ba27490a4bf832'
+    newFile: !uuid '657010fbe2318c4f6a14527ccc4c3a38b673e83f'
+    oldFile: !uuid '918d855dd244ec001077574a56ffb742b18ddfaa'
   /code/example/gCtrlItem/gMyForm.cpp:
-    newFile: !uuid '35984c7e0ae1f0d8a3eb4923281748f22ee36e54'
-    oldFile: !uuid '849a0f38b0d2d1ec2dbc58d925351ceac038f499'
+    newFile: !uuid '9ceb34fc83c768277450f1d62d76f7831a6e7e78'
+    oldFile: !uuid '35984c7e0ae1f0d8a3eb4923281748f22ee36e54'
   /code/example/gCtrlItem/gMyForm.h:
-    newFile: !uuid '367ed52c9007cf1ebe6f6a9ba14af17a8fa97f2d'
-    oldFile: !uuid '459d317553ef9d217715bf62583ce213e4c342ba'
+    newFile: !uuid '050693f9554b69c6cbbb8c50fb3dbdc10972f2fa'
+    oldFile: !uuid '367ed52c9007cf1ebe6f6a9ba14af17a8fa97f2d'
   /code/example/gCtrlItem/main.cpp:
-    newFile: !uuid 'b1233431817e7e6f3494814397df67f8c1a778fc'
-    oldFile: !uuid '2349029d5a0f4d609ef551b45afab315d341bbbb'
+    newFile: !uuid '910232c6de2bf869d0c517ac32b13ef287926a1a'
+    oldFile: !uuid 'b1233431817e7e6f3494814397df67f8c1a778fc'
   /code/example/gCtrlLineEdit:
-    newFile: !uuid '1d7a26e50bfd820753f177bd92e278e818c5ebfb'
-    oldFile: !uuid '6c258e01dbaafcf779d58793df8b7a515a0969a8'
+    newFile: !uuid 'f78b3f75c30edf9cc29254283193dda426d292c0'
+    oldFile: !uuid '1d7a26e50bfd820753f177bd92e278e818c5ebfb'
   /code/example/gCtrlLineEdit/gMyForm.cpp:
-    newFile: !uuid '3366889a8d49715fc2b29e363b228b66a153a881'
-    oldFile: !uuid '4df1f6bee1097a5f2e23b45c33c5527ac0bdcc41'
+    newFile: !uuid 'fd90ec15d15dbbe961bfa6ad240a508755cde4e2'
+    oldFile: !uuid '3366889a8d49715fc2b29e363b228b66a153a881'
   /code/example/gCtrlLineEdit/gMyForm.h:
-    newFile: !uuid '2ef368a116d4596e6a019e04c933b10792fe91d3'
-    oldFile: !uuid '4dc7bd78c02c678c3601de3a0005e6bc47d39317'
+    newFile: !uuid '07c3ec39825d26e5faec06e15dfe8d0951ef924d'
+    oldFile: !uuid '2ef368a116d4596e6a019e04c933b10792fe91d3'
   /code/example/gCtrlLineEdit/main.cpp:
-    newFile: !uuid 'eb3453e394720d4bf6e72309b2443ab8145f2d32'
-    oldFile: !uuid '63bb9bc9985f267739845a47cd1d844572b20ec0'
+    newFile: !uuid 'adb6856754ff7c466b3eec4bae4a088e99357e20'
+    oldFile: !uuid 'eb3453e394720d4bf6e72309b2443ab8145f2d32'
   /code/example/gCtrlListBox:
-    newFile: !uuid '40fcbd24f48fb8da2acc4bc2bf88ea9eb731cdc0'
-    oldFile: !uuid 'ad04bcf5b9b4c8f45174dfa5f8a94e216e9546ab'
+    newFile: !uuid 'f48e5d62955ed12670e85ca89d976a3fd165f962'
+    oldFile: !uuid '40fcbd24f48fb8da2acc4bc2bf88ea9eb731cdc0'
   /code/example/gCtrlListBox/gMyForm.cpp:
-    newFile: !uuid 'cbb30c78f39cd989a230703521d60f642ec997c8'
-    oldFile: !uuid '52c30b0aa3a4ba8c083f47d0c5c20c85c7f14a66'
+    newFile: !uuid 'c9c757758ba2e8c77efda135f41cccc6cbd7f88a'
+    oldFile: !uuid 'cbb30c78f39cd989a230703521d60f642ec997c8'
   /code/example/gCtrlListBox/gMyForm.h:
-    newFile: !uuid '8d105858613ba20e491c1375e05f88e64f9090fd'
-    oldFile: !uuid '0e39c39f133d6acaa4165706e9986e594caa2bc8'
+    newFile: !uuid 'e4a23c79ad309e6bdb847a0ef8f41ccd77a5b86a'
+    oldFile: !uuid '8d105858613ba20e491c1375e05f88e64f9090fd'
   /code/example/gCtrlListBox/main.cpp:
-    newFile: !uuid 'a28837b49a4aa685f5826ac9bbf3c1bdb4e3a58d'
-    oldFile: !uuid 'e556c574ed7d4189c78a0c509c1006437b08107e'
+    newFile: !uuid 'd243c9eada839ce0c98b1a263eb2415f5fc06c7a'
+    oldFile: !uuid 'a28837b49a4aa685f5826ac9bbf3c1bdb4e3a58d'
   /code/example/gCtrlMsgBox:
-    newFile: !uuid '1d47be1dc43eddec1656051a81340ccddcf4036e'
-    oldFile: !uuid 'e65e7cf6b838672dc2ce28247057ee6ea6f6e492'
+    newFile: !uuid '1fd468ba8fff4f962c1997cb22cc055484d20565'
+    oldFile: !uuid '1d47be1dc43eddec1656051a81340ccddcf4036e'
   /code/example/gCtrlMsgBox/gMyForm.cpp:
-    newFile: !uuid '3d144f85574f2e6b10392fa2ea3383ddc3c22d6d'
-    oldFile: !uuid 'b2036dc5df26aff453b8307a67e0b3451013234e'
+    newFile: !uuid '2d7b685a8dad882d5f0e105455dfde42ceffc51a'
+    oldFile: !uuid '3d144f85574f2e6b10392fa2ea3383ddc3c22d6d'
   /code/example/gCtrlMsgBox/gMyForm.h:
-    newFile: !uuid '5a961bda222bb5f75d4c04bd7d5c3bb05dcaeca6'
-    oldFile: !uuid '6ef28276985587657a1507304d571d2c2775baea'
+    newFile: !uuid 'd847702f2afa18938f3e371f78098f281bce7af3'
+    oldFile: !uuid '5a961bda222bb5f75d4c04bd7d5c3bb05dcaeca6'
   /code/example/gCtrlMsgBox/main.cpp:
-    newFile: !uuid '4f78c52919badca9c352778d8477bced60dd0712'
-    oldFile: !uuid '88a062027ebb215b24fb5b8d8fe891d1bd90ed6a'
+    newFile: !uuid 'c0f5e5af332272cac1d6037051827f1913c48021'
+    oldFile: !uuid '4f78c52919badca9c352778d8477bced60dd0712'
   /code/example/gCtrlProgressBar:
-    newFile: !uuid 'c49b08d52ea1b8ed24d51959e94794ea6d7fba26'
-    oldFile: !uuid '07218786622cd99753724371817d01f53b81588c'
+    newFile: !uuid '6c6833471cb5f7e459d4306fd6f137355cc3ce0e'
+    oldFile: !uuid 'c49b08d52ea1b8ed24d51959e94794ea6d7fba26'
   /code/example/gCtrlProgressBar/gMyForm.cpp:
-    newFile: !uuid 'ae9e165f81ee5293439a407b3a35894fe3cb860b'
-    oldFile: !uuid '582739f7e75c9a7a49ebd54e2d95b585f8cb801c'
+    newFile: !uuid '81040c6405ba1278bb094a43f151d3eb532340b8'
+    oldFile: !uuid 'ae9e165f81ee5293439a407b3a35894fe3cb860b'
   /code/example/gCtrlProgressBar/gMyForm.h:
-    newFile: !uuid 'b817b59f9a30ac38f131fd9358966f5ea6d280bb'
-    oldFile: !uuid '05736516d79d48ddd4a6200343b72e485fbb3c55'
+    newFile: !uuid '88b34d0137eeaf32e927a6324f13d69b7f11f183'
+    oldFile: !uuid 'b817b59f9a30ac38f131fd9358966f5ea6d280bb'
   /code/example/gCtrlProgressBar/main.cpp:
-    newFile: !uuid '976c57e2371a275d222692fd5411bfc1ea339c44'
-    oldFile: !uuid 'b051ba6d99bb4d396a430b1066ea5e64b3a51e32'
+    newFile: !uuid '8537abedc06ebc1549ab75c79da52b2b8f2a4955'
+    oldFile: !uuid '976c57e2371a275d222692fd5411bfc1ea339c44'
   /code/example/gCtrlRadioButton:
-    newFile: !uuid '7ccc883219a7a814244cb525b8285e27a95c6f23'
-    oldFile: !uuid '2f8e4dd63ff7e1acaa39c7cb21ad9b69b5cf6272'
+    newFile: !uuid '3d6a0f7607a8930afe5930b0089d04bae44486e3'
+    oldFile: !uuid '7ccc883219a7a814244cb525b8285e27a95c6f23'
   /code/example/gCtrlRadioButton/gMyForm.cpp:
-    newFile: !uuid '54b8b75088c5068c4cc2c8f810765572cdac279c'
-    oldFile: !uuid 'e0dc631ae2444308b3f4e94fdee89dfd19723151'
+    newFile: !uuid 'b3e99f3e9fa0708402a3e0c8186b0c81585774ee'
+    oldFile: !uuid '54b8b75088c5068c4cc2c8f810765572cdac279c'
   /code/example/gCtrlRadioButton/gMyForm.h:
-    newFile: !uuid 'd405d34ecbc91a4924906813404ca4afc78a3a80'
-    oldFile: !uuid '7ffa632038e3946ec59ae087f4efeef3b16ba542'
+    newFile: !uuid 'f81991920564f2c3267864de5e7b34dab872199f'
+    oldFile: !uuid 'd405d34ecbc91a4924906813404ca4afc78a3a80'
   /code/example/gCtrlRadioButton/main.cpp:
-    newFile: !uuid 'aeab89bce87ff0dc7867b828555c8de7f21da30a'
-    oldFile: !uuid 'd32f7d711521a68898fcc2f4376c95e690414594'
+    newFile: !uuid 'f4aedb266defee32b4102d09ea2d9ae50ad8feae'
+    oldFile: !uuid 'aeab89bce87ff0dc7867b828555c8de7f21da30a'
   /code/src:
-    newFile: !uuid '5135904eab2af3ab6ff0bea46cea46444fe384e0'
-    oldFile: !uuid 'f16fe6695ae4af996b1d7b490432a7aa68c9948d'
+    newFile: !uuid '43ba898b9a81f9ec7806560c6e106f000c704841'
+    oldFile: !uuid '5135904eab2af3ab6ff0bea46cea46444fe384e0'
   /code/src/eventlist_p.cpp:
-    newFile: !uuid '9fbcb00447335bd959b887d8f736722c18267d25'
-    oldFile: !uuid '3a0af645c47a14251c96f5e78c1aeb34ffac3303'
+    newFile: !uuid 'bb300078c771fe68726e1ff13c8f87fc6d86fb18'
+    oldFile: !uuid '9fbcb00447335bd959b887d8f736722c18267d25'
   /code/src/eventlist_p.h:
-    newFile: !uuid 'd69c6304b86e79c7ffe1cecc8ddb37c01daf998f'
-    oldFile: !uuid '70fe10faea85632a99be0eab5594538d3422dd5d'
+    newFile: !uuid 'f92d2c3ac045ff252a661bcfbf8fb50464a1b8f8'
+    oldFile: !uuid 'd69c6304b86e79c7ffe1cecc8ddb37c01daf998f'
   /code/src/gBrush.cpp:
-    newFile: !uuid '8db68b71d77b2aed69fc4154c02e4ebba505fae1'
-    oldFile: !uuid '657de2c324f2bfdce35df246a8b8e3070a352756'
+    newFile: !uuid 'ccc77cdc8a800e6173102ebcd5d696b1f387939a'
+    oldFile: !uuid '8db68b71d77b2aed69fc4154c02e4ebba505fae1'
   /code/src/gColor.cpp:
-    newFile: !uuid '2cb4746a6f7043ea661d53e6a9d8df78c2515ffe'
-    oldFile: !uuid '55ecb08a15a58de717e26c2bf03aac2c95756152'
+    newFile: !uuid '48afa730e4431c85c34fe31d413b140355771fab'
+    oldFile: !uuid '2cb4746a6f7043ea661d53e6a9d8df78c2515ffe'
   /code/src/gCtrlButton.cpp:
-    newFile: !uuid '4598869e7f1030cc1266f8fab21ab3e9d3cd3591'
-    oldFile: !uuid 'b30895815bc27dba08a8a034e7d9132037e1971b'
+    newFile: !uuid 'd1641f1698923aec46504ba01f4d0dc7cfc6e54d'
+    oldFile: !uuid '4598869e7f1030cc1266f8fab21ab3e9d3cd3591'
   /code/src/gCtrlForm.cpp:
-    newFile: !uuid '320e5b8c53a9a1b8fd7369cb4ddd103dade3cc8b'
-    oldFile: !uuid '55855dc85c9882c0703af40dc74f43291b62486c'
+    newFile: !uuid '686a2cce38fd9df59fad83521d6710b62da9d1eb'
+    oldFile: !uuid '320e5b8c53a9a1b8fd7369cb4ddd103dade3cc8b'
   /code/src/gCtrlIconView.cpp:
-    newFile: !uuid '1341d1519050155c20d520a8965281136b4431ee'
-    oldFile: !uuid 'b232b9c69ec7f44efd08934583fca508c4a2896c'
+    newFile: !uuid '6eb9b4e849518bf45c101ac02cb64652903c00a8'
+    oldFile: !uuid '1341d1519050155c20d520a8965281136b4431ee'
   /code/src/gCtrlIconViewItem.cpp:
-    newFile: !uuid '08e388a76bd097d3a8df5acf98421ea500a18a28'
-    oldFile: !uuid 'a0a535f0282ede43ba949d672c7e57006c6a09a6'
+    newFile: !uuid '481ffa5da62cbfa9fcddb8a8dc67fc9154ca32c0'
+    oldFile: !uuid '08e388a76bd097d3a8df5acf98421ea500a18a28'
   /code/src/gCtrlItem.cpp:
-    newFile: !uuid 'c570dc08a2ffab6a9dc632240afb91028a86a052'
-    oldFile: !uuid '03c69e8742a0b3bdda7642ba7abd00536d6d335b'
+    newFile: !uuid 'ffe910d0d2c02cc71b0696d0b9318d094b6af600'
+    oldFile: !uuid 'c570dc08a2ffab6a9dc632240afb91028a86a052'
   /code/src/gCtrlLineEdit.cpp:
-    newFile: !uuid 'b819ba6cb15a23f46f1c15e4fbf620b9f50a3a07'
-    oldFile: !uuid '69c6d8cd666ec99f36ca3cdd295a0b6c85762f79'
+    newFile: !uuid '8328f8211efde7d2ed2e67c2e277be121f8a656b'
+    oldFile: !uuid 'b819ba6cb15a23f46f1c15e4fbf620b9f50a3a07'
   /code/src/gCtrlListBox.cpp:
-    newFile: !uuid '6f8c6994f624377b476236b6cabf069345c14052'
-    oldFile: !uuid '566a086420636d61f352ef939eff91b4bf199512'
+    newFile: !uuid '0db601f64e3a1a8382a17b5ffd7c7cc778e041f0'
+    oldFile: !uuid '6f8c6994f624377b476236b6cabf069345c14052'
   /code/src/gCtrlMsgBox.cpp:
-    newFile: !uuid '6b7c68dda2d4ec473ff6e1009c0695f1194394f8'
-    oldFile: !uuid '50565ef5a1e65ce331bc9bf9411f2ff72dd9698c'
+    newFile: !uuid 'eec554ccf855ec080b499591fc1eb57b766c4d2c'
+    oldFile: !uuid '6b7c68dda2d4ec473ff6e1009c0695f1194394f8'
   /code/src/gCtrlProgressBar.cpp:
-    newFile: !uuid '5f5b8cbbb9589a23cfbaea6cbee5057e1625a260'
-    oldFile: !uuid 'cbdf123bb0703908c7a5681fcbe558bc19b847b9'
+    newFile: !uuid 'caddcf47b968a126cdb179e5724372d8d058b779'
+    oldFile: !uuid '5f5b8cbbb9589a23cfbaea6cbee5057e1625a260'
   /code/src/gCtrlRadioButtonGroup.cpp:
-    newFile: !uuid 'c536d99cd31199d57ff82a527b285d45e2f3036e'
-    oldFile: !uuid 'af34df07b9ed7ae03e37f01bf8cea100ae17eb41'
+    newFile: !uuid 'f3de8c65078814876b01d65f4eef87685b5be56d'
+    oldFile: !uuid 'c536d99cd31199d57ff82a527b285d45e2f3036e'
   /code/src/gCtrlStyle.cpp:
-    newFile: !uuid '69823656df5f1f68a2e690d8de83bd64c65bfb9e'
-    oldFile: !uuid '873b13ae48bb07b25c28554ed9125fc344971485'
+    newFile: !uuid '33b4b6bee4dde173a2b0d50fe68f4e86601e7b3a'
+    oldFile: !uuid '69823656df5f1f68a2e690d8de83bd64c65bfb9e'
   /code/src/gCtrlStyle.h:
-    newFile: !uuid '3740a7b6c9aaa515c73377a8129c0224aaa54f47'
-    oldFile: !uuid 'c4d93143f89c0dea7224f29ad3fc6baeda2a3a18'
+    newFile: !uuid '392f9504ead5f90b51fa25573f391d1db5dd89c9'
+    oldFile: !uuid '3740a7b6c9aaa515c73377a8129c0224aaa54f47'
   /code/src/gCtrlView.cpp:
-    newFile: !uuid '79639e07d8e6904251b87a707ec57cf4c3c51c22'
-    oldFile: !uuid '9d3538c4c080d0934f196d89a10af537330fbd62'
+    newFile: !uuid '0c2e553b50113b9671e103abd60d25692174f67b'
+    oldFile: !uuid '79639e07d8e6904251b87a707ec57cf4c3c51c22'
   /code/src/gCtrlView.h:
-    newFile: !uuid '72c6810718df8495cd317a3d15ffa25f4ff22aee'
-    oldFile: !uuid '71df86e5c12a036471671df8682d3a2bb386e8e9'
+    newFile: !uuid '03ae04c4e2365e19ce2a685f4b0c68f84940d85c'
+    oldFile: !uuid '72c6810718df8495cd317a3d15ffa25f4ff22aee'
   /code/src/gEvent.cpp:
-    newFile: !uuid '780a92be20e56dc6f2c38a98b5d513f3f21ef2ba'
-    oldFile: !uuid 'ce78717cdd71d077d509aca92ea046ff29bd580a'
+    newFile: !uuid 'faa2b27ceec8fe903114717f58ecc8ae9e11114b'
+    oldFile: !uuid '780a92be20e56dc6f2c38a98b5d513f3f21ef2ba'
   /code/src/gFont.cpp:
-    newFile: !uuid '4f901f361332a8765dce70e7fbcd0945e2add02b'
-    oldFile: !uuid 'e777c2210be69c8259cc5d637c18c58e6e815f8e'
+    newFile: !uuid '4ca1e56b67af94d6a06158a3b48ac9ce017cc319'
+    oldFile: !uuid '4f901f361332a8765dce70e7fbcd0945e2add02b'
   /code/src/gFontMetrics.cpp:
-    newFile: !uuid 'ed30489340b0dc2675ec9bf8ddada3c2e465d66b'
-    oldFile: !uuid '227f429514101e610bae66b5c20acb69b0a42e6d'
+    newFile: !uuid '7f6789f1d110649122b581bc5719d6de1c1a6f3e'
+    oldFile: !uuid 'ed30489340b0dc2675ec9bf8ddada3c2e465d66b'
   /code/src/gGlobal.cpp:
-    newFile: !uuid '20063de32444e401175876fc61f4793aa60d3ac3'
-    oldFile: !uuid '59c0001c6d8bcc4763154b3fdf5bd351f1a343e5'
+    newFile: !uuid 'cd5c8b756ee126f843497162a38102a1a6cc0e04'
+    oldFile: !uuid '20063de32444e401175876fc61f4793aa60d3ac3'
   /code/src/gGlueQtScreen.cpp:
-    newFile: !uuid '4cd43cb11e374db676c11e98ed8d233958679895'
-    oldFile: !uuid '8d298f9e97efca374ad113a9610f37e9c199e93d'
+    newFile: !uuid '38dcc39ca00ccb0f0dbd3ed47574b19322dd9046'
+    oldFile: !uuid '4cd43cb11e374db676c11e98ed8d233958679895'
   /code/src/gImage.cpp:
-    newFile: !uuid '145d1179464d40a2e5a56ccebe029dd48b1c8b31'
-    oldFile: !uuid '98ce638da4b193a5b20655fabf9d741c22fff305'
+    newFile: !uuid '8440473bac17666d43482c8593ae8b49ebff829b'
+    oldFile: !uuid '145d1179464d40a2e5a56ccebe029dd48b1c8b31'
   /code/src/gImage_p.cpp:
-    newFile: !uuid '849fce2263b5873ad9dc504e2dc3f1d4f1e7259e'
-    oldFile: !uuid 'e5ccb02eb9b7babe34545c6a5308889ffc2fc00c'
+    newFile: !uuid 'bf6f7c0a289ed5e00c63ac24b310b8aee3f80ea0'
+    oldFile: !uuid '849fce2263b5873ad9dc504e2dc3f1d4f1e7259e'
   /code/src/gImage_p.h:
-    newFile: !uuid '0a80265886c086d2eae488d31980a09752f59392'
-    oldFile: !uuid 'aba1947b57d921ad73a5960550209ea4ad7efc6f'
+    newFile: !uuid '3027879060ffd14f201a84c090f82991371bb6a9'
+    oldFile: !uuid '0a80265886c086d2eae488d31980a09752f59392'
   /code/src/gInputHandler.cpp:
-    newFile: !uuid '20492c39dcafaef224d5f25e585687fa17808976'
-    oldFile: !uuid '3b8fe062dbb5e21f3c98f33cb22429b0a4f0e3d7'
+    newFile: !uuid '7b1ad64ae2aba791e278c8ec0d860d2d9866ded7'
+    oldFile: !uuid '20492c39dcafaef224d5f25e585687fa17808976'
   /code/src/gLinuxFB.cpp:
-    newFile: !uuid 'aeb091e87b147d05d08ffc673176fae962d05b62'
-    oldFile: !uuid '74624751842dc8ef6fd544de950259da0e90ffca'
+    newFile: !uuid '85b7ee6a3818db8fe1f73817ec7566ddb4ba9a3c'
+    oldFile: !uuid 'aeb091e87b147d05d08ffc673176fae962d05b62'
   /code/src/gMItem.cpp:
-    newFile: !uuid '6d1e325fd62e1533e2e89e7bcb6c006ccc3a73b6'
-    oldFile: !uuid '1ca6708e633150d216e38540e32a5546e9cf0882'
+    newFile: !uuid 'be6cecc1b8c037fb4e46f0a270a1e5d416361892'
+    oldFile: !uuid '6d1e325fd62e1533e2e89e7bcb6c006ccc3a73b6'
   /code/src/gObject.cpp:
-    newFile: !uuid '402b702794291cca0e9c215791c68c7085008e14'
-    oldFile: !uuid 'c405d8c3851b273f7cf59e267f5bd0f8437f59af'
+    newFile: !uuid 'e894bbe95a88ec83220f7c457245da8bf41e56dc'
+    oldFile: !uuid '402b702794291cca0e9c215791c68c7085008e14'
   /code/src/gPaintDevice.cpp:
-    newFile: !uuid 'cb84fd3a6c5cabc348c8f92b58f3fe1d70ced689'
-    oldFile: !uuid 'c2bddf63bc055cdf3fa4100e6fa9b19c84164086'
+    newFile: !uuid 'c5eb4354440f9d33394dfc8426495a5203174fe2'
+    oldFile: !uuid 'cb84fd3a6c5cabc348c8f92b58f3fe1d70ced689'
   /code/src/gPaintEngine.cpp:
-    newFile: !uuid 'c46e2d039a146e22d8416c75707919a413a45490'
-    oldFile: !uuid 'c477899fc5a1f4ea0350db7b43a057e65d09a626'
+    newFile: !uuid '578fff6f8211cfc4cc34e0c923e3485dea9f8f30'
+    oldFile: !uuid 'c46e2d039a146e22d8416c75707919a413a45490'
   /code/src/gPaintEnginefactory.cpp:
-    newFile: !uuid 'f90285658e85c0d1e81d012aaabf057b731a2ef3'
-    oldFile: !uuid 'da659e628e269eb335cfb1119839a7ce6f6e45a0'
+    newFile: !uuid '64424e5395e72a6436b09ae3fa1b9f346f5bae6c'
+    oldFile: !uuid 'f90285658e85c0d1e81d012aaabf057b731a2ef3'
   /code/src/gPaintEnginefactory.h:
-    newFile: !uuid '61c755cfee59263a8c2fd3c9d13fe9b48678eeb3'
-    oldFile: !uuid 'c41b29d7219f76012026e60890f4996d5c065c4b'
+    newFile: !uuid 'b6ec031baa11d05188f6de4fd9b078b358dec0b9'
+    oldFile: !uuid '61c755cfee59263a8c2fd3c9d13fe9b48678eeb3'
   /code/src/gPainter.cpp:
-    newFile: !uuid 'c2518431550e54207c4083a51a88128e9cbf9f5c'
-    oldFile: !uuid '1969475745352a262bc07287002d0ac7244a08ce'
+    newFile: !uuid '13c20ed623fe8cb5c4b1a025836bceb2f05fd891'
+    oldFile: !uuid 'c2518431550e54207c4083a51a88128e9cbf9f5c'
   /code/src/gPainter_p.cpp:
-    newFile: !uuid 'a81a5bd3ede50b67cac9ee63e1fb52a7aefdab6b'
-    oldFile: !uuid 'a66456c56e883822dfcafe5391c8fbc4ad09d87f'
+    newFile: !uuid '0248379d5e40a9258d6ff63f65f8b21ffa655638'
+    oldFile: !uuid 'a81a5bd3ede50b67cac9ee63e1fb52a7aefdab6b'
   /code/src/gPixmap.cpp:
-    newFile: !uuid '462301ed178d7608a00ee8ebbb34d9a1ee574eca'
-    oldFile: !uuid '5a8eefdccf5e92541645aaaba2272c046601ef8c'
+    newFile: !uuid '20fd14407cae2c77a37f38e36bce50e4a419f1e7'
+    oldFile: !uuid '462301ed178d7608a00ee8ebbb34d9a1ee574eca'
   /code/src/gPngIO.cpp:
-    newFile: !uuid 'cce5822f088053b617f9bd57ba00d88b32e2de99'
-    oldFile: !uuid '0b0cfbf54fa954ca489de81324fa750e23a43d31'
+    newFile: !uuid '22cbedde347bc789f940686dad29af1bec591cfc'
+    oldFile: !uuid 'cce5822f088053b617f9bd57ba00d88b32e2de99'
   /code/src/gPoint.cpp:
-    newFile: !uuid 'f0f78a0ea02aa2f27739ff4ee3ec85535aefa0b7'
-    oldFile: !uuid '5df5fcc8acc09b2fef4bda9f08952952e31fde78'
+    newFile: !uuid '8fb081775172db1fd3b392b8a0a483aab33ceebf'
+    oldFile: !uuid 'f0f78a0ea02aa2f27739ff4ee3ec85535aefa0b7'
   /code/src/gPointer.cpp:
-    newFile: !uuid 'a6da37288c082007857604354fbbeb55e255666e'
-    oldFile: !uuid 'a3f93c78ff158c49ac5395e7a1b2b8b3b88a7c67'
+    newFile: !uuid '4a26b2033cfa775e33552c2097b697f65971225c'
+    oldFile: !uuid 'a6da37288c082007857604354fbbeb55e255666e'
   /code/src/gRect.cpp:
-    newFile: !uuid 'd055d3d2ea0cf1bb8648f59518d5dbee4c51d209'
-    oldFile: !uuid 'ccef955b529f867482eb9471445bd1b8557b3f6d'
+    newFile: !uuid 'c6901208bd7c439882216b2ae788497a58b0e199'
+    oldFile: !uuid 'd055d3d2ea0cf1bb8648f59518d5dbee4c51d209'
   /code/src/gRegExp.cpp:
-    newFile: !uuid 'de3a4ff1654702e16525886709bbdc81250035e9'
-    oldFile: !uuid '7d2ccac3b3badc7402212b33fc6184549c16bf0c'
+    newFile: !uuid '8f78ef65a239ac0b94d42c968d62c5f481a394fd'
+    oldFile: !uuid 'de3a4ff1654702e16525886709bbdc81250035e9'
   /code/src/gSize.cpp:
-    newFile: !uuid 'b847fab3a6055e9c67fe31ff0fdb90e32412b32c'
-    oldFile: !uuid '662af98893a6e682b2ef8bb98e62b272c25e9b51'
+    newFile: !uuid 'e1331b0aff7170401f5ab5660cad6e1014b00854'
+    oldFile: !uuid 'b847fab3a6055e9c67fe31ff0fdb90e32412b32c'
   /code/src/gString.cpp:
-    newFile: !uuid 'ba63261aaa5f34633dc753189c3d087f5627c2af'
-    oldFile: !uuid 'd641369437ae81b75763f0eba523aee5f3c48617'
+    newFile: !uuid 'd3870cb947cd1629c00cc7adbb3b095f803be6ac'
+    oldFile: !uuid 'ba63261aaa5f34633dc753189c3d087f5627c2af'
   /code/src/gTimer.cpp:
-    newFile: !uuid '35dc9d29afd17c2093353755319bdd0c7ffc1744'
-    oldFile: !uuid '1ff28b05c0f729bb7523b202e21e5eeca7daedb6'
+    newFile: !uuid 'be675c25e54c689b908a41c5bee82dc59d66b73d'
+    oldFile: !uuid '35dc9d29afd17c2093353755319bdd0c7ffc1744'
   /code/src/gUIEvtLoop.cpp:
-    newFile: !uuid '97583472af6ddc36e44f62f5123f75505de1fecb'
-    oldFile: !uuid '206161e3cbccd9cfe230602dec4384470a22580a'
+    newFile: !uuid '09f23d77883ccf4f9254e2acc0a0417a68d825d1'
+    oldFile: !uuid '97583472af6ddc36e44f62f5123f75505de1fecb'
   /code/src/include:
-    newFile: !uuid '5e1c0af6c7062d66ba1fd9dc81e93c1ace337b4f'
-    oldFile: !uuid '6d5495e27975866df313992b986741b8453627e3'
+    newFile: !uuid '1ba764ecdcabc9f8d60c9c523e0cb9f546354db6'
+    oldFile: !uuid '5e1c0af6c7062d66ba1fd9dc81e93c1ace337b4f'
   /code/src/include/gBrush.h:
-    newFile: !uuid '73668b79d890c8ed1190ed152adf90af6d39e02d'
-    oldFile: !uuid '2d2a8499467090497735ae6edf480d078ac09c97'
+    newFile: !uuid '115fb35686c49db15f06e77635f02a1738922004'
+    oldFile: !uuid '73668b79d890c8ed1190ed152adf90af6d39e02d'
   /code/src/include/gColor.h:
-    newFile: !uuid 'eabacc47f5fc76d71218edc5a781c42916b765f7'
-    oldFile: !uuid '1bb7c1748da8edcce302b7b6fab6833713e1627a'
+    newFile: !uuid '549e6503d854d50c243b91b994fd3c04f670347e'
+    oldFile: !uuid 'eabacc47f5fc76d71218edc5a781c42916b765f7'
   /code/src/include/gConstDefine.h:
-    newFile: !uuid '7b608abb581218b9d50fd06de7514aa0d3d82d57'
-    oldFile: !uuid 'dacdfa15cba77ea508f3e2a1e13d1d54b1a00601'
+    newFile: !uuid 'f26f0e37606a32ca39208f59787d58fadeaf101f'
+    oldFile: !uuid '7b608abb581218b9d50fd06de7514aa0d3d82d57'
   /code/src/include/gCtrlButton.h:
-    newFile: !uuid 'ee71acc0ef941a5f8557a5227a38b704b51f680d'
-    oldFile: !uuid '0cea0a5dcbc004e78663b9e0734c57be449b3e09'
+    newFile: !uuid '7aa2019c9561129b059bdc646ce74f121fd09c9d'
+    oldFile: !uuid 'ee71acc0ef941a5f8557a5227a38b704b51f680d'
   /code/src/include/gCtrlForm.h:
-    newFile: !uuid 'df2a1a9bacafa5556b31ef610616a67e5f9b740b'
-    oldFile: !uuid '4668b203c3c46afa75db9a531c5a4124be080bdf'
+    newFile: !uuid '2c8479afb72a082a4727811654db40a68ca19935'
+    oldFile: !uuid 'df2a1a9bacafa5556b31ef610616a67e5f9b740b'
   /code/src/include/gCtrlIconView.h:
-    newFile: !uuid 'c073d06db55bf2ebe08cd8e96cf7e2ffdb6ecc14'
-    oldFile: !uuid '1fa4ea06bfacdfda0f2b66a4a7e4be5d99e7eaa7'
+    newFile: !uuid '5f5696e7947499678f98042c63d99d0891822afa'
+    oldFile: !uuid 'c073d06db55bf2ebe08cd8e96cf7e2ffdb6ecc14'
   /code/src/include/gCtrlIconViewItem.h:
-    newFile: !uuid '84995133afff00cb11a78a70880800ae1a4fde73'
-    oldFile: !uuid '623688542f505ee21e40cc8d0da3db737f5b8454'
+    newFile: !uuid '03c075ae65bcec03053a2681c9ad093f871d53c3'
+    oldFile: !uuid '84995133afff00cb11a78a70880800ae1a4fde73'
   /code/src/include/gCtrlItem.h:
-    newFile: !uuid 'cf179e0d7b33b629d42bfe0d6c9940d5cc4c13c3'
-    oldFile: !uuid 'cf71deebdcd325f6ccee2e499d61cd56f7c69955'
+    newFile: !uuid '65aa5fcece321075e1a11a79510a2db8e1bac768'
+    oldFile: !uuid 'cf179e0d7b33b629d42bfe0d6c9940d5cc4c13c3'
   /code/src/include/gCtrlLineEdit.h:
-    newFile: !uuid 'e7c1ab453edff7419bbe0443faad4ffc68411cc9'
-    oldFile: !uuid '0ab0d36869f749b5b6a939e1504305df32029eb1'
+    newFile: !uuid 'cef9c73587439a573617570eee66f88e2d35beb1'
+    oldFile: !uuid 'e7c1ab453edff7419bbe0443faad4ffc68411cc9'
   /code/src/include/gCtrlListBox.h:
-    newFile: !uuid '704c23fe364a7ff43425cc31df89d085dbfabb3a'
-    oldFile: !uuid '9e56b18f498443cf7b288441a9705bf171447f19'
+    newFile: !uuid '556111c628d0fb8f96b232657b9e1e4fa6c347ab'
+    oldFile: !uuid '704c23fe364a7ff43425cc31df89d085dbfabb3a'
   /code/src/include/gCtrlMsgBox.h:
-    newFile: !uuid '1df7d41c9e94b5e3f630572fe183665b650c8778'
-    oldFile: !uuid 'b5db458f1902a9894eec3ece08b5f9920976d31e'
+    newFile: !uuid '69e711ed624b3e86a8ea4d47a690a8041141350d'
+    oldFile: !uuid '1df7d41c9e94b5e3f630572fe183665b650c8778'
   /code/src/include/gCtrlProgressBar.h:
-    newFile: !uuid '833f004ddb3c233f4bd9a1a15919067bee822011'
-    oldFile: !uuid '2a11a32f60c3c4eafff1bade0ab5c92e74cdafc4'
+    newFile: !uuid '69c8f0f901af6e6b40a17c34068dd016325e9a90'
+    oldFile: !uuid '833f004ddb3c233f4bd9a1a15919067bee822011'
   /code/src/include/gCtrlRadioButtonGroup.h:
-    newFile: !uuid '047b7334c3af927c4061b525545b1149129613b1'
-    oldFile: !uuid 'a92bd1025326b60c123eb5c3dabd18af1288a0d5'
+    newFile: !uuid 'f42b987cd678db6be27b5cecff8a4372e7c6749a'
+    oldFile: !uuid '047b7334c3af927c4061b525545b1149129613b1'
   /code/src/include/gEvent.h:
-    newFile: !uuid '97e809523838b172fd9f9e4232200919066ade9d'
-    oldFile: !uuid '2fac2afe67d6f1dc02f4368fce84c2c785f3b2e0'
+    newFile: !uuid '578248c596a2d88ec09c8d3189649c3144518e8a'
+    oldFile: !uuid '97e809523838b172fd9f9e4232200919066ade9d'
   /code/src/include/gFont.h:
-    newFile: !uuid 'd5185839d92d4264260cff127756a1449c4a1c48'
-    oldFile: !uuid 'b0e144d01328658c3e501f618e10d84effc4f760'
+    newFile: !uuid '2d2e0d365174bd307c989f4baeb8784f48866f98'
+    oldFile: !uuid 'd5185839d92d4264260cff127756a1449c4a1c48'
   /code/src/include/gFontMetrics.h:
-    newFile: !uuid '4a619165d2c3a0a238d223b8664f92d8413b52ae'
-    oldFile: !uuid '06e5401a98991217dbe5d9f45fd06d4a25afcad1'
+    newFile: !uuid '43bfdd42d5f21e46f79c40174671cae9ad3b1d45'
+    oldFile: !uuid '4a619165d2c3a0a238d223b8664f92d8413b52ae'
   /code/src/include/gGlobal.h:
-    newFile: !uuid '4b5f66bcf33661a90eff6e94fdfeb4c007846d9a'
-    oldFile: !uuid '7facf787b69a8983efa3d9ecfcd66239e9661837'
+    newFile: !uuid '433af176acfb1e2d71ab4a668e80b70ed9af36fd'
+    oldFile: !uuid '4b5f66bcf33661a90eff6e94fdfeb4c007846d9a'
   /code/src/include/gImage.h:
-    newFile: !uuid '3738891cb25679242a49986ca3fdf6fd73fe54a9'
-    oldFile: !uuid '9148d2ddd231a0e5e949c79ccad19df5f5b42624'
+    newFile: !uuid 'b1edac4b70dfedb8275286597d725a239b655153'
+    oldFile: !uuid '3738891cb25679242a49986ca3fdf6fd73fe54a9'
   /code/src/include/gInputHandler.h:
-    newFile: !uuid 'dd9eae6f8e266b79653b7149ef67ec7c33163d50'
-    oldFile: !uuid '9066951bc94cb8205e55b8be862885f379ed2d3d'
+    newFile: !uuid '2fc1d07a90d160a22e1338cf9ed7dc7ae6db1dc5'
+    oldFile: !uuid 'dd9eae6f8e266b79653b7149ef67ec7c33163d50'
   /code/src/include/gLinuxFB.h:
-    newFile: !uuid '69b8ec47a6b187d36e0b45e5ff22946d4e667979'
-    oldFile: !uuid '9c4a22a115a250f9ac629158961d7474683a0fef'
+    newFile: !uuid '1a0c95185d6bf9f1cea4addc2a90cf004def0511'
+    oldFile: !uuid '69b8ec47a6b187d36e0b45e5ff22946d4e667979'
   /code/src/include/gMItem.h:
-    newFile: !uuid 'd50592f6343bf250ee822a04ba81f72886331dbf'
-    oldFile: !uuid '3cd337720a1862335c7d9f7b8a68ee5d1ceace33'
+    newFile: !uuid '54cf17f111e5a3d2f5a5b0766918e02d1a33700b'
+    oldFile: !uuid 'd50592f6343bf250ee822a04ba81f72886331dbf'
   /code/src/include/gMap.h:
-    newFile: !uuid 'fe134d0cc4c2537dece8bf9d8e5253ada921879e'
-    oldFile: !uuid '13fe66327e6b3a5f56bea34c844b618f291920d4'
+    newFile: !uuid '6737452d629d3191c4d3b12204e8d235b45f4c3f'
+    oldFile: !uuid 'fe134d0cc4c2537dece8bf9d8e5253ada921879e'
   /code/src/include/gObject.h:
-    newFile: !uuid '5f4097ef800a932e4275d858bfd95967a88cef9a'
-    oldFile: !uuid '342f145c4666d7cf923742df3432c9363f237e86'
+    newFile: !uuid 'ff10e1238ec1b9fd0e3862aab1764d315cf17de2'
+    oldFile: !uuid '5f4097ef800a932e4275d858bfd95967a88cef9a'
   /code/src/include/gPaintDevice.h:
-    newFile: !uuid '07b69135953c13f7b8d969c3a2a68c9d9fad07e9'
-    oldFile: !uuid '429ffa58e8dff81bd562a083bf7e140484420e98'
+    newFile: !uuid '65b6d62f5a9fe762c4b1863dfb16a3a2c355834c'
+    oldFile: !uuid '07b69135953c13f7b8d969c3a2a68c9d9fad07e9'
   /code/src/include/gPaintEngine.h:
-    newFile: !uuid '7ab8f8881ddddd875af05466b1db2cafefdfcd57'
-    oldFile: !uuid '4aeaeb57d39c130cce54680c035110b3978475b9'
+    newFile: !uuid '50120cea3680c2a80567812fec384e136e34beb0'
+    oldFile: !uuid '7ab8f8881ddddd875af05466b1db2cafefdfcd57'
   /code/src/include/gPainter.h:
-    newFile: !uuid 'f8a4d8b1be2e9664207881d9d9b300e7f40273c1'
-    oldFile: !uuid 'f18caa7a064dd68a7cbc47b64cac7c85c1b6319f'
+    newFile: !uuid 'dd13a92d115edc4944f9ae46c4b760e217563672'
+    oldFile: !uuid 'f8a4d8b1be2e9664207881d9d9b300e7f40273c1'
   /code/src/include/gPainter_p.h:
-    newFile: !uuid '833de00c804554246e33584eb2c00b673aa5eae0'
-    oldFile: !uuid 'aff3faa68aaf23a0757417e8c042bc8407143e35'
+    newFile: !uuid 'd7a20c1b5fd245435dde886eef6e94e837f7efb8'
+    oldFile: !uuid '833de00c804554246e33584eb2c00b673aa5eae0'
   /code/src/include/gPixmap.h:
-    newFile: !uuid '50cdd610ea39a85494f8f7802a996e471ec4e2dc'
-    oldFile: !uuid '30c6657908ef2b205020d457b1a7d71252a08f53'
+    newFile: !uuid 'e11b8de78f47487e05953efde2344cdef8b3e10e'
+    oldFile: !uuid '50cdd610ea39a85494f8f7802a996e471ec4e2dc'
   /code/src/include/gPoint.h:
-    newFile: !uuid 'aca4e5194cb1edcea311c11a4238cc6e3f3b2873'
-    oldFile: !uuid '9be858ab02c30dc40e4601aae3a129304f935cd7'
+    newFile: !uuid '014602ebd2e8099ac3b02dc537807a1b947d3588'
+    oldFile: !uuid 'aca4e5194cb1edcea311c11a4238cc6e3f3b2873'
   /code/src/include/gPointer.h:
-    newFile: !uuid '996c9f7b6363da612dfe146e9af295d70c32b79f'
-    oldFile: !uuid 'b5d231fe86f3632e9db7ec700c7cd7efe95b815b'
+    newFile: !uuid '035722d9a2b71c845ede232209baa30cd3bb67a5'
+    oldFile: !uuid '996c9f7b6363da612dfe146e9af295d70c32b79f'
   /code/src/include/gPortingQt.h:
-    newFile: !uuid 'b85a400125fed794e7d4ab72916521db39607a28'
-    oldFile: !uuid '1d59ed0be0ddc2816b2cb127a85e2323a58dd1fe'
+    newFile: !uuid '8a44e9f5a56f3c8ff35976148bc36ac0ce8e753c'
+    oldFile: !uuid 'b85a400125fed794e7d4ab72916521db39607a28'
   /code/src/include/gPtrList.h:
-    newFile: !uuid '1f0d6d95b710e0b39b688542192900af1da1541e'
-    oldFile: !uuid 'fce305b866cd7c7e3f8990fd74a9edde66c73a47'
+    newFile: !uuid 'bfa314d458af70ee87d36323aed736b976a0e369'
+    oldFile: !uuid '1f0d6d95b710e0b39b688542192900af1da1541e'
   /code/src/include/gRect.h:
-    newFile: !uuid '5c11d2c7f6cfcafe58c97f9d7c79749277a91386'
-    oldFile: !uuid 'f46204a04d00201d15766ecb381fd0d6da6513af'
+    newFile: !uuid 'd4202b8de6a02441cce186dc7b416e010eb56156'
+    oldFile: !uuid '5c11d2c7f6cfcafe58c97f9d7c79749277a91386'
   /code/src/include/gRegExp.h:
-    newFile: !uuid '1cace2963c8654b162b5798764ae59e51155c0f2'
-    oldFile: !uuid 'e4ec45794ac1c1dea4f795d267a80166e132c1ee'
+    newFile: !uuid '87a65cff31d8a2624ced1e5bf5401ca19b9ead8f'
+    oldFile: !uuid '1cace2963c8654b162b5798764ae59e51155c0f2'
   /code/src/include/gShared.h:
-    newFile: !uuid 'a235ca51146200d448f40134d1f168312437ff61'
-    oldFile: !uuid '59c7fa3b6585f397711d1b78a79071e4f128f135'
+    newFile: !uuid '45a534c8ede30a23565cf08960b00f10f4c9d954'
+    oldFile: !uuid 'a235ca51146200d448f40134d1f168312437ff61'
   /code/src/include/gSize.h:
-    newFile: !uuid '05a9ebb30c2e975391d7e1d392bcf57056e96d02'
-    oldFile: !uuid 'c904416baddd8471990ffb71e237f2e4554ac5b9'
+    newFile: !uuid '204360ec93a833949b35dbcfb614a5b3dc78f019'
+    oldFile: !uuid '05a9ebb30c2e975391d7e1d392bcf57056e96d02'
   /code/src/include/gString.h:
-    newFile: !uuid '0ae8917af0ff6717d2f055a19c7c014433394460'
-    oldFile: !uuid 'b65ab8bc51ab60cdf2407c9314990e4a1726c55d'
+    newFile: !uuid 'c7f9b814114763c8e563d653bcd4e07f9ed4ecda'
+    oldFile: !uuid '0ae8917af0ff6717d2f055a19c7c014433394460'
   /code/src/include/gTimer.h:
-    newFile: !uuid '34e836e1180fe32dbdc6996064d9622e3d05fbfa'
-    oldFile: !uuid '5219d8c7fd9bbd7e4d9e3dee1487e5d317018f97'
+    newFile: !uuid 'eb2edca76953918404bd68189a3086b5ea20f842'
+    oldFile: !uuid '34e836e1180fe32dbdc6996064d9622e3d05fbfa'
   /code/src/include/gUIEvtLoop.h:
-    newFile: !uuid '5707d7444a3ec44c557e8ba1512c469bdb7faf73'
-    oldFile: !uuid '9790e4074165532ec57e9eb1df55ae566a3da6fc'
+    newFile: !uuid 'c76ec66409392d918ff752b44941620f663ff722'
+    oldFile: !uuid '5707d7444a3ec44c557e8ba1512c469bdb7faf73'
   /code/src/sem.cpp:
-    newFile: !uuid '3f1cc5357a4684fa1b8645515b8f17fcb65f082f'
-    oldFile: !uuid '4544f61d2347db0fc689c441382a1eac2658b693'
+    newFile: !uuid 'b4d86ec8ea1db1141c57d2ef752e08986528d866'
+    oldFile: !uuid '3f1cc5357a4684fa1b8645515b8f17fcb65f082f'
   /code/src/sem.h:
-    newFile: !uuid 'd1b83c3156de543efd536a69faf08f68a55c29b9'
-    oldFile: !uuid '5394ef0cbaeaa8d03c7b1a48d3e9fbf8c9f3a82b'
+    newFile: !uuid '8abe007219fb7991b6e06a4b16c3a10cf9061d04'
+    oldFile: !uuid 'd1b83c3156de543efd536a69faf08f68a55c29b9'
   /code/src/simulator:
-    newFile: !uuid '752d4a546ff862500cd474ce8a178ab9a2f7b2ba'
-    oldFile: !uuid '5ee0c710c5f686aacdf94c0c09fe57d2d8a188d8'
+    newFile: !uuid 'b4f0e96a443836959ea599d7c97645af238f618c'
+    oldFile: !uuid '752d4a546ff862500cd474ce8a178ab9a2f7b2ba'
   /code/src/simulator/gscreenonqt.cpp:
-    newFile: !uuid '003d85d0d9345dae1485b07f0d5060edd1ec47b7'
-    oldFile: !uuid '88144fe56057ba1809d82143ec41d3d10e9e5d18'
+    newFile: !uuid 'b070d6c0171ad37471acc6e5247df04ef20133a3'
+    oldFile: !uuid '003d85d0d9345dae1485b07f0d5060edd1ec47b7'
   /code/src/simulator/gscreenonqt.h:
-    newFile: !uuid '1c37b66fa3cb4e4046402466db68e22d123bc929'
-    oldFile: !uuid '0bddde69aa5b267db845a7ed806e6f2a743e6029'
-gitCommitId: !uuid 'ed95fcba562aa5e01ec8d8ed48b7bca418f6f028'
+    newFile: !uuid 'f521b9230687d8322f095c6ccfa3a16b676d6944'
+    oldFile: !uuid '1c37b66fa3cb4e4046402466db68e22d123bc929'
+gitCommitId: !uuid '2c223a7a7581a1cbc8da9adf87c4b44d9fb278f8'
 renames: {
   }
-revisionId: 42
+revisionId: 43
