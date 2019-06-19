@@ -3,42 +3,18 @@ branches: {
   }
 fileChange:
   /README.md:
-    newFile: !uuid 'f802e58623ed3fec1b6e09d069eb907c294c369a'
-    oldFile: !uuid '1e98a437dc1da52635ad04a6601b07089a65f342'
+    newFile: !uuid 'ae76fb5d4268490d096fd89a18bc2b3af307d7d6'
+    oldFile: !uuid 'f802e58623ed3fec1b6e09d069eb907c294c369a'
   /docs:
-    newFile: !uuid '5a1816145fc4986fde356a67c1a7d20a764dc8b1'
-    oldFile: !uuid '8aeea63b81c7c430abfc15b507e642cabe473897'
+    newFile: !uuid '71ba12729203a8bd18b6c4008309aa05e1204b70'
+    oldFile: !uuid '5a1816145fc4986fde356a67c1a7d20a764dc8b1'
   /docs/images:
-    newFile: !uuid '51f71d5d854b08f7dff91147ef8e2ead193c8d64'
-    oldFile: null
+    newFile: !uuid '732487a9da7f2129ebd7f6fd7dc4794e0bdfa598'
+    oldFile: !uuid '51f71d5d854b08f7dff91147ef8e2ead193c8d64'
   /docs/images/debugInfo.jpeg:
-    newFile: !uuid 'f82ca86b0c0007ca52b79d2908380578f2d0fae0'
-    oldFile: null
-  /docs/images/gCtrlButton.jpeg:
-    newFile: !uuid '71b6b9576e81ecff88bfdcc5eb907662dc6050be'
-    oldFile: null
-  /docs/images/gCtrlIconView.jpeg:
-    newFile: !uuid '0d9d075fd782cb9fada6787c863429a47fceccef'
-    oldFile: null
-  /docs/images/gCtrlItem.jpeg:
-    newFile: !uuid '8bb36c6b787a9deb784ef754dccd5ab83e6bb72a'
-    oldFile: null
-  /docs/images/gCtrlLineEdit.jpeg:
-    newFile: !uuid '7e37512b40478e935505c44cf412a0a3587a2814'
-    oldFile: null
-  /docs/images/gCtrlListBox.jpeg:
-    newFile: !uuid '379d56b8097624bcee95c8273ad152533759fb9d'
-    oldFile: null
-  /docs/images/gCtrlMsgBox.jpeg:
-    newFile: !uuid '546b6573dfe8b15fc36cf2ad0eded9a9823f231f'
-    oldFile: null
-  /docs/images/gCtrlProgressBar.jpeg:
-    newFile: !uuid 'f4c08e1645f2cdc2197735f6d4eb056117a6c8c1'
-    oldFile: null
-  /docs/images/gCtrlRadioButton.jpeg:
-    newFile: !uuid 'e61b637d3c3fcbc224805fa116d28e4d5aee5324'
-    oldFile: null
-gitCommitId: !uuid 'ada9cd399bc54f817e26f2340a2d5f89dc0e63b5'
+    newFile: !uuid 'e0d7e5a70e3b2ae2cb4e83ec0c0a4a21f19c9b37'
+    oldFile: !uuid 'f82ca86b0c0007ca52b79d2908380578f2d0fae0'
+gitCommitId: !uuid '784ee48b2b3e248b3374b2b2ea346260aed048c1'
 renames: {
   }
-revisionId: 60
+revisionId: 61
