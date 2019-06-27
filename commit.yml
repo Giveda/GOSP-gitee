@@ -2,19 +2,16 @@
 branches: {
   }
 fileChange:
-  /HowTo.md:
-    newFile: !uuid '8d6063b173d1e1db7b71ae7720e59bfd5d0a4e01'
-    oldFile: !uuid '8ad8ad0b956235f59df16b863592bcc36f95c8da'
   /docs:
-    newFile: !uuid '4e2c8eca59f6f6c73d3dd6c1f139dd7a61f3c9ae'
-    oldFile: !uuid '71ba12729203a8bd18b6c4008309aa05e1204b70'
+    newFile: !uuid 'fd98ec62fd4e9ee60f95d0ecdb8dd0dc5e08ba8b'
+    oldFile: !uuid '4e2c8eca59f6f6c73d3dd6c1f139dd7a61f3c9ae'
   /docs/images:
-    newFile: !uuid 'ac5334fea2375e53e2f423d25df0881ee4560fa1'
-    oldFile: !uuid '732487a9da7f2129ebd7f6fd7dc4794e0bdfa598'
-  /docs/images/configureResult.jpeg:
-    newFile: !uuid 'e49de4e4d42a9e1dd6d6fbd2bb49d2573d5d844f'
+    newFile: !uuid '3e6ca1c57b87c6301d0f0b62adea3f5e04fcf6c4'
+    oldFile: !uuid 'ac5334fea2375e53e2f423d25df0881ee4560fa1'
+  /docs/images/configureResult1.jpeg:
+    newFile: !uuid 'fe260d48890211432348e2971dffde4d3c562fc5'
     oldFile: null
-gitCommitId: !uuid '4d87f6beeba7de1155efc001d1faaf0c29316fc7'
+gitCommitId: !uuid 'e2cb8d5377e87aa86add0ee7f7d8c0e30c59476a'
 renames: {
   }
-revisionId: 76
+revisionId: 77
