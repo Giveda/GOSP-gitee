@@ -2,16 +2,10 @@
 branches: {
   }
 fileChange:
-  /docs:
-    newFile: !uuid 'fd98ec62fd4e9ee60f95d0ecdb8dd0dc5e08ba8b'
-    oldFile: !uuid '4e2c8eca59f6f6c73d3dd6c1f139dd7a61f3c9ae'
-  /docs/images:
-    newFile: !uuid '3e6ca1c57b87c6301d0f0b62adea3f5e04fcf6c4'
-    oldFile: !uuid 'ac5334fea2375e53e2f423d25df0881ee4560fa1'
-  /docs/images/configureResult1.jpeg:
-    newFile: !uuid 'fe260d48890211432348e2971dffde4d3c562fc5'
-    oldFile: null
-gitCommitId: !uuid 'e2cb8d5377e87aa86add0ee7f7d8c0e30c59476a'
+  /README.md:
+    newFile: !uuid '96f10e6d915098c5581457bd21019a2c561386f8'
+    oldFile: !uuid '75e35c280fc49b1ffbaabd9f900f080ede90eb98'
+gitCommitId: !uuid '9f93474744bb5e39af04813a9bb97ea2e25c0c98'
 renames: {
   }
-revisionId: 77
+revisionId: 78
