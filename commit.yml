@@ -3,18 +3,9 @@ branches: {
   }
 fileChange:
   /README.md:
-    newFile: !uuid '67908d16ccfb366af26423f0314891d7c3f02150'
-    oldFile: !uuid 'e48b815f338671c092f4c7d31900b2dca2655416'
-  /docs:
-    newFile: !uuid 'b0e0ae0c0f83a3eb155f6c01469d7ced9ca28d4b'
-    oldFile: !uuid 'fd98ec62fd4e9ee60f95d0ecdb8dd0dc5e08ba8b'
-  /docs/images:
-    newFile: !uuid '3c6ed503ea6f8a1b7841460c4c93bee63176662e'
-    oldFile: !uuid '3e6ca1c57b87c6301d0f0b62adea3f5e04fcf6c4'
-  /docs/images/DVB_768x432.gif:
-    newFile: !uuid 'ca0142dd725c0f505daee37f7b1825c60b1b0674'
-    oldFile: null
-gitCommitId: !uuid '089929f3b511e6643f8d2a641cca6dcc9b666774'
+    newFile: !uuid '82fd0e6dc970eab2b5f6e793ef34c0de09e89e54'
+    oldFile: !uuid '67908d16ccfb366af26423f0314891d7c3f02150'
+gitCommitId: !uuid 'a44f20912aca95e23014fd9ae9a98d3ee5a80eab'
 renames: {
   }
-revisionId: 83
+revisionId: 84
