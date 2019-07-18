@@ -3,9 +3,9 @@ branches: {
   }
 fileChange:
   /hello:
-    newFile: !uuid '14b2dc7912cd190e6baf79a14162b0efb3030db5'
-    oldFile: null
-gitCommitId: !uuid '285e6634c6ee333f46accfe3abef75862a5c33e6'
+    newFile: !uuid '7e3b60fe0a136ef6c866dd866fefdf74dc24211e'
+    oldFile: !uuid '14b2dc7912cd190e6baf79a14162b0efb3030db5'
+gitCommitId: !uuid '588a197a5a720114afb403e4dffbcb972e37dbe6'
 renames: {
   }
-revisionId: 121
+revisionId: 122
