@@ -2,13 +2,10 @@
 branches: {
   }
 fileChange:
-  /LICENSE:
-    newFile: !uuid 'eadcdc2cb57f669eb4a68cc163c5a4c5e3df1aa9'
-    oldFile: !uuid '30ae69981db28dcb82e8a4564af1b07de99a385b'
-  /README.md:
-    newFile: !uuid 'cd1c5e4f0afb814df00889a38975e53756d73ea1'
-    oldFile: !uuid 'fe647f319e5790b67cb00bd9404f96a135086efb'
-gitCommitId: !uuid '47797e3adc6918b49c8258fe43d45683631e6afa'
+  /HowTo.md:
+    newFile: !uuid '956502427b05936cb30513df75eeb941acccee15'
+    oldFile: !uuid '7dafe693bb73ac9d93a77e1f64501e0c0624ad85'
+gitCommitId: !uuid '967ae80196a0e9ebc238973c9876a15613cd16fe'
 renames: {
   }
-revisionId: 165
+revisionId: 166
