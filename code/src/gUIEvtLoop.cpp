@@ -312,7 +312,7 @@ int GUIEvtLoop::postEvent ( GEvent* event, int , GObject*  )
 }
 
 #if defined(CONFIG_V_SCREEN_ENABLED) || !defined(CONFIG_R_SCREEN_DISABLED)
-void GUIEvtLoop::setSize(int w, int h)
+void GUIEvtLoop::setViewSize(int w, int h)
 {
     g_ws->setSize(w, h);
     

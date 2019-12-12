@@ -20,7 +20,7 @@
 int main( int argc, char** argv )
 {
     GUIEvtLoop a( argc, argv );
-	a.setSize(700, 600);
+	a.setViewSize(700, 600);
 
     GMyForm frm( NULL, "testForm" );
     frm.setGeometry( 0, 0, 700, 600 );

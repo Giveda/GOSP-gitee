@@ -24,7 +24,8 @@ int main( int argc, char** argv )
     GMyForm frm( NULL, "testForm" );
     frm.loadBackgroundPixmap("./pics/frmBg.png");
     frm.show();
-    a.setSize(frm.width(), frm.height() );
+
+    a.setViewSize(frm.width(), frm.height() );
 
     return a.exec();
 }

@@ -20,7 +20,7 @@
 int main( int argc, char** argv )
 {
     GUIEvtLoop a( argc, argv );
-    a.setSize(500, 500);
+    a.setViewSize(500, 500);
     
     GMyForm frm( NULL, "testForm" );
 	frm.setPaletteBackgroundColor( GColor(200, 200, 200) );

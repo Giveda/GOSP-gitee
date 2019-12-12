@@ -19,12 +19,11 @@
 int main( int argc, char** argv )
 {
     GUIEvtLoop a( argc, argv );
-    a.setSize(500, 500);
+    a.setViewSize(500, 500);
 
     GMyForm form2( NULL, "testForm2" );
 	form2.setPaletteBackgroundColor( GColor(200, 200, 200) );
 	form2.setSize( 500, 500 );
-
     form2.show();
 
     return a.exec();
