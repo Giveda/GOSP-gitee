@@ -2,19 +2,13 @@
 branches: {
   }
 fileChange:
-  /code:
-    newFile: !uuid '0541410c84b18cff128d6d82c8477413fd86b834'
-    oldFile: !uuid '57e59813837d9033a383b06da5e6749242c310cf'
-  /code/example:
-    newFile: !uuid 'cf8b9b3f1aadf9e920d6f873d9882c1da526aea0'
-    oldFile: !uuid '3af2b9f85806b859ee08a05a4b4b42c70b18fbf2'
-  /code/example/gCtrlButton:
-    newFile: !uuid 'b33388031c241246babcce450277749a6c33273c'
-    oldFile: !uuid '4171730b32169a115cc7ee51c542610532099723'
-  /code/example/gCtrlButton/gMyApp.cpp:
-    newFile: !uuid '9ba7b2ad116cc5fc9c6b38117a52889f477145a9'
-    oldFile: !uuid 'f9e863942dcb6cb9edfe566b99a8ea12983e9213'
-gitCommitId: !uuid '69ffef038a27f7ad72c6de78d43eed13821b545f'
+  /LICENSE:
+    newFile: !uuid '4ad5253cbb6f293b980149c043026103cb14a146'
+    oldFile: !uuid 'eadcdc2cb57f669eb4a68cc163c5a4c5e3df1aa9'
+  /README.md:
+    newFile: !uuid '95ac70f39433ea614c529bffed6d1e4d94d48f7f'
+    oldFile: !uuid '8e1c6fed001cddb3689049f29d172b10da59145d'
+gitCommitId: !uuid '6dbd97d837cba09c25bdb28659a918af7e8f4684'
 renames: {
   }
-revisionId: 176
+revisionId: 177
