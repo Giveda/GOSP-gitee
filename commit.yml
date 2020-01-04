@@ -3,12 +3,9 @@ branches: {
   }
 fileChange:
   /README.md:
-    newFile: !uuid 'bf1475573263c34422c20478d5e77b6751263122'
-    oldFile: !uuid '32cd8fe58f91c3c9e688bd0f204ee66924cea5e5'
-  /README_en.md:
-    newFile: !uuid 'e0e7862a71527604ab2fa709091f4b19bddecfc6'
-    oldFile: !uuid '6e02ffd1ed174bd0a3ba32539493c281f9bcf5d9'
-gitCommitId: !uuid 'e3241d366deca0612f4fbe6706a81a958c4e516c'
+    newFile: !uuid '120496d0e23fa4eefb2542cbadbff7a44b0f1cb0'
+    oldFile: !uuid 'bf1475573263c34422c20478d5e77b6751263122'
+gitCommitId: !uuid 'e71ac05540277252b2ef98882f5639b89129f0ef'
 renames: {
   }
-revisionId: 187
+revisionId: 188
