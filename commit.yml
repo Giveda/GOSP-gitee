@@ -2,1714 +2,427 @@
 branches: {
   }
 fileChange:
+  /code:
+    newFile: !uuid 'ebc23f16225abe3de7f6878593d1f25b869065a2'
+    oldFile: !uuid 'de91c689459e1ae7148f2c905f1a26ab703a1b76'
+  /code/example:
+    newFile: !uuid '5da402bfb1b2c787cb13ca0f6d223fd21f103c9c'
+    oldFile: !uuid 'ae934b7e69f501df3f1b441ed043b8e4819783d0'
+  /code/example/gCtrlButton:
+    newFile: !uuid 'be5c1618d95f0fcb76a3e6265185dc9a6442af6d'
+    oldFile: !uuid 'ab22ba091e7b82a9e5824743b7d47b143ebf5ab5'
+  /code/example/gCtrlButton/gMyApp.cpp:
+    newFile: !uuid '378ea13c98066aa8b43dbdeb76cda3f30c8592ce'
+    oldFile: !uuid '8731a9e322243f0b0c4edf08dd5b7817241e5aac'
+  /code/example/gCtrlButton/gMyApp.h:
+    newFile: !uuid 'c46a7a431c9048925b1af244e8e86c358a42bac4'
+    oldFile: !uuid 'e6fbeabc369f205d2d30d381fd3c9fd55617007c'
+  /code/example/gCtrlButton/gMyForm.cpp:
+    newFile: !uuid '1f23f82238987963d890f7753e00de36e27c20ad'
+    oldFile: !uuid '7f038eda364c628aad5e99e3c94ea6332a53528e'
+  /code/example/gCtrlButton/gMyForm.h:
+    newFile: !uuid '8fc07aa10e506095198b1ce2095be1d5f6173c1f'
+    oldFile: !uuid 'ea6a9e8a10e37dca13e3a78acec0b6a05ba9ad42'
+  /code/example/gCtrlButton/main.cpp:
+    newFile: !uuid '83b92af6b5a5cf6a481a2049f6ec864e613a0b6a'
+    oldFile: !uuid '248ac35e2e99ac4dac4a6c4507affda49e26d5fa'
+  /code/example/gCtrlIconView:
+    newFile: !uuid 'df5056ed916cbf5ed500fabadbdb22ad79850073'
+    oldFile: !uuid 'ba7a43dee5940df236b59c3d640c1e9a60eff0a4'
+  /code/example/gCtrlIconView/gMyForm.cpp:
+    newFile: !uuid 'e09c42abdee4daf8cd631c55e4b7b5e254cd1cbc'
+    oldFile: !uuid 'aee84c1fca8d1062cb368f44d1107fd46aaab214'
+  /code/example/gCtrlIconView/gMyForm.h:
+    newFile: !uuid '8bc18b3dee50893142e887c9913e02c378ae942c'
+    oldFile: !uuid 'e8c6e9c59f8a2488a969e461a6e91f702a3ec1c0'
+  /code/example/gCtrlIconView/main.cpp:
+    newFile: !uuid 'f11c03d4418d9015ac03ab9acdad050a573a3096'
+    oldFile: !uuid '60a9a2d449b6d7870204a37fce22daf5202b76c9'
+  /code/example/gCtrlItem:
+    newFile: !uuid 'e39c70f5afc5a556d53edf6d7efdc533736e0be0'
+    oldFile: !uuid 'bdcb50e3dd0fd9b402370c529f62e8de6e2cf491'
+  /code/example/gCtrlItem/gMyForm.cpp:
+    newFile: !uuid 'daf1c6be37001dd07d40fc00bbbc98c571ea6eb9'
+    oldFile: !uuid 'bd60566275c0295a5c5e8462e94ddcfb259f4988'
+  /code/example/gCtrlItem/gMyForm.h:
+    newFile: !uuid '535682e857316bca07574e22348df4ef9c617264'
+    oldFile: !uuid '9d4efc16e29059c09e866f196f11a9a313244be5'
+  /code/example/gCtrlItem/main.cpp:
+    newFile: !uuid '8fbe639d040b7b6cf3742265d0f5391405e3f07a'
+    oldFile: !uuid '564da4d1347f1c5be4cf941316abcd7a18c5cd93'
+  /code/example/gCtrlLineEdit:
+    newFile: !uuid '7673aadaa23b69f0b47b764c26bf01740d1456c4'
+    oldFile: !uuid 'd3969e5886f3803ab741a5dbbe1b1c4c68245afd'
+  /code/example/gCtrlLineEdit/gMyForm.cpp:
+    newFile: !uuid '2fc8100fa290b5404216bfb5a68daa3af8e718c6'
+    oldFile: !uuid '2a81681a22bcf9986af20d0bc227e2037f989ab6'
+  /code/example/gCtrlLineEdit/gMyForm.h:
+    newFile: !uuid '4ef66ffcbc08ee113295623661cff918ca07841d'
+    oldFile: !uuid '9ca2c3fbe200a98aab5290b2751284d34934dc0f'
+  /code/example/gCtrlLineEdit/main.cpp:
+    newFile: !uuid 'dbbbef8c9fa4596c884943fcacd2750abbcb03c7'
+    oldFile: !uuid '024592ce00ebe6981c17086f5a9bb98c8f0d4026'
+  /code/example/gCtrlListBox:
+    newFile: !uuid '09b0361e759cc80bcfc9105c582aa2c91599903e'
+    oldFile: !uuid 'a68d0eb995c60eb275aa81f99e145115e878cda2'
+  /code/example/gCtrlListBox/gMyForm.cpp:
+    newFile: !uuid 'a9e61a16ad2ee3a797ebcb142f7d11e498013522'
+    oldFile: !uuid 'a6ded94563f81d4a61f674041641c075e01ed1be'
+  /code/example/gCtrlListBox/gMyForm.h:
+    newFile: !uuid 'b9a057a24003f9f61fcc0d39a2e9ae069fb3496e'
+    oldFile: !uuid '1639e7921b8151f8e81515ca6b3628e92f41e046'
+  /code/example/gCtrlListBox/main.cpp:
+    newFile: !uuid '8cf839d5948ecf27f552470001791935918d18a7'
+    oldFile: !uuid '3d8abf59298eb2c74be76554ce7a9b380444401e'
+  /code/example/gCtrlMsgBox:
+    newFile: !uuid 'a1dcdaf53d4b98abcaa4e3a094c65d371ed7695f'
+    oldFile: !uuid '62fbebd0504245767d80098e3ef03c0ad185b005'
+  /code/example/gCtrlMsgBox/gMyForm.cpp:
+    newFile: !uuid '281ac7c921af476e09a1b4d006662eaeca3071f3'
+    oldFile: !uuid '05799dc4ee857ce160a5dd136b09cd88ac4a8b8c'
+  /code/example/gCtrlMsgBox/gMyForm.h:
+    newFile: !uuid 'a239a43d0af74ec6e8fba8727a0e2e6ce08759bb'
+    oldFile: !uuid '1ad9231153f5dcf74a900ab746e059b9df381cc8'
+  /code/example/gCtrlMsgBox/main.cpp:
+    newFile: !uuid '1bc2be6cec836cc69c37987b4b46412d4e8bfd8c'
+    oldFile: !uuid '3a7fcb14378f94b953fbd4fe789aec5c8efb8448'
+  /code/example/gCtrlProgressBar:
+    newFile: !uuid '4f7467661985b5b9f60f9fb80d690b86617d0012'
+    oldFile: !uuid 'e2555c435ae46afbbcfc9b0edb96705e2e432a4a'
+  /code/example/gCtrlProgressBar/gMyForm.cpp:
+    newFile: !uuid '095e2d91b20aa917b505dc0ee68872e680c45eac'
+    oldFile: !uuid '96f2e7649aab0470c746e0fb8d7b0979cf31932d'
+  /code/example/gCtrlProgressBar/gMyForm.h:
+    newFile: !uuid '27ac91a3f9a9286e717b29d6934a0c6610b1ac5a'
+    oldFile: !uuid '8f6e4c77c36f2429d0fb0f3bbaa9751db6c1c33c'
+  /code/example/gCtrlProgressBar/main.cpp:
+    newFile: !uuid 'b69500569df0f516cbf402f96e7820835c74fdd0'
+    oldFile: !uuid '241cb7398ca7e81749b58f1db2ad6db5b56a0b95'
+  /code/example/gCtrlRadioButton:
+    newFile: !uuid '7858f2dfc5149f7455e9c7b0cd294e1958f66009'
+    oldFile: !uuid '300d6686d1439fbe7a1eb98faf2b56e64db76bae'
+  /code/example/gCtrlRadioButton/gMyForm.cpp:
+    newFile: !uuid '10112165fb9b889cb312bb7544ad26f9402448ab'
+    oldFile: !uuid 'c76cdad8d0b4ee817909f3fb75977f3635450303'
+  /code/example/gCtrlRadioButton/gMyForm.h:
+    newFile: !uuid '51cd0f9bb72e67c404b664ffc52098b05dd6672c'
+    oldFile: !uuid '7d93dad5ccd24809c6d4bdfa494951a0dcdc584a'
+  /code/example/gCtrlRadioButton/main.cpp:
+    newFile: !uuid 'a1bc73e072fcf7841cfbbc190e6f2b3cf60bc78a'
+    oldFile: !uuid 'b0df248316368f7fd1ffd0179101fb8b43c25def'
+  /code/src:
+    newFile: !uuid '9e97e759753bbaddf6f0946625e289ab04fb18d5'
+    oldFile: !uuid 'fc4148d2eec715ff8d6f135da7adb11b98948677'
+  /code/src/eventlist_p.cpp:
+    newFile: !uuid '27503beb78491667bf98c3fd6c7ee1dd84d49e8f'
+    oldFile: !uuid '2ecf1cb04ce8727022a72cf4438a41a8923160b4'
+  /code/src/eventlist_p.h:
+    newFile: !uuid 'd6aa61b9449d061912259ef2e2129b783c310aea'
+    oldFile: !uuid '1a39bbd4c96e83ec99b1c4a2a3c3b67efcbc4224'
+  /code/src/gBrush.cpp:
+    newFile: !uuid 'c797862d1178b8588d85ac321f1053620a500ccf'
+    oldFile: !uuid 'ac3340b0ad22a991092d414d3271ffe724d5239c'
+  /code/src/gColor.cpp:
+    newFile: !uuid '0091a31ce399e327e281d67073324214e7dd7962'
+    oldFile: !uuid 'd5e079ea2115d0d77997b6734a3086d3000a52e0'
+  /code/src/gCtrlButton.cpp:
+    newFile: !uuid '1e8fbd7b204f2118e77d8849d9ef250490b56f8e'
+    oldFile: !uuid 'b56a51f321e80d07afc10178ff0c0462d1b91b68'
+  /code/src/gCtrlForm.cpp:
+    newFile: !uuid 'e5446337e5908cbee292eb194c1a1ea3f9e2fee3'
+    oldFile: !uuid 'e216990b19e01f2650bc1d11e62d2c82033fdc84'
+  /code/src/gCtrlIconView.cpp:
+    newFile: !uuid 'fa8e7234062bf51a75d82047e7dbbf352eb3c458'
+    oldFile: !uuid '346fdc3045fdc3926390226f94745be50c8b4947'
+  /code/src/gCtrlIconViewItem.cpp:
+    newFile: !uuid '7eaa0236e93b6c9a3df44fd1e70d4fad0ec24ed2'
+    oldFile: !uuid 'cdc2030c4a3350e269474d051912373b9061361b'
+  /code/src/gCtrlItem.cpp:
+    newFile: !uuid 'a0e870d3d6a86c6592626bab56cf61a26f22fb9e'
+    oldFile: !uuid 'e71d9cd2c80ebfb7ab03243ce0dbab1351012afa'
+  /code/src/gCtrlLineEdit.cpp:
+    newFile: !uuid '0f12f0d498aa8ea5843d2142544db06e4349d2b2'
+    oldFile: !uuid '14d182822ce4b964cb88d87d4bcdb0fb60078588'
+  /code/src/gCtrlListBox.cpp:
+    newFile: !uuid 'e0992505e9503847f18914eeb2a764586c8d4553'
+    oldFile: !uuid 'a3140d374f19be6bf6b90f9de474c3e247ef7345'
+  /code/src/gCtrlMsgBox.cpp:
+    newFile: !uuid '1256aab5591204fb0294da682c22380d25129820'
+    oldFile: !uuid '2b26deedd7e4e2e90c67fe9c2c6a1e4df71ecb73'
+  /code/src/gCtrlProgressBar.cpp:
+    newFile: !uuid '44e73e6a01acd16fdcfab4eb764cbafe99f57f04'
+    oldFile: !uuid 'd78defbb8127feff77babfe699ce791a515a8af4'
+  /code/src/gCtrlRadioButtonGroup.cpp:
+    newFile: !uuid '282b862aa6119cf9e966d850ca853b6f8f81e0a5'
+    oldFile: !uuid 'ee1dfdf6470aa4964b0feeff09f9344baf787d60'
+  /code/src/gCtrlStyle.cpp:
+    newFile: !uuid '80be13cd535ff6146edf655023419669fe7e75d3'
+    oldFile: !uuid 'd7200b9f55281a7e3932448fe5ba48e15fdc7e70'
+  /code/src/gCtrlStyle.h:
+    newFile: !uuid '23dc87141c2ab04eeda3fbc97465c2e5c8c33d81'
+    oldFile: !uuid 'dad2997734979f349b46010c6303ab86517416e8'
+  /code/src/gCtrlView.cpp:
+    newFile: !uuid 'aa84e4113beca2d346d6f7a4d42236f6d693c818'
+    oldFile: !uuid 'e3537a25f78b5d68e965bce2f1c032eeb0b00324'
+  /code/src/gCtrlView.h:
+    newFile: !uuid '980b7f11aa838e1e8122dc21ab97b455879480e4'
+    oldFile: !uuid 'ecce69331fa5feceebbebed15a1e6848de242dc3'
+  /code/src/gEvent.cpp:
+    newFile: !uuid '2624af6ff464c6588baa6ca04b9445714597ed6b'
+    oldFile: !uuid '89e0810f31729630a2b14c133d48824c0a8de7dc'
+  /code/src/gFont.cpp:
+    newFile: !uuid 'c5341dded504cc4bf1802c08d497cc368d22f1dd'
+    oldFile: !uuid 'd6e71eaf693f04f91a6e91a56ac454a70298e663'
+  /code/src/gFontMetrics.cpp:
+    newFile: !uuid 'e90c19d941ce434d0ba816ad14d7501ef3b7e75b'
+    oldFile: !uuid '552154a37f0466afa76c3b979128adc365ef860a'
+  /code/src/gGlobal.cpp:
+    newFile: !uuid '88444626c7b3215fc9a1af1c45d2bcb0f547eb25'
+    oldFile: !uuid '4f32e2edac216c2a35b2c1c196aa3d122339b3cb'
+  /code/src/gGlueQtScreen.cpp:
+    newFile: !uuid 'b8b339cd49ddf4b6bf6e57486fc45e53f1ce9c42'
+    oldFile: !uuid '749e98b20eb359cdbd5ae078a241ac3935b422ff'
+  /code/src/gImage.cpp:
+    newFile: !uuid '64915ad973a680ecc0c4d3473a9858ecc4d0247c'
+    oldFile: !uuid '7c267bbb76513eb2d780f12b4f5dd126cb04bc5f'
+  /code/src/gImage_p.cpp:
+    newFile: !uuid '848b58820811d107f14d2e55346c19243c39d59d'
+    oldFile: !uuid '5d9f5c221f6863266b254033ef18c9eea6772989'
+  /code/src/gImage_p.h:
+    newFile: !uuid '7c8cf3996d1eb22091a04d36fc3e554c85f3c457'
+    oldFile: !uuid '536e4e447c3ed8dc98c79a3445aa29367ea61478'
+  /code/src/gInputHandler.cpp:
+    newFile: !uuid '3509cf534aebb68f3ae23c65789c01cc78058f1d'
+    oldFile: !uuid 'cd14b15a32bd94c0a7dbce9c21127eb8479e9665'
+  /code/src/gLinuxFB.cpp:
+    newFile: !uuid '101cc92ed70ec1a6c3d9158b96753e67ad025721'
+    oldFile: !uuid '446c166c23040788a0fc03f903f22cfeb7d483f7'
+  /code/src/gMItem.cpp:
+    newFile: !uuid '22999e40970a5ef6021e892acb32058755a867f9'
+    oldFile: !uuid '60ac0f3e073e2fa8e3e3ae4c73e3ccaaa147883f'
+  /code/src/gObject.cpp:
+    newFile: !uuid '3ae3c78bcdb4de8bed502255d2e30c24f3d75a8c'
+    oldFile: !uuid 'ec62f81d582a3a4b4249041229449ae40a513b69'
+  /code/src/gPaintDevice.cpp:
+    newFile: !uuid 'c67d05e00af2460f1f56e38618695c9c8a51ae1c'
+    oldFile: !uuid 'fd8a2006fffa2acd9cbe0783e90853c516ec5923'
+  /code/src/gPaintEngine.cpp:
+    newFile: !uuid '9a179d3ca8340590584c6a16fbd84bc75357b535'
+    oldFile: !uuid '6065799c4b4bf22ff7a7679e3b5eede34eaf5254'
+  /code/src/gPaintEnginefactory.cpp:
+    newFile: !uuid '5a8f2e147f19555cd72a524caaf81c1ec29967f3'
+    oldFile: !uuid '94fa44e1fa5ce9cf4b737960d2ec9afc3e05e7da'
+  /code/src/gPaintEnginefactory.h:
+    newFile: !uuid '7d3f2a1ba4f2e6725ef266822703cb5178980c86'
+    oldFile: !uuid 'eeb60a58652d1440aea9e75c27fbbe8073747542'
+  /code/src/gPainter.cpp:
+    newFile: !uuid '590a65f38ed9509506d957d55aa7bb7fc7adceff'
+    oldFile: !uuid '8bc5f8a09099c5ae0a001ae5b49b8aee11e51fa6'
+  /code/src/gPainter_p.cpp:
+    newFile: !uuid 'a0eed95644212ba3cbb0f49f6dd906efbfa919d6'
+    oldFile: !uuid '3a4c0020c6cc9c776ae70a73416e40804bc7f4f8'
+  /code/src/gPixmap.cpp:
+    newFile: !uuid '5d4056a7d8d17b8818c752340a56a40bfc343d59'
+    oldFile: !uuid '241dc61f1f49c9086fa4738dc30f4d10cf056a7f'
+  /code/src/gPngIO.cpp:
+    newFile: !uuid '7b89923ed3c6754bb77f55082c03e8fdd514df0a'
+    oldFile: !uuid '56451f658dd5fdf18752e0a2bed220a9a03e1edd'
+  /code/src/gPoint.cpp:
+    newFile: !uuid 'e958c4fb7823ab11759dd5c77fddc979904ec6e4'
+    oldFile: !uuid 'a9c820e1af387828809aa9594738d1e14a876941'
+  /code/src/gPointer.cpp:
+    newFile: !uuid '389c7b7fad97f4982b89d672949dd96a56b4f910'
+    oldFile: !uuid '7d3e31ec693bab793fbf057eb894da4f7e7dcdae'
+  /code/src/gRect.cpp:
+    newFile: !uuid '39235fb326e42a722241ad27d36a81c520c3a4e2'
+    oldFile: !uuid '2a6b773da0555db4e15f045603c91c446cd2fb0e'
+  /code/src/gRegExp.cpp:
+    newFile: !uuid '39b81f585ccef20a5a90dff850b90fdda958ffbe'
+    oldFile: !uuid '9cc83e0851987148d0c1c154f7165791d669f5ff'
+  /code/src/gSize.cpp:
+    newFile: !uuid 'a9b382a74333cff738f6794a286b58508e621989'
+    oldFile: !uuid '5061d53381711db3059572b39f465aa0c08aa6a4'
+  /code/src/gString.cpp:
+    newFile: !uuid '1fe588b5aa6ea7eac088da6f670a4153ea4966b5'
+    oldFile: !uuid '3dbb7915f40cea8adbaad5096bfb00b301b4c848'
+  /code/src/gTimer.cpp:
+    newFile: !uuid 'f18a553cec749e704dfb9f4753c9cc5df331a843'
+    oldFile: !uuid 'ab70c05e3471b2842887a581e83c4e72ef21aefd'
+  /code/src/gUIEvtLoop.cpp:
+    newFile: !uuid 'e52cdf80b11c54431bd600fc9fd2e136acf03e18'
+    oldFile: !uuid 'ba41957e3ea987546cf7774a5bf0a6c116338ad5'
+  /code/src/include:
+    newFile: !uuid '4ad767ae7c8482a7a2dd5ccfbfb6043fb9f7fbea'
+    oldFile: !uuid '0850aa522a8f08a412ca7f1efbafccd093398b15'
+  /code/src/include/gBrush.h:
+    newFile: !uuid '2e61501cd680d9f8cb82b44e824eeb4fcc9787ce'
+    oldFile: !uuid '8067f02c4e5954d4ce6b98e5435cadbc65e9fe99'
+  /code/src/include/gColor.h:
+    newFile: !uuid '324abeb9546d9495eb4958610ed94af7068bf68f'
+    oldFile: !uuid '078cf718a0bdecba7d7b89b2dbc5de49aa3519b6'
+  /code/src/include/gConstDefine.h:
+    newFile: !uuid 'a5466288bc845dc7ce1621d57d3394fd0c72110f'
+    oldFile: !uuid '8116c4b1b8e8f8b1c1e27c1c1d8e49ca77a58051'
+  /code/src/include/gCtrlButton.h:
+    newFile: !uuid '4c52ba0705c1c9632cb19d3e08a538e3f8406309'
+    oldFile: !uuid '31ea7d8729cf4e2bd2f771ff0ebd06599a01e5fb'
+  /code/src/include/gCtrlForm.h:
+    newFile: !uuid '9b65acde7d55195b339ae894654e475a915da813'
+    oldFile: !uuid '987c1f37613ce4f17a2e77ce255876842637ff97'
+  /code/src/include/gCtrlIconView.h:
+    newFile: !uuid 'eb595ff2ab5efe5d6de9eaa1994d4757760e8ed8'
+    oldFile: !uuid '136d4780c04d736716e11634de721ed7930fe554'
+  /code/src/include/gCtrlIconViewItem.h:
+    newFile: !uuid '775f406f16c004f91f5434c964f568fa85de9867'
+    oldFile: !uuid '02dffc6db85de5637ad65def1f535d67f2204004'
+  /code/src/include/gCtrlItem.h:
+    newFile: !uuid '9e421bd4fbfe99c891623ae4a187334d4f5d7669'
+    oldFile: !uuid '84883e695cc1ebac9841d2eeb2d4a74b7331606c'
+  /code/src/include/gCtrlLineEdit.h:
+    newFile: !uuid 'd18fc9b1d7583214334a7d24f2b7810fb4324b5e'
+    oldFile: !uuid 'e9558bd65d9e80634b23bd9b39a1a0739dd09078'
+  /code/src/include/gCtrlListBox.h:
+    newFile: !uuid 'ffecb101a924ab93fc96b53c61282462fb77e905'
+    oldFile: !uuid '03e76bcb183c8ac34dd4956c8964c9914d6ee758'
+  /code/src/include/gCtrlMsgBox.h:
+    newFile: !uuid '2b7bd46ff85fdbb3b9de6012b6c366e8db3e90e2'
+    oldFile: !uuid '663af425efd4e538942e210235d8a6b530da8211'
+  /code/src/include/gCtrlProgressBar.h:
+    newFile: !uuid 'd0157ccc90eee230767a331524ec81c2ec03708a'
+    oldFile: !uuid '0d28f7aede135d24af0057071b869d6933a8da99'
+  /code/src/include/gCtrlRadioButtonGroup.h:
+    newFile: !uuid '502eb166c66de98eb33033bb50c175e542991f25'
+    oldFile: !uuid 'bf367edde49377680c51880b16c8805c1d2bff25'
+  /code/src/include/gEvent.h:
+    newFile: !uuid '56187aafb9e243b1a58dba2d21d3830173e993be'
+    oldFile: !uuid 'bf8a39594b0bb03fa07d76b7964031c53bc01c8a'
+  /code/src/include/gFont.h:
+    newFile: !uuid '2946de8a52a5a3fe806f4ad64c84133192fc69d1'
+    oldFile: !uuid '97d4abd4e96da9623a881840dad7e7109305293a'
+  /code/src/include/gFontMetrics.h:
+    newFile: !uuid 'df423f6c279e3c8d9e4d40e3f9939d206c3fbfe8'
+    oldFile: !uuid '60c08d431668664083c26fa0af9071dfe6c69a3e'
+  /code/src/include/gGlobal.h:
+    newFile: !uuid 'c4017eae73a69fc671115aca643b409fa8097a59'
+    oldFile: !uuid '50e1383775e0948d61822c50b699ed230c14fe19'
+  /code/src/include/gImage.h:
+    newFile: !uuid 'eb3a4dab22eec619b1ea9c7d7c9d2bc03a976d84'
+    oldFile: !uuid '600307b3af78e00c67b65ec4fb729e15309e5cff'
+  /code/src/include/gInputHandler.h:
+    newFile: !uuid 'cab0a318a045c8b618191fc4da2f71bfd22e1318'
+    oldFile: !uuid '83851b322b1b5fcca75b2b4ee72dfed9a4d1f62c'
+  /code/src/include/gLinuxFB.h:
+    newFile: !uuid '2dbbbf30998d9390914d9b88293597105e3c6185'
+    oldFile: !uuid 'f20b3e10d13cc1aa590f592a0319b5704f958035'
+  /code/src/include/gMItem.h:
+    newFile: !uuid '00029f3157217282e32d140f26700ba5f6dd3315'
+    oldFile: !uuid 'c75b02f411c66ee130f771271f422325b213f866'
+  /code/src/include/gMap.h:
+    newFile: !uuid 'cc321f880dd5a5ef1edc13e020f1cb08da1907a5'
+    oldFile: !uuid '12cbb3494f7da4f59034c27b3438bedab3dfa764'
+  /code/src/include/gObject.h:
+    newFile: !uuid 'b9d2dd3425cd6cf5de6e3ff01d0ad3266e057298'
+    oldFile: !uuid '3b0c0e4f9b7bfaa7afcb4f606f212cfbba189741'
+  /code/src/include/gPaintDevice.h:
+    newFile: !uuid 'ddd639aaa7a1c3376ad9ea18ea42f278e63c5f39'
+    oldFile: !uuid '4c286f128a023ae07811bfe12f7f8ccacc1683f4'
+  /code/src/include/gPaintEngine.h:
+    newFile: !uuid '4c0d06396f07845b8cd44be4bb00eecece259f7b'
+    oldFile: !uuid 'e798954b91c84b8a3bf3fbd253a3dafb91b0297d'
+  /code/src/include/gPainter.h:
+    newFile: !uuid '90a240c43685daba3b7eaa05fa6ad13ca36ca8dc'
+    oldFile: !uuid '76d037bdf3ebfbaee51ee92f58a324e8a5b8a50b'
+  /code/src/include/gPainter_p.h:
+    newFile: !uuid '0201be1c40ffaf246a11828b769ba822c932edd9'
+    oldFile: !uuid 'b904ce5bb153bcad1d675e89e817c8e93882e0d6'
+  /code/src/include/gPixmap.h:
+    newFile: !uuid '8c630b04e58e8541a76700639a127c78fce2132e'
+    oldFile: !uuid 'eb60dba8d6da368dd3c839d6e20cc94d939edd04'
+  /code/src/include/gPoint.h:
+    newFile: !uuid 'ec9e1399ddedc596b1b6bf4fcd275398b6ffd7c2'
+    oldFile: !uuid 'b58efc40960921d4b645e313550258250b1cdb81'
+  /code/src/include/gPointer.h:
+    newFile: !uuid '4bc53ea3805099665cb903d7cfd133e36f4d1a61'
+    oldFile: !uuid '23d97dd11331d1f2d5753a23e73b42c8c47b4cb9'
+  /code/src/include/gPortingQt.h:
+    newFile: !uuid '12576caef085d416b0ce508008ba6f1510fb3e4c'
+    oldFile: !uuid 'eae14a1fc1cb8510374fa3945b68e2661bdccdc6'
+  /code/src/include/gPtrList.h:
+    newFile: !uuid '5698d422f168f732f97bc4392393765f9437b1e3'
+    oldFile: !uuid 'd3c577b429ba13fc3576e37651b8dc0d93d19148'
+  /code/src/include/gRect.h:
+    newFile: !uuid '5af3613442df910f796ad1e2728fda2701d15288'
+    oldFile: !uuid '206def22853eb4384d3f4635da1256268cf3303c'
+  /code/src/include/gRegExp.h:
+    newFile: !uuid '8900ffee0c71a023f445a9367f970880c87251aa'
+    oldFile: !uuid '8bdf18584f08c884734051387394b38459c6f44d'
+  /code/src/include/gShared.h:
+    newFile: !uuid 'd87c8b845295d63edebba3b242cdd27f5a2b6514'
+    oldFile: !uuid '669ecda8d17db101f0e51533ca8cdbe807cf3bc5'
+  /code/src/include/gSize.h:
+    newFile: !uuid '7395e7ced08fed50d9ef198d9bf13c88170deea0'
+    oldFile: !uuid '9b8520bb1cdc1e9596f2725215f52cb6dc04d4cf'
+  /code/src/include/gString.h:
+    newFile: !uuid '6c28a9560304190071bb5bb2a50bea862b530bed'
+    oldFile: !uuid '1a5b23d9aa6ac823b9339251e1619e7afaa39354'
+  /code/src/include/gTimer.h:
+    newFile: !uuid '1871be1fef5d7aeb921d459b5673a92edc7211f8'
+    oldFile: !uuid 'b971e48cb0dc6ff9b3638259c17bc111b9df0b4e'
+  /code/src/include/gUIEvtLoop.h:
+    newFile: !uuid '35bdbad078fdb778d79f4dff83a9f4e4a8cdc27f'
+    oldFile: !uuid 'caae39d67b2ac6bb556f82023e9521ba19f7b8e9'
+  /code/src/sem.cpp:
+    newFile: !uuid '43e094fd2da936be3084cfd8860e19b51c9361c0'
+    oldFile: !uuid 'e7cfe19282e1a6053c83c1c680e55fece9b006a1'
+  /code/src/sem.h:
+    newFile: !uuid '4e8f982dd937d39eaa377611f630945fd9efe2ee'
+    oldFile: !uuid 'ab77682818dcdf7df92c7a8f63a3cbf134013a11'
+  /code/src/simulator:
+    newFile: !uuid '515cc804764c47e23326d51f17469139242a63cf'
+    oldFile: !uuid '99a011a80d869f667e691fbf35c591df1fc23cfd'
+  /code/src/simulator/gscreenonqt.cpp:
+    newFile: !uuid '22587663421e366d3b774f63ee27e51136014974'
+    oldFile: !uuid '1de491ab53a9d0b381cd0aa52ed08c86be2cffe4'
+  /code/src/simulator/gscreenonqt.h:
+    newFile: !uuid '5ac47a750f7b406bd5dcdebf8e133bf1e96f0ee9'
+    oldFile: !uuid 'dd3a39bfbd777ca4215fef2e46d1e415b20a2a23'
   /docs:
-    newFile: !uuid '8b3fc13f5a111ce65fde1ab72918ece3b75041bd'
-    oldFile: null
-  /docs/hello_world_screenshot.jpg:
-    newFile: !uuid 'e21536cbab809c7d4e9dd94e6f6afda00019cb4d'
-    oldFile: null
+    newFile: !uuid '61d676e96cad92ae7cb6d5b6a28bfeeabe977277'
+    oldFile: !uuid '8b3fc13f5a111ce65fde1ab72918ece3b75041bd'
   /docs/html:
-    newFile: !uuid 'c45c3de0e2b32d52fe168a66aae78cf972c4657b'
-    oldFile: null
+    newFile: !uuid '81be040347fca8820ae4d77f977d13efa495e09a'
+    oldFile: !uuid 'c45c3de0e2b32d52fe168a66aae78cf972c4657b'
   /docs/html/annotated.html:
-    newFile: !uuid 'd33891a396c70a98fcfc37569682edb3d9b1ee5f'
-    oldFile: null
-  /docs/html/bc_s.png:
-    newFile: !uuid '224b29aa9847d5a4b3902efd602b7ddf7d33e6c2'
-    oldFile: null
-  /docs/html/bdwn.png:
-    newFile: !uuid '940a0b950443a0bb1b216ac03c45b8a16c955452'
-    oldFile: null
-  /docs/html/class_g_brush-members.html:
-    newFile: !uuid '80a7cb7d09f3ec4f20b9e9a2420bf996c45adb25'
-    oldFile: null
-  /docs/html/class_g_brush.html:
-    newFile: !uuid '2920ae2ac7d901e8c189cad85c863605b81a52e8'
-    oldFile: null
-  /docs/html/class_g_color-members.html:
-    newFile: !uuid 'bf99d5814707266ad05a89ab6929aa99146dfc46'
-    oldFile: null
-  /docs/html/class_g_color.html:
-    newFile: !uuid 'b1032731b5a58cb138a1ed12a8368932de16b3b8'
-    oldFile: null
-  /docs/html/class_g_ctrl_button-members.html:
-    newFile: !uuid '4dbd1f0154f4fced47731b59e6c952d809c48306'
-    oldFile: null
-  /docs/html/class_g_ctrl_button.html:
-    newFile: !uuid 'fa62d3ea0051cf6398065ebd980a88ea9282f33d'
-    oldFile: null
-  /docs/html/class_g_ctrl_form-members.html:
-    newFile: !uuid 'f9f574ac7b1bf5bb2f9f9435aae7d72dc594c0fb'
-    oldFile: null
-  /docs/html/class_g_ctrl_form.html:
-    newFile: !uuid '6895bfeecdde782eae4ff5b09180be8f590d449e'
-    oldFile: null
-  /docs/html/class_g_ctrl_icon_view_item-members.html:
-    newFile: !uuid '2599a0882b3664ebb49a1a9b6c56481dca750dec'
-    oldFile: null
-  /docs/html/class_g_ctrl_icon_view_item.html:
-    newFile: !uuid '392ffb36a7085c47204403693438a94b29481e22'
-    oldFile: null
-  /docs/html/class_g_ctrl_image-members.html:
-    newFile: !uuid 'd199beb18b27fb2da2e3e3db890bfbd61ba27ace'
-    oldFile: null
-  /docs/html/class_g_ctrl_image.html:
-    newFile: !uuid '84e4864863126eaaf8db0d6280f3a4db3a341535'
-    oldFile: null
-  /docs/html/class_g_ctrl_line_edit-members.html:
-    newFile: !uuid 'b56b524fec6081e499cde4eaff7110e4c8c22473'
-    oldFile: null
-  /docs/html/class_g_ctrl_line_edit.html:
-    newFile: !uuid '149091fd629befe1c9ad142537d1b539f6d1a11b'
-    oldFile: null
-  /docs/html/class_g_ctrl_list_box-members.html:
-    newFile: !uuid '63c1eac87c8f1813c1aa957a8a0706d260868aee'
-    oldFile: null
-  /docs/html/class_g_ctrl_list_box.html:
-    newFile: !uuid 'f7d03feb9a1985164902ad732627381c6d9a4f61'
-    oldFile: null
-  /docs/html/class_g_ctrl_list_box_item-members.html:
-    newFile: !uuid '395f4d7a479561704a3413ec9a8cf4c18f21d2a4'
-    oldFile: null
-  /docs/html/class_g_ctrl_list_box_item.html:
-    newFile: !uuid 'f87fcb6d48b5b6851d9f1d6c3784a26a828691f8'
-    oldFile: null
-  /docs/html/class_g_ctrl_list_box_pixmap-members.html:
-    newFile: !uuid 'c7c042864333a6787c561b1efce71f810c8de950'
-    oldFile: null
-  /docs/html/class_g_ctrl_list_box_pixmap.html:
-    newFile: !uuid 'a273f29ef684e603b0e4502d92f238f909e0e112'
-    oldFile: null
-  /docs/html/class_g_ctrl_msg_box-members.html:
-    newFile: !uuid 'b32a7210bb98ac4ef0c826ed5dceb895f2d28c78'
-    oldFile: null
-  /docs/html/class_g_ctrl_msg_box.html:
-    newFile: !uuid 'd2171e879dda2d24c24dca93d8f462272a1a5a1d'
-    oldFile: null
-  /docs/html/class_g_ctrl_pixmap-members.html:
-    newFile: !uuid '075a8a789cf7630c553e309d87a1b47e476f1407'
-    oldFile: null
-  /docs/html/class_g_ctrl_pixmap.html:
-    newFile: !uuid 'f72daa8e545fccf3428114b01d0cb770673990b6'
-    oldFile: null
-  /docs/html/class_g_ctrl_progress_bar-members.html:
-    newFile: !uuid '4d789beaebb8639c5322c7dff32de64c07bd1a28'
-    oldFile: null
-  /docs/html/class_g_ctrl_progress_bar.html:
-    newFile: !uuid '0eaf61dc78d8362cac2aff72baabaf148828ebfe'
-    oldFile: null
-  /docs/html/class_g_ctrl_radio_button-members.html:
-    newFile: !uuid '54905c0263abf81c7adb92f13d5acb2dc737ca34'
-    oldFile: null
-  /docs/html/class_g_ctrl_radio_button.html:
-    newFile: !uuid '248982a60ae6c6b81da23e0bd8dbb43e520f2130'
-    oldFile: null
-  /docs/html/class_g_ctrl_radio_button_group-members.html:
-    newFile: !uuid '73dedfff56bf23a218e5897d5f6120f133d15728'
-    oldFile: null
-  /docs/html/class_g_ctrl_radio_button_group.html:
-    newFile: !uuid 'ce21fa7f008917da9b50e6005f7436826c75f2d4'
-    oldFile: null
-  /docs/html/class_g_ctrl_scroll_text-members.html:
-    newFile: !uuid '9e49aafdaef9267f6f2e475997005751ce5fd917'
-    oldFile: null
-  /docs/html/class_g_ctrl_scroll_text.html:
-    newFile: !uuid '1ee78b2e9e723b0c673efa18c0165a12d1e26140'
-    oldFile: null
-  /docs/html/class_g_ctrl_text-members.html:
-    newFile: !uuid 'ee4a2893f81e23dc556348995f11adb22054ccf0'
-    oldFile: null
-  /docs/html/class_g_ctrl_text.html:
-    newFile: !uuid 'dd315caf84669d133b4aab8a1db7fef3b167cb45'
-    oldFile: null
-  /docs/html/class_g_event-members.html:
-    newFile: !uuid '41fce5e3cacbd6fc7ed2cf0743b04f6cf5797834'
-    oldFile: null
-  /docs/html/class_g_event.html:
-    newFile: !uuid '7b94ecbb05a70c8196df2561d0669a78f21a2174'
-    oldFile: null
-  /docs/html/class_g_font-members.html:
-    newFile: !uuid 'b58bec0e9536273bed1b55ff846a1afb08600c1f'
-    oldFile: null
-  /docs/html/class_g_font.html:
-    newFile: !uuid 'e92616b0deea9cea11b1cc62f43a1170a93f331c'
-    oldFile: null
-  /docs/html/class_g_font_metrics-members.html:
-    newFile: !uuid 'ac876449b93933b289ef7d2c4ad0f14ce0fcd996'
-    oldFile: null
-  /docs/html/class_g_font_metrics.html:
-    newFile: !uuid 'da18bbb63ecf8c7c5cf704d4ed549a06873ae396'
-    oldFile: null
-  /docs/html/class_g_gesture_scroll_event-members.html:
-    newFile: !uuid '7ea70923e7bfa0a550bba677782e687506ea3a37'
-    oldFile: null
-  /docs/html/class_g_gesture_scroll_event.html:
-    newFile: !uuid 'b4f5b156acde904ef881b6771833cea8c3ae969a'
-    oldFile: null
-  /docs/html/class_g_image-members.html:
-    newFile: !uuid 'd04c360f842978460b9675532aa549d98e414b27'
-    oldFile: null
-  /docs/html/class_g_image.html:
-    newFile: !uuid '97fee0f7275f73cd7121c53efe919b4c3413b96b'
-    oldFile: null
-  /docs/html/class_g_key_event-members.html:
-    newFile: !uuid '4c15cab05c49a7f98d80a1a1262e8d9b05712119'
-    oldFile: null
-  /docs/html/class_g_key_event.html:
-    newFile: !uuid '74a6967e951ec2b3c3a1e86249cd7753ec601f97'
-    oldFile: null
-  /docs/html/class_g_m_container_item-members.html:
-    newFile: !uuid 'f9bd94b50e6f06324fd9a202c7c2816c23b39723'
-    oldFile: null
-  /docs/html/class_g_m_container_item.html:
-    newFile: !uuid '5189e62fdb5833a99c0e44acbdc5bb76834d70f0'
-    oldFile: null
-  /docs/html/class_g_m_ctrl_item-members.html:
-    newFile: !uuid '3c3bc1719591a53ffb7fe8d2c05b7830dc4302b3'
-    oldFile: null
-  /docs/html/class_g_m_ctrl_item.html:
-    newFile: !uuid '4bf758c9353aee213375b52320b5bbfdd80a1808'
-    oldFile: null
-  /docs/html/class_g_m_image-members.html:
-    newFile: !uuid 'a304d6255ad678abdda5f9f8666ca3f06c28edf5'
-    oldFile: null
-  /docs/html/class_g_m_image.html:
-    newFile: !uuid 'e1f0b162a6ed611be3eac3fa6e7104985ed78035'
-    oldFile: null
-  /docs/html/class_g_m_item-members.html:
-    newFile: !uuid 'fb91daf621eced7c77b52888624c617c7a3d8be0'
-    oldFile: null
-  /docs/html/class_g_m_item.html:
-    newFile: !uuid '18a06e3c8244c1ae541f10c52352adec10f02570'
-    oldFile: null
-  /docs/html/class_g_m_pixmap-members.html:
-    newFile: !uuid '5a9e04b01be1df247f6fadddffb30b0337fe6e2a'
-    oldFile: null
-  /docs/html/class_g_m_pixmap.html:
-    newFile: !uuid 'f91fe9f0a4a1ba04a0ce447d15c3fc300a827f00'
-    oldFile: null
-  /docs/html/class_g_m_progress_bar-members.html:
-    newFile: !uuid '0c875220090f11cef6cd07780f585f64f9333391'
-    oldFile: null
-  /docs/html/class_g_m_progress_bar.html:
-    newFile: !uuid '0d6ae7fc6a7c795700c79fe73e17d57f3f7b248f'
-    oldFile: null
-  /docs/html/class_g_m_scroll_text-members.html:
-    newFile: !uuid 'e4521f9dbc6336a8213cb56c65589b33649f9ef7'
-    oldFile: null
-  /docs/html/class_g_m_scroll_text.html:
-    newFile: !uuid 'b47ca601e3ccc281a9bb08698322c44ebac45d86'
-    oldFile: null
-  /docs/html/class_g_m_text-members.html:
-    newFile: !uuid '1a62e13ba5e01b8a6de810aa0815ad8f0f8a195a'
-    oldFile: null
-  /docs/html/class_g_m_text.html:
-    newFile: !uuid '0ada1a3c20fa77a59a472a26eb1633e343601607'
-    oldFile: null
-  /docs/html/class_g_map-members.html:
-    newFile: !uuid '54e622a5aae378eccf56eefef2b2e42d368834cf'
-    oldFile: null
-  /docs/html/class_g_map.html:
-    newFile: !uuid 'd2741a672e33d1d8cf69d8964049e696040ec0a1'
-    oldFile: null
-  /docs/html/class_g_mouse_event-members.html:
-    newFile: !uuid '78ee13623b6425ee0ba9d3f9b4ecf3fabb8adb92'
-    oldFile: null
-  /docs/html/class_g_mouse_event.html:
-    newFile: !uuid 'e3120f190daa60da0a1e326acba26e9a8bb2059c'
-    oldFile: null
-  /docs/html/class_g_object-members.html:
-    newFile: !uuid '6363b048209795a00bc013fe351f872f340e6eef'
-    oldFile: null
-  /docs/html/class_g_object.html:
-    newFile: !uuid 'a7affb8a3d48684842d7bdd5eec8a69106ddc39a'
-    oldFile: null
-  /docs/html/class_g_paint_device-members.html:
-    newFile: !uuid '3acb6981bb070e75e5ef7ac5e40bd610516b804f'
-    oldFile: null
-  /docs/html/class_g_paint_device.html:
-    newFile: !uuid '25edb5bc0712110b64659cdfe720b87444010430'
-    oldFile: null
-  /docs/html/class_g_paint_event-members.html:
-    newFile: !uuid '594fc03d741dbbdf35d9394d153b9a6b2cdf80cb'
-    oldFile: null
-  /docs/html/class_g_paint_event.html:
-    newFile: !uuid 'ce863670112a407fe1c0aaed33460cd1859ebea7'
-    oldFile: null
-  /docs/html/class_g_painter-members.html:
-    newFile: !uuid '5f2cd02116029723b72e2a0b724bad72c31f225e'
-    oldFile: null
-  /docs/html/class_g_painter.html:
-    newFile: !uuid '5bb1f7c3968443ae323cd9a87eac83f86f972e9d'
-    oldFile: null
-  /docs/html/class_g_point-members.html:
-    newFile: !uuid '66024be57fb9e93f096fbe02295969900e64a087'
-    oldFile: null
-  /docs/html/class_g_point.html:
-    newFile: !uuid 'd4bbb6b177db50262e885180f008278894bdce7a'
-    oldFile: null
+    newFile: !uuid 'bea40754e6181e76c92ee48bd6eefc76d6c896e1'
+    oldFile: !uuid 'd33891a396c70a98fcfc37569682edb3d9b1ee5f'
   /docs/html/class_g_pointer-members.html:
-    newFile: !uuid '30f496eb1fa1f78e6a15dfed77a240a2e2789e68'
-    oldFile: null
+    newFile: null
+    oldFile: !uuid '30f496eb1fa1f78e6a15dfed77a240a2e2789e68'
   /docs/html/class_g_pointer.html:
-    newFile: !uuid '8a82685077edd5461f623d7dea991d16f2c754d1'
-    oldFile: null
+    newFile: null
+    oldFile: !uuid '8a82685077edd5461f623d7dea991d16f2c754d1'
   /docs/html/class_g_pointer_data-members.html:
-    newFile: !uuid '3da5c117c69911bbc8af89600da410aef5eacaca'
-    oldFile: null
+    newFile: null
+    oldFile: !uuid '3da5c117c69911bbc8af89600da410aef5eacaca'
   /docs/html/class_g_pointer_data.html:
-    newFile: !uuid '967171fdaaa788fcc577815705b7e268731f8d87'
-    oldFile: null
-  /docs/html/class_g_ptr_list-members.html:
-    newFile: !uuid '1ecb8a548a54d10b611050799516c11037fe2c8c'
-    oldFile: null
-  /docs/html/class_g_ptr_list.html:
-    newFile: !uuid '37dba207b9ea1f67d9a178f72f1ecd15bd88afd8'
-    oldFile: null
-  /docs/html/class_g_r_w_lock-members.html:
-    newFile: !uuid '94653f66015599fcaf8ab17a592ae0bd97c01422'
-    oldFile: null
-  /docs/html/class_g_r_w_lock.html:
-    newFile: !uuid 'df9e0bdf850bf71d93fb8a8d63a578f167acbcdf'
-    oldFile: null
-  /docs/html/class_g_rect-members.html:
-    newFile: !uuid '43d949448488bc5683376d6a710105a46a54cad0'
-    oldFile: null
-  /docs/html/class_g_rect.html:
-    newFile: !uuid '7d51524521824dd74f1f41c9023352ce59f5afbf'
-    oldFile: null
-  /docs/html/class_g_reg_exp-members.html:
-    newFile: !uuid '85fb53faf38b43e59232c1eb5cb962a4a5ec946b'
-    oldFile: null
-  /docs/html/class_g_reg_exp.html:
-    newFile: !uuid 'b70ce04103785983f91cfc30d75fed9abf33b0a2'
-    oldFile: null
-  /docs/html/class_g_region-members.html:
-    newFile: !uuid '7a5731eca931499a6411bc1b2e5bdc5429b326d9'
-    oldFile: null
-  /docs/html/class_g_region.html:
-    newFile: !uuid 'f6a3916b2faaddd4b5783c175c91cad9d44a5b4e'
-    oldFile: null
-  /docs/html/class_g_shared_data-members.html:
-    newFile: !uuid '9b1a34f32c71cd2599d15978cd46679371231844'
-    oldFile: null
-  /docs/html/class_g_shared_data.html:
-    newFile: !uuid '784cc28938044c71cf64c1f7ab07510a19e694a4'
-    oldFile: null
-  /docs/html/class_g_signal.html:
-    newFile: !uuid '1bf57047ad9db94324721c4b65bc8634d5b08d0f'
-    oldFile: null
-  /docs/html/class_g_signal_3_01_ret_07_args_8_8_8_08_4-members.html:
-    newFile: !uuid '7dfe5640ef46cd246162ddb727a3ff52e8fbcc61'
-    oldFile: null
-  /docs/html/class_g_signal_3_01_ret_07_args_8_8_8_08_4.html:
-    newFile: !uuid 'dfbf8e6d23cd9ae462105ad047799b2d74090664'
-    oldFile: null
-  /docs/html/class_g_size-members.html:
-    newFile: !uuid '6f9689597f8252641a844c20f7aaab7e0bce91a7'
-    oldFile: null
-  /docs/html/class_g_size.html:
-    newFile: !uuid '86df0949de226de03cd69dff758ca2cf4543d384'
-    oldFile: null
-  /docs/html/class_g_slot-members.html:
-    newFile: !uuid '0f8731771ceb4ec81c9c2359fcbe722256753b3d'
-    oldFile: null
-  /docs/html/class_g_slot.html:
-    newFile: !uuid 'a1a59370d6026ceffc68de409c3134ab714204c5'
-    oldFile: null
-  /docs/html/class_g_slot_a_p_i.html:
-    newFile: !uuid '3e081bbe672ffc200870895e6e9351b5d0478e57'
-    oldFile: null
-  /docs/html/class_g_slot_a_p_i_3_01_ret_07_args_8_8_8_08_4-members.html:
-    newFile: !uuid 'dede4c161d8d000401ed2505549e905efbafd55c'
-    oldFile: null
-  /docs/html/class_g_slot_a_p_i_3_01_ret_07_args_8_8_8_08_4.html:
-    newFile: !uuid 'd2995d956e8036003d7bfdc04039fbd7865a8c04'
-    oldFile: null
-  /docs/html/class_g_slot_cpp.html:
-    newFile: !uuid 'b6d8c748851fe95c1358720a554205231fd69f0c'
-    oldFile: null
-  /docs/html/class_g_slot_cpp_3_01_receiver_00_01_ret_07_args_8_8_8_08_4-members.html:
-    newFile: !uuid '917a02ed5d0e04705d77c386686826000039db1b'
-    oldFile: null
-  /docs/html/class_g_slot_cpp_3_01_receiver_00_01_ret_07_args_8_8_8_08_4.html:
-    newFile: !uuid 'fa777757fe1b9ba2aa918200dd9446285d5e7e7d'
-    oldFile: null
-  /docs/html/class_g_socket_interface-members.html:
-    newFile: !uuid '51f4cfd44edc2118dfd36f61a1b42940cdc75ccf'
-    oldFile: null
-  /docs/html/class_g_socket_interface.html:
-    newFile: !uuid '24f343a407fc5efb5212057e7f1709bed725b2c4'
-    oldFile: null
-  /docs/html/class_g_string-members.html:
-    newFile: !uuid '4ad6c9d8f0149e641a66aacc28330f8b191e58b4'
-    oldFile: null
-  /docs/html/class_g_string.html:
-    newFile: !uuid 'd78932a88eaaf78b98f9abd845c9082ffd0755f3'
-    oldFile: null
-  /docs/html/class_g_swipe_event-members.html:
-    newFile: !uuid 'cbb88fcdd3933bfe0c7075c57352a3ac0b092097'
-    oldFile: null
-  /docs/html/class_g_swipe_event.html:
-    newFile: !uuid '31f87d58e44e8fd20f39b6331f7e611406042fd0'
-    oldFile: null
-  /docs/html/class_g_tap_event-members.html:
-    newFile: !uuid '0f1d58c544d1f42575755a5c4b89673a57ff10f7'
-    oldFile: null
-  /docs/html/class_g_tap_event.html:
-    newFile: !uuid 'fe37b84883bcfbba60ea5920e79cf300f92b47df'
-    oldFile: null
-  /docs/html/class_g_tcp_server-members.html:
-    newFile: !uuid '32e49ce8cfde89f240f48c43b935c0f600ee47c1'
-    oldFile: null
-  /docs/html/class_g_tcp_server.html:
-    newFile: !uuid '19613f1650c44b556f5f958959f2ba127d6687b5'
-    oldFile: null
-  /docs/html/class_g_tcp_socket-members.html:
-    newFile: !uuid '541cc4eeef96bb2bf8b5e868585965ddaec7b12c'
-    oldFile: null
-  /docs/html/class_g_tcp_socket.html:
-    newFile: !uuid '9b38d51952f267d12f342953f62ffc3af2523488'
-    oldFile: null
-  /docs/html/class_g_timer-members.html:
-    newFile: !uuid '0e3bd1c02280ccd5bd201310bd145abba4e7a560'
-    oldFile: null
-  /docs/html/class_g_timer.html:
-    newFile: !uuid 'fdf62a5acc667e399329f32d285b2685cb9e5ca0'
-    oldFile: null
-  /docs/html/class_g_u_i_evt_loop-members.html:
-    newFile: !uuid 'c69521d09568be4b38535a158955c233afc8c140'
-    oldFile: null
-  /docs/html/class_g_u_i_evt_loop.html:
-    newFile: !uuid 'd6124d07e20f57b1cc12bc1590dfcb6d2bb59fe4'
-    oldFile: null
-  /docs/html/class_g_udp_socket-members.html:
-    newFile: !uuid '4f707b909c113edc768cc4ab27f338b02beba354'
-    oldFile: null
-  /docs/html/class_g_udp_socket.html:
-    newFile: !uuid 'f26f0f30d22f96054c7582a400a0563dfd4c44b0'
-    oldFile: null
-  /docs/html/classes.html:
-    newFile: !uuid '7e7e22f2a887a90c4a149c3f97c5833906f9a20d'
-    oldFile: null
-  /docs/html/closed.png:
-    newFile: !uuid '98cc2c909da37a6df914fbf67780eebd99c597f5'
-    oldFile: null
-  /docs/html/config__giveda_8h.html:
-    newFile: !uuid '6722ce6ed1886e2d9d42b764c995a3412907e6f6'
-    oldFile: null
+    newFile: null
+    oldFile: !uuid '967171fdaaa788fcc577815705b7e268731f8d87'
   /docs/html/dir_19ea4dbfe8f0e4681f60b9b97f7b5d11.html:
-    newFile: !uuid 'f705d7343d288a4605985e1a6da9fc6211b243d1'
-    oldFile: null
-  /docs/html/dir_54a45bff04d594a507c22b3bfeedac00.html:
-    newFile: !uuid '5cfa5feeef927223cdd04cda7816103cef966166'
-    oldFile: null
-  /docs/html/doxygen.css:
-    newFile: !uuid 'f0f36f89f58f4aaf380c768f6f8d3020e225ec58'
-    oldFile: null
-  /docs/html/doxygen.png:
-    newFile: !uuid '3ff17d807fd8aa003bed8bb2a69e8f0909592fd1'
-    oldFile: null
-  /docs/html/dynsections.js:
-    newFile: !uuid 'ed092c7f63048744a471efe72517e5b1af0613aa'
-    oldFile: null
+    newFile: !uuid 'b328cfc9ea220130c10d223d98a022941cdb19dd'
+    oldFile: !uuid 'f705d7343d288a4605985e1a6da9fc6211b243d1'
   /docs/html/files.html:
-    newFile: !uuid '35a82026c21b9fbafc8e46a9b598e5e97d16d1d1'
-    oldFile: null
-  /docs/html/ftv2blank.png:
-    newFile: !uuid '63c605bb4c3d941c921a4b6cfa74951e946bcb48'
-    oldFile: null
-  /docs/html/ftv2cl.png:
-    newFile: !uuid '132f6577bf7f085344904602815a260d29f55d9b'
-    oldFile: null
-  /docs/html/ftv2doc.png:
-    newFile: !uuid '17edabff95f7b8da13c9516a04efe05493c29501'
-    oldFile: null
-  /docs/html/ftv2folderclosed.png:
-    newFile: !uuid 'bb8ab35edce8e97554e360005ee9fc5bffb36e66'
-    oldFile: null
-  /docs/html/ftv2folderopen.png:
-    newFile: !uuid 'd6c7f676a3b3ef8c2c307d319dff3c6a604eb227'
-    oldFile: null
-  /docs/html/ftv2lastnode.png:
-    newFile: !uuid '63c605bb4c3d941c921a4b6cfa74951e946bcb48'
-    oldFile: null
-  /docs/html/ftv2link.png:
-    newFile: !uuid '17edabff95f7b8da13c9516a04efe05493c29501'
-    oldFile: null
-  /docs/html/ftv2mlastnode.png:
-    newFile: !uuid '0b63f6d38c4b9ec907b820192ebe9724ed6eca22'
-    oldFile: null
-  /docs/html/ftv2mnode.png:
-    newFile: !uuid '0b63f6d38c4b9ec907b820192ebe9724ed6eca22'
-    oldFile: null
-  /docs/html/ftv2mo.png:
-    newFile: !uuid '4bfb80f76e65815989a9350ad79d8ce45380e2b1'
-    oldFile: null
-  /docs/html/ftv2node.png:
-    newFile: !uuid '63c605bb4c3d941c921a4b6cfa74951e946bcb48'
-    oldFile: null
-  /docs/html/ftv2ns.png:
-    newFile: !uuid '72e3d71c2892d6f00e259facebc88b45f6db2e35'
-    oldFile: null
-  /docs/html/ftv2plastnode.png:
-    newFile: !uuid 'c6ee22f937a07d1dbfc27c669d11f8ed13e2f152'
-    oldFile: null
-  /docs/html/ftv2pnode.png:
-    newFile: !uuid 'c6ee22f937a07d1dbfc27c669d11f8ed13e2f152'
-    oldFile: null
-  /docs/html/ftv2splitbar.png:
-    newFile: !uuid 'fe895f2c58179b471a22d8320b39a4bd7312ec8e'
-    oldFile: null
-  /docs/html/ftv2vertline.png:
-    newFile: !uuid '63c605bb4c3d941c921a4b6cfa74951e946bcb48'
-    oldFile: null
-  /docs/html/functions.html:
-    newFile: !uuid '62c0c163294237b3cae67850b6ce19664fa0ade2'
-    oldFile: null
-  /docs/html/functions_a.html:
-    newFile: !uuid 'dd3c82195e2519839acd47626e74fa5f22b6fc5e'
-    oldFile: null
-  /docs/html/functions_b.html:
-    newFile: !uuid '9405362b6f792645ff94af0a945fd5948965a342'
-    oldFile: null
-  /docs/html/functions_c.html:
-    newFile: !uuid 'c911411e7e68d5490b4974602d73979cec948133'
-    oldFile: null
-  /docs/html/functions_d.html:
-    newFile: !uuid '719a4eb24cd118cd175c41715a29d91551f4b4e1'
-    oldFile: null
-  /docs/html/functions_e.html:
-    newFile: !uuid '17a855ccf1ffe8c531038c12a9e4d2e4d26b12d5'
-    oldFile: null
-  /docs/html/functions_enum.html:
-    newFile: !uuid 'e73bfb24ceab4f4685ef88aa009af3965a15f7a3'
-    oldFile: null
-  /docs/html/functions_eval.html:
-    newFile: !uuid '5c017dbb7ed88f63a5c0e4e7b55ac2f6bd163f20'
-    oldFile: null
-  /docs/html/functions_f.html:
-    newFile: !uuid 'd31a5e5e12787f13e8352b2254722372df08afd4'
-    oldFile: null
-  /docs/html/functions_func.html:
-    newFile: !uuid 'f71f11f77e5cab4578f5928b3ab6ce77a64eb431'
-    oldFile: null
-  /docs/html/functions_func_b.html:
-    newFile: !uuid '6f313e23f52f9403a1e1cd5c1588f932bfe87c4a'
-    oldFile: null
-  /docs/html/functions_func_c.html:
-    newFile: !uuid '31d37be2bade66060579e9173f655f902c42908e'
-    oldFile: null
-  /docs/html/functions_func_d.html:
-    newFile: !uuid '026acae058e49c755f80e2403e23fbd585ae3d9a'
-    oldFile: null
-  /docs/html/functions_func_e.html:
-    newFile: !uuid 'd4282a89a108d017175d91506e38c3c2ad7bfb4a'
-    oldFile: null
-  /docs/html/functions_func_f.html:
-    newFile: !uuid '525e73243560be37bd3ee8abe91a7b9259333707'
-    oldFile: null
-  /docs/html/functions_func_g.html:
-    newFile: !uuid '4047eee2bdd6a43e0a3d430358bd42749325a676'
-    oldFile: null
-  /docs/html/functions_func_h.html:
-    newFile: !uuid 'f09df32ac59edcfba4d74be0127d78d7c736fd6b'
-    oldFile: null
-  /docs/html/functions_func_i.html:
-    newFile: !uuid 'b8ecf8cc2179c6be064cfbc28d2e22a2da293367'
-    oldFile: null
-  /docs/html/functions_func_k.html:
-    newFile: !uuid '21129ff3a27b70eb24e6f571c6523d840d3b2895'
-    oldFile: null
-  /docs/html/functions_func_l.html:
-    newFile: !uuid '075ac3de57f1a064cad6847702ab551e4a1caabc'
-    oldFile: null
-  /docs/html/functions_func_m.html:
-    newFile: !uuid 'bf9d00cc57b4d26aaf6236588bc65eb959676cea'
-    oldFile: null
-  /docs/html/functions_func_n.html:
-    newFile: !uuid '31ef3139e258a71329380d227a27e1aad31705a9'
-    oldFile: null
-  /docs/html/functions_func_o.html:
-    newFile: !uuid 'b323aee8f9387b6ff525a482d276d20272fa5084'
-    oldFile: null
-  /docs/html/functions_func_p.html:
-    newFile: !uuid '7129208f679da192b900356f50265fe390be1711'
-    oldFile: null
-  /docs/html/functions_func_q.html:
-    newFile: !uuid '33316ae999b91c4288944e7101023da9399ba2b4'
-    oldFile: null
-  /docs/html/functions_func_r.html:
-    newFile: !uuid 'c7cf67d064bb3c44b38fe41193ddd108a56b001a'
-    oldFile: null
-  /docs/html/functions_func_s.html:
-    newFile: !uuid '4e96ce3674ea28f1602d0c044498c7d7a59ecc72'
-    oldFile: null
-  /docs/html/functions_func_t.html:
-    newFile: !uuid '444e766f6d83d6b09feabe0b8b6458cb013b3546'
-    oldFile: null
-  /docs/html/functions_func_u.html:
-    newFile: !uuid '8b5f5ba45e043a0a5a674a6c65d07bd3a0b51f6f'
-    oldFile: null
-  /docs/html/functions_func_w.html:
-    newFile: !uuid 'bc3f44489b58a8c5f5cafad41a2b4b1eaf4c09bb'
-    oldFile: null
-  /docs/html/functions_func_x.html:
-    newFile: !uuid '2e979f81a0c43fd077d5e38f167875310b5174a6'
-    oldFile: null
-  /docs/html/functions_func_y.html:
-    newFile: !uuid 'aea797eb5140b4b46e2576d12a122fe66e9d4f03'
-    oldFile: null
-  /docs/html/functions_func_z.html:
-    newFile: !uuid '53e32e9e793c29e013c68a48c9e6e353ede13c71'
-    oldFile: null
-  /docs/html/functions_func_~.html:
-    newFile: !uuid 'c9a003941a01c92491ed185681693b4638399da6'
-    oldFile: null
-  /docs/html/functions_g.html:
-    newFile: !uuid 'cc24c6f8f1ef75870fb1ed305d8f2e4173829fb0'
-    oldFile: null
-  /docs/html/functions_h.html:
-    newFile: !uuid 'a930bdfb48179480bded8714b6e7e4f093620363'
-    oldFile: null
-  /docs/html/functions_i.html:
-    newFile: !uuid '5a99ff42a86ca04b79a1f106a5bb5ed60b7e8014'
-    oldFile: null
-  /docs/html/functions_k.html:
-    newFile: !uuid 'f3adf81f7adc23edc661faf6ba92bcd8c395d965'
-    oldFile: null
-  /docs/html/functions_l.html:
-    newFile: !uuid '3f5238334bcd21d1ad6ab5d8eb267e5ececd2036'
-    oldFile: null
-  /docs/html/functions_m.html:
-    newFile: !uuid '78b61fa886caf59aeb3d8ffaf5ce7af1b0ac5035'
-    oldFile: null
-  /docs/html/functions_n.html:
-    newFile: !uuid 'b07f263c9816d13bfafa1f153beb8395002c2f26'
-    oldFile: null
-  /docs/html/functions_o.html:
-    newFile: !uuid 'd7ddf94549da6fd4ac23cfac2edc17c7fb68a1b9'
-    oldFile: null
-  /docs/html/functions_p.html:
-    newFile: !uuid '700e05439a0aa742492071260bf76425592c5657'
-    oldFile: null
-  /docs/html/functions_q.html:
-    newFile: !uuid '10a56bdc6d8325aebdea79159616de42fa77ff96'
-    oldFile: null
-  /docs/html/functions_r.html:
-    newFile: !uuid 'df9a4690d38f7d0a8ef046509bb46505d71e69f4'
-    oldFile: null
-  /docs/html/functions_rela.html:
-    newFile: !uuid 'b241c7f0b7a686e44c3e443e2976df32507a13a4'
-    oldFile: null
-  /docs/html/functions_s.html:
-    newFile: !uuid '58623c4a7ba0257cfac886ca1d4a42500fec6214'
-    oldFile: null
-  /docs/html/functions_t.html:
-    newFile: !uuid '11c19b859a1e67c997efb1c6f23df2f82f89eb00'
-    oldFile: null
-  /docs/html/functions_type.html:
-    newFile: !uuid 'fb38bc585d6efa9155d657484193de2a43a0ab3b'
-    oldFile: null
-  /docs/html/functions_u.html:
-    newFile: !uuid 'b3b77584fa5d421ac5cb78b6d4d98195289c2792'
-    oldFile: null
-  /docs/html/functions_vars.html:
-    newFile: !uuid '79aca3b41655336cc523b6854ff344f694092e32'
-    oldFile: null
-  /docs/html/functions_w.html:
-    newFile: !uuid '42ee33675a58ca77f9c2a1e65b1df20c050d78ee'
-    oldFile: null
-  /docs/html/functions_x.html:
-    newFile: !uuid '507435c93920e103bdf89e51e31f6760bdeda85c'
-    oldFile: null
-  /docs/html/functions_y.html:
-    newFile: !uuid 'f26ea231a156f9d7f7306f41fd9519f88b1c0533'
-    oldFile: null
-  /docs/html/functions_z.html:
-    newFile: !uuid 'fce61db4bc3f491049dfca9cee0157cb14808225'
-    oldFile: null
-  /docs/html/functions_~.html:
-    newFile: !uuid '4a4d3c22138433ffbb128048c5f39e516a366fff'
-    oldFile: null
-  /docs/html/g_brush_8h.html:
-    newFile: !uuid 'adc612351d6a54d04f8f1aeb9f72bd82660314ee'
-    oldFile: null
-  /docs/html/g_color_8h.html:
-    newFile: !uuid '89788ca9de6d0c2bece6340dcd597a3a16aa164c'
-    oldFile: null
-  /docs/html/g_const_define_8h.html:
-    newFile: !uuid 'f5d657e31c2bfbe7b16a2f854c7a35e70a3285a0'
-    oldFile: null
-  /docs/html/g_ctrl_button_8h.html:
-    newFile: !uuid '27dcf88653a0d59a6d285eeffc4d64acbb464bec'
-    oldFile: null
-  /docs/html/g_ctrl_dll_sym_8h.html:
-    newFile: !uuid 'be8244912ec1d87440d59f5c767aee1d67a6ab83'
-    oldFile: null
-  /docs/html/g_ctrl_form_8h.html:
-    newFile: !uuid 'db321ebe72fb409b1491397f2d3ece74508fddb8'
-    oldFile: null
-  /docs/html/g_ctrl_item_8h.html:
-    newFile: !uuid 'a0f56e0ba2b950bb7d049d3a98b7a4eefcb00ae8'
-    oldFile: null
-  /docs/html/g_ctrl_line_edit_8h.html:
-    newFile: !uuid '042828edc1eb02c5917184d703ca416bc5dbcad0'
-    oldFile: null
-  /docs/html/g_ctrl_list_box_8h.html:
-    newFile: !uuid '8b5ca159383fa655531aa968f69531f549f972d5'
-    oldFile: null
-  /docs/html/g_ctrl_msg_box_8h.html:
-    newFile: !uuid 'e5fdecc366ee8ad2dfe0e5083ca92f9d90d9bab9'
-    oldFile: null
-  /docs/html/g_ctrl_progress_bar_8h.html:
-    newFile: !uuid '18788a498b311de66cc48ed0023b7471849cf800'
-    oldFile: null
-  /docs/html/g_ctrl_radio_button_group_8h.html:
-    newFile: !uuid '1d832e9b16de2c3752c78f202a0acc639c54b5e7'
-    oldFile: null
-  /docs/html/g_event_8h.html:
-    newFile: !uuid '49fba326cee93623f3818294fab04a762f202012'
-    oldFile: null
-  /docs/html/g_font_8h.html:
-    newFile: !uuid 'fe125ff312b8d6256487748d4cbae5c80db87cfd'
-    oldFile: null
-  /docs/html/g_font_metrics_8h.html:
-    newFile: !uuid '2d9a61fa0540a00c546dd5c139d03d90148352f7'
-    oldFile: null
-  /docs/html/g_global_8h.html:
-    newFile: !uuid '7564b3f4025612fc3371a39af8292fa708c3f6e8'
-    oldFile: null
-  /docs/html/g_image_8h.html:
-    newFile: !uuid '9bbf98e7984e890a783a069021b27e4f72b11c6d'
-    oldFile: null
-  /docs/html/g_image_attr_8h.html:
-    newFile: !uuid '0caf6ea00fc6c616631f952ccee1886af3851c86'
-    oldFile: null
-  /docs/html/g_m_item_8h.html:
-    newFile: !uuid '5932f2139aba3003a8c90008018b81efc376dae4'
-    oldFile: null
-  /docs/html/g_map_8h.html:
-    newFile: !uuid 'fa241fe7a6393c718ea9a1c87a55282ea217d300'
-    oldFile: null
-  /docs/html/g_object_8h.html:
-    newFile: !uuid '46af2d7a5fa5782597542ba5cad2d9fa0bbdb791'
-    oldFile: null
-  /docs/html/g_object__cpp11_8h.html:
-    newFile: !uuid '651b00f2f5e7e275ceae848a1e18a18441b51bf2'
-    oldFile: null
-  /docs/html/g_paint_device_8h.html:
-    newFile: !uuid '62dad44d249cb7f678185cb2240d17b702ae736f'
-    oldFile: null
-  /docs/html/g_painter_8h.html:
-    newFile: !uuid '0e42531e18fda80df618473b225f6ad65878a248'
-    oldFile: null
-  /docs/html/g_point_8h.html:
-    newFile: !uuid 'a838e732c01cf87c962a0bdc368b7ecc80779266'
-    oldFile: null
+    newFile: !uuid '9f1e053196ec8dcd65a53abb4e6af0b240b01dac'
+    oldFile: !uuid '35a82026c21b9fbafc8e46a9b598e5e97d16d1d1'
   /docs/html/g_pointer_8h.html:
-    newFile: !uuid 'ad468c1240a371bcc5bdbae7ad08ca9b097f53dd'
-    oldFile: null
-  /docs/html/g_ptr_list_8h.html:
-    newFile: !uuid '68e77d2897582609a4f43f58d165351ad03a1dcb'
-    oldFile: null
-  /docs/html/g_rect_8h.html:
-    newFile: !uuid 'fc92ffe4f1cdbd48217f85c804f306539c057b36'
-    oldFile: null
-  /docs/html/g_reg_exp_8h.html:
-    newFile: !uuid '242b421b5aa088ad11b525a6a6c0556526eff2ef'
-    oldFile: null
-  /docs/html/g_region_8h.html:
-    newFile: !uuid '9f51fa3efc6d394845ac930c6042228ea143cbcf'
-    oldFile: null
-  /docs/html/g_rw_lock_8h.html:
-    newFile: !uuid '8ec3ade9140b4b6ff6c4257771d0b2f5d478e815'
-    oldFile: null
-  /docs/html/g_shared_data_8h.html:
-    newFile: !uuid 'fd638347c05e0141e9a7522101cd3cfef4995cbe'
-    oldFile: null
-  /docs/html/g_size_8h.html:
-    newFile: !uuid '6c3eb43c7bf6f792a0309c0066548f2fc376536a'
-    oldFile: null
-  /docs/html/g_socket_interface_8h.html:
-    newFile: !uuid '73cd213ed334faef4aeec4e3d5d4c0cf801ba28a'
-    oldFile: null
-  /docs/html/g_string_8h.html:
-    newFile: !uuid '88ba3f1a1422e9109557fe38216b99ba2d545364'
-    oldFile: null
-  /docs/html/g_tcp_server_8h.html:
-    newFile: !uuid 'f55157711e115b6929bfd6c74453b2d996f9e188'
-    oldFile: null
-  /docs/html/g_tcp_socket_8h.html:
-    newFile: !uuid 'a35cecdadfeb5c2161ad7cf7800b1d3f8cc59004'
-    oldFile: null
-  /docs/html/g_timer_8h.html:
-    newFile: !uuid '16852d3321f592a38666ce291e32a44c1594665d'
-    oldFile: null
-  /docs/html/g_u_i_event_8h.html:
-    newFile: !uuid '5f6962df6ff1759ac5618cf82262e0d684b2a039'
-    oldFile: null
-  /docs/html/g_u_i_evt_loop_8h.html:
-    newFile: !uuid '34084b34a6396669c9f35c1ed32d9c5783cd724e'
-    oldFile: null
-  /docs/html/g_udp_socket_8h.html:
-    newFile: !uuid '154efbff72b663b60b9cc7f484cc2aa6aecceb4e'
-    oldFile: null
-  /docs/html/globals.html:
-    newFile: !uuid '20710b6f6313b526c34cc1518ab4eb7bb3159617'
-    oldFile: null
-  /docs/html/globals_defs.html:
-    newFile: !uuid '6cd67ee4449207f577c4367b4a201b2a76facab7'
-    oldFile: null
-  /docs/html/globals_enum.html:
-    newFile: !uuid '532bf4cf4fffb66a88f55ebf1659144dc3bb8826'
-    oldFile: null
-  /docs/html/globals_eval.html:
-    newFile: !uuid '0203b45351304bf3d87e7896320163ff16c82efa'
-    oldFile: null
-  /docs/html/globals_func.html:
-    newFile: !uuid '739b9edc890a2a7f345eb4b06bba1301618adf8b'
-    oldFile: null
-  /docs/html/globals_type.html:
-    newFile: !uuid '5f34ca9f0c79595209f6d1ab2cc0ecf6f3b3d347'
-    oldFile: null
-  /docs/html/globals_vars.html:
-    newFile: !uuid '1c2b133ae17a22b5f46fb78091cf0d25bd7c657a'
-    oldFile: null
-  /docs/html/hello__world_8cpp.html:
-    newFile: !uuid 'b14566347caa0f907eaf442af7e678ae4e043a4f'
-    oldFile: null
+    newFile: null
+    oldFile: !uuid 'ad468c1240a371bcc5bdbae7ad08ca9b097f53dd'
   /docs/html/hierarchy.html:
-    newFile: !uuid '5c3d3c9948cbd9d9e7c56bba9e34841e13b254bb'
-    oldFile: null
+    newFile: !uuid '3a1e36c9658a77ba127c2efaf35037880d1b520d'
+    oldFile: !uuid '5c3d3c9948cbd9d9e7c56bba9e34841e13b254bb'
   /docs/html/index.html:
-    newFile: !uuid '1a00ff3130dfc82458a502a567bdd1e50789037f'
-    oldFile: null
-  /docs/html/jquery.js:
-    newFile: !uuid 'c197801c5d09142d613efbe76da07053cb18048c'
-    oldFile: null
-  /docs/html/logo.png:
-    newFile: !uuid 'f6e403fbae28a8e7dccca95ad0c219d34a5b3e35'
-    oldFile: null
-  /docs/html/namespace_giveda.html:
-    newFile: !uuid 'e5090e03ec2d0d18b80862fd8b8ab0b6f5812ca9'
-    oldFile: null
-  /docs/html/namespacemembers.html:
-    newFile: !uuid 'c18bead7a2e8648d080aac2d60d4d82388e95da8'
-    oldFile: null
-  /docs/html/namespacemembers_enum.html:
-    newFile: !uuid 'c13b2f749f9f421b3ad68d1df50d34c4863d1df1'
-    oldFile: null
-  /docs/html/namespacemembers_eval.html:
-    newFile: !uuid '9ac72b792c2816fd2bfd4fb549e262e6d78c3277'
-    oldFile: null
-  /docs/html/namespaces.html:
-    newFile: !uuid '48d0abc119cc1f1d61e9890dd5c24e75fdcc55c8'
-    oldFile: null
-  /docs/html/nav_f.png:
-    newFile: !uuid '72a58a529ed3a9ed6aa0c51a79cf207e026deee2'
-    oldFile: null
-  /docs/html/nav_g.png:
-    newFile: !uuid '2093a237a94f6c83e19ec6e5fd42f7ddabdafa81'
-    oldFile: null
-  /docs/html/nav_h.png:
-    newFile: !uuid '33389b101d9cd9b4c98ad286b5d9c46a6671f650'
-    oldFile: null
-  /docs/html/open.png:
-    newFile: !uuid '30f75c7efe2dd0c9e956e35b69777a02751f048b'
-    oldFile: null
-  /docs/html/search:
-    newFile: !uuid 'bdf13abc2c6b16eac714bcd5f941f5f38bd97af8'
-    oldFile: null
-  /docs/html/search/all_0.html:
-    newFile: !uuid '0c2d2c2332b1fc150b8ef837f12b81c75a73c638'
-    oldFile: null
-  /docs/html/search/all_0.js:
-    newFile: !uuid 'e8f9c3ca1856b5a8b05cf6d2012e77105b2599a9'
-    oldFile: null
-  /docs/html/search/all_1.html:
-    newFile: !uuid '28bd53c2b43b68d2403282a82182d0b7d49ca554'
-    oldFile: null
-  /docs/html/search/all_1.js:
-    newFile: !uuid '218355c515e8a2a6527d51c3e147781046d4518e'
-    oldFile: null
-  /docs/html/search/all_10.html:
-    newFile: !uuid 'abc8c15fe38d32714a98bea0a310c1cc3e8270dc'
-    oldFile: null
-  /docs/html/search/all_10.js:
-    newFile: !uuid '09c8b6ce9f2c28afc2d112eae7e98a66d55c351e'
-    oldFile: null
-  /docs/html/search/all_11.html:
-    newFile: !uuid '078c8da338eb2b957a48caea2af77ce82d2449a1'
-    oldFile: null
-  /docs/html/search/all_11.js:
-    newFile: !uuid '1e815896be4b1fc57007246fbbd11bda4883af65'
-    oldFile: null
-  /docs/html/search/all_12.html:
-    newFile: !uuid 'bc9ee6ef29619b7f17df88b6205f3b90f9677874'
-    oldFile: null
-  /docs/html/search/all_12.js:
-    newFile: !uuid '9701b446a9a88c0c8b398d690a1f4d69e12a2fbc'
-    oldFile: null
-  /docs/html/search/all_13.html:
-    newFile: !uuid '0d7bc04fbf31058b1cf836f3d30f0327f65efdb2'
-    oldFile: null
-  /docs/html/search/all_13.js:
-    newFile: !uuid '330e38fd5db144c33f64b81e47e8ae3b905d91d4'
-    oldFile: null
-  /docs/html/search/all_14.html:
-    newFile: !uuid '94cd4a47b40b33f659deb22260fa73631e7e1dfa'
-    oldFile: null
-  /docs/html/search/all_14.js:
-    newFile: !uuid '9846a51ab7c00c25df31affc26a80bb76df2beb3'
-    oldFile: null
-  /docs/html/search/all_15.html:
-    newFile: !uuid 'ba7f170722466ae351c45e33440216cb8ab0c380'
-    oldFile: null
-  /docs/html/search/all_15.js:
-    newFile: !uuid '369bc1323b5b84dbd9ea485cca9ef8fe214e1ee0'
-    oldFile: null
-  /docs/html/search/all_16.html:
-    newFile: !uuid 'a99782a83aa4b4e02e1e5bc3c98c4e7c3b69c2c8'
-    oldFile: null
-  /docs/html/search/all_16.js:
-    newFile: !uuid '0fd5aec034e0a2ce5b516b9e44fb8d725a96c6ff'
-    oldFile: null
-  /docs/html/search/all_17.html:
-    newFile: !uuid 'f6af226eee66dd5531496039c5e39b454814d1bb'
-    oldFile: null
-  /docs/html/search/all_17.js:
-    newFile: !uuid '4f690fbe03b1500e23d9c40e07e63c54f6803277'
-    oldFile: null
-  /docs/html/search/all_18.html:
-    newFile: !uuid 'da336387e5fcf88dd2a77d32e466e2e5cb829d4d'
-    oldFile: null
-  /docs/html/search/all_18.js:
-    newFile: !uuid 'f7e2910b2280135a4df292e1e3ce501494d1e27a'
-    oldFile: null
-  /docs/html/search/all_19.html:
-    newFile: !uuid '496ce3c89c7ec867e334d9a1de2010d4a8a98fb4'
-    oldFile: null
-  /docs/html/search/all_19.js:
-    newFile: !uuid '01f513558078db4b7a34a9e6f8307409a513e631'
-    oldFile: null
-  /docs/html/search/all_2.html:
-    newFile: !uuid '432cd6a80306656743e487adcae7eabee204e5e3'
-    oldFile: null
-  /docs/html/search/all_2.js:
-    newFile: !uuid '7e54153022abf6d65c07458cd8e528d3909078ba'
-    oldFile: null
-  /docs/html/search/all_3.html:
-    newFile: !uuid 'e24ec96f02f9e711221992747a32ab5822221e34'
-    oldFile: null
-  /docs/html/search/all_3.js:
-    newFile: !uuid '0b51f3bf66dca9e0e4e08e5fd789181b8a0de6c7'
-    oldFile: null
-  /docs/html/search/all_4.html:
-    newFile: !uuid '73c3f3bade31633fb1e1669d46f614c9f69e52d7'
-    oldFile: null
-  /docs/html/search/all_4.js:
-    newFile: !uuid '996af8a107bbeb77553123a006a4ea52057510f0'
-    oldFile: null
-  /docs/html/search/all_5.html:
-    newFile: !uuid 'babcff54e734835e2d16bce3f8012e7a895ba34b'
-    oldFile: null
-  /docs/html/search/all_5.js:
-    newFile: !uuid '22a320bf433c26f76c050e0b4188c21ed010ea15'
-    oldFile: null
-  /docs/html/search/all_6.html:
-    newFile: !uuid '51a5787c14e8779de7d43d7dbb816722814ed51d'
-    oldFile: null
-  /docs/html/search/all_6.js:
-    newFile: !uuid '923ee1a41ac99edb199dc3b8b309c58a4e132374'
-    oldFile: null
-  /docs/html/search/all_7.html:
-    newFile: !uuid 'cabde7e3b18f3522614aae88877086a159cc573b'
-    oldFile: null
-  /docs/html/search/all_7.js:
-    newFile: !uuid '014bf8bf9b186d190e79f194391187a0b67bc8b8'
-    oldFile: null
-  /docs/html/search/all_8.html:
-    newFile: !uuid '06d3c19693e1402ba93d9814b01faac55a5ae742'
-    oldFile: null
-  /docs/html/search/all_8.js:
-    newFile: !uuid 'a76f963b84aa7203305d27d70e0a7b994bae133f'
-    oldFile: null
-  /docs/html/search/all_9.html:
-    newFile: !uuid 'da76072357f39bc424f72286725ca5dcd813ee1e'
-    oldFile: null
-  /docs/html/search/all_9.js:
-    newFile: !uuid 'b70f219ecb94919a4a667cf13ec3073dbbed6248'
-    oldFile: null
-  /docs/html/search/all_a.html:
-    newFile: !uuid '25395a845cc172708f98d3a84759fdd02c03e952'
-    oldFile: null
-  /docs/html/search/all_a.js:
-    newFile: !uuid 'b98b8292a53afafad5caa31e68bcfdde51ccbeea'
-    oldFile: null
-  /docs/html/search/all_b.html:
-    newFile: !uuid '56ff23acbaca34dbca77f59bb0cce61aed80e564'
-    oldFile: null
-  /docs/html/search/all_b.js:
-    newFile: !uuid 'e8faf04f066e7395a43935ea8de15364e8d64562'
-    oldFile: null
-  /docs/html/search/all_c.html:
-    newFile: !uuid 'c0d8136e48c780c24fb65d0ccf120bc158d70c23'
-    oldFile: null
-  /docs/html/search/all_c.js:
-    newFile: !uuid '151ee8277fd4a77a94ec715b056fa4ad78c7d8af'
-    oldFile: null
-  /docs/html/search/all_d.html:
-    newFile: !uuid '1b7d6d9e3b87842d819e735ab09742d9a1a76987'
-    oldFile: null
-  /docs/html/search/all_d.js:
-    newFile: !uuid '2f733304df5b58b4940b53ea0c7fb074139dbaad'
-    oldFile: null
-  /docs/html/search/all_e.html:
-    newFile: !uuid '1f183ba8c1c44ac12bb0d2a98d883aca622c223e'
-    oldFile: null
-  /docs/html/search/all_e.js:
-    newFile: !uuid 'b946b1c3ad1f8088e85e0f9b3d0ed74e920db5c2'
-    oldFile: null
-  /docs/html/search/all_f.html:
-    newFile: !uuid '2eae9e2da93207f077ce3dea3b8acc23ebb9ad4d'
-    oldFile: null
-  /docs/html/search/all_f.js:
-    newFile: !uuid '6c09abdfeb276f33a33858029c1eb3ce2b6d519f'
-    oldFile: null
-  /docs/html/search/classes_0.html:
-    newFile: !uuid 'e7da9d2324846b010b49fa22adecd866031fde5a'
-    oldFile: null
-  /docs/html/search/classes_0.js:
-    newFile: !uuid '54b65566b47cd6e155dfd0b444ca0c0f0a6e5784'
-    oldFile: null
-  /docs/html/search/classes_1.html:
-    newFile: !uuid '4a71379f0557fe139196d506ad81ecb5c870c6dc'
-    oldFile: null
-  /docs/html/search/classes_1.js:
-    newFile: !uuid 'd19912e940a404e42d2df0ad281e4a5d343ffcf4'
-    oldFile: null
-  /docs/html/search/close.png:
-    newFile: !uuid '9342d3dfeea7b7c4ee610987e717804b5a42ceb9'
-    oldFile: null
-  /docs/html/search/defines_0.html:
-    newFile: !uuid 'd10fde5c572cbcd939bb1208a41c266678128835'
-    oldFile: null
-  /docs/html/search/defines_0.js:
-    newFile: !uuid 'c1a7bac9e37c13e6f54bd9fba23db5a24a282aa9'
-    oldFile: null
-  /docs/html/search/defines_1.html:
-    newFile: !uuid '052881e35549c228ac81bc11f06d2687f12983da'
-    oldFile: null
-  /docs/html/search/defines_1.js:
-    newFile: !uuid '749ab1940c1c2a87fc5441d70e17c3b84d24d3d6'
-    oldFile: null
-  /docs/html/search/defines_2.html:
-    newFile: !uuid 'e7c963b10dea39dd0b012aa63180036858fb6bab'
-    oldFile: null
-  /docs/html/search/defines_2.js:
-    newFile: !uuid '839be13e3d71b4f4e3a5034870ea6ab536ab0018'
-    oldFile: null
-  /docs/html/search/defines_3.html:
-    newFile: !uuid '45948e58431605d69bd77596396fe19045c680da'
-    oldFile: null
-  /docs/html/search/defines_3.js:
-    newFile: !uuid '3f28400cd5669bf6f420ace4dd14c8e7afc6ebe8'
-    oldFile: null
-  /docs/html/search/defines_4.html:
-    newFile: !uuid '70e72e1ca023b3e11ad96720af5a30881279a471'
-    oldFile: null
-  /docs/html/search/defines_4.js:
-    newFile: !uuid '9ba451a9b137e2abac48f5549f1d1071ee1c609b'
-    oldFile: null
-  /docs/html/search/defines_5.html:
-    newFile: !uuid 'ec789dad5091b77b396898a42392a032b3425262'
-    oldFile: null
-  /docs/html/search/defines_5.js:
-    newFile: !uuid '5a3d272406c198a9499750dc0efeecff52be96ae'
-    oldFile: null
-  /docs/html/search/defines_6.html:
-    newFile: !uuid 'fbab50f796d809023be435f4fe4fa02076ecd5d7'
-    oldFile: null
-  /docs/html/search/defines_6.js:
-    newFile: !uuid '71c5db50f7dcbe878a95a879cf54da91633419ea'
-    oldFile: null
-  /docs/html/search/defines_7.html:
-    newFile: !uuid 'd8eb209242c833bc5ea0da79304e212c2ff9b06d'
-    oldFile: null
-  /docs/html/search/defines_7.js:
-    newFile: !uuid 'c74cc335376d1e53dab8bf3f5a3c0c62c57aa60b'
-    oldFile: null
-  /docs/html/search/defines_8.html:
-    newFile: !uuid 'c14faf3aeb965333ba531070d61bea929c159c93'
-    oldFile: null
-  /docs/html/search/defines_8.js:
-    newFile: !uuid 'af0e2dd28a84751883063f8441f02c751cef0825'
-    oldFile: null
-  /docs/html/search/defines_9.html:
-    newFile: !uuid '3fd5350812ba509aa2b74d4104c5fe546b5a8c65'
-    oldFile: null
-  /docs/html/search/defines_9.js:
-    newFile: !uuid '3b19bca9e20d0e24f75ffddf18115ba1297735f2'
-    oldFile: null
-  /docs/html/search/defines_a.html:
-    newFile: !uuid '98a067e0d5ce537daa0162ee8d5640b0dfacb73a'
-    oldFile: null
-  /docs/html/search/defines_a.js:
-    newFile: !uuid '369de0195d56466bb05e308c142e2c8a4b6b97a6'
-    oldFile: null
-  /docs/html/search/defines_b.html:
-    newFile: !uuid '46368ff387aeeae590028b5165dc9f12dd4af64c'
-    oldFile: null
-  /docs/html/search/defines_b.js:
-    newFile: !uuid '487a6c14eb3530e2d0fb93e674ae6d98857d47cd'
-    oldFile: null
-  /docs/html/search/enums_0.html:
-    newFile: !uuid 'd80a2b3cfd9ca504823c7f96b1bcea58ae0c2550'
-    oldFile: null
-  /docs/html/search/enums_0.js:
-    newFile: !uuid 'c19e306134200bad4fb77fcbe13531e7fb109752'
-    oldFile: null
-  /docs/html/search/enums_1.html:
-    newFile: !uuid '717a274cd8630f741ad1e43c76b4aaf0cab9266d'
-    oldFile: null
-  /docs/html/search/enums_1.js:
-    newFile: !uuid '9809c87db9602378b206feb4b76b27440395ae4f'
-    oldFile: null
-  /docs/html/search/enums_2.html:
-    newFile: !uuid '6e8675a57c6e4673297f322085495ae00de173fb'
-    oldFile: null
-  /docs/html/search/enums_2.js:
-    newFile: !uuid '85fe1540bd4510b103efd9ab586945d8bfc2ba78'
-    oldFile: null
-  /docs/html/search/enums_3.html:
-    newFile: !uuid '21b0dfa0f8430d3975bc94d87011af665a817a7a'
-    oldFile: null
-  /docs/html/search/enums_3.js:
-    newFile: !uuid '2682f1f0c8bbc1e79c90264904a0e096a1e0a27a'
-    oldFile: null
-  /docs/html/search/enums_4.html:
-    newFile: !uuid 'df342302b138deffdaecb107743c31608eb88c38'
-    oldFile: null
-  /docs/html/search/enums_4.js:
-    newFile: !uuid 'fd9275074e9ed176cdee7da8f25d6a785bcd4f57'
-    oldFile: null
-  /docs/html/search/enums_5.html:
-    newFile: !uuid '3425e84ced6869a9bf5134a2080eec285990cbfe'
-    oldFile: null
-  /docs/html/search/enums_5.js:
-    newFile: !uuid '73f403785fcc414d228547f0842ea1779f8d7baa'
-    oldFile: null
-  /docs/html/search/enums_6.html:
-    newFile: !uuid 'f99687dfb5e9bb1390fa4aa3a4b3dc341fe01ec2'
-    oldFile: null
-  /docs/html/search/enums_6.js:
-    newFile: !uuid '0991db94a42158c854c0d53b495ccdf9c7c5d509'
-    oldFile: null
-  /docs/html/search/enums_7.html:
-    newFile: !uuid 'e8001182247afb31e363a0718d20b621fa0725f8'
-    oldFile: null
-  /docs/html/search/enums_7.js:
-    newFile: !uuid '5b117a204820408848c4d5d50702631dd57acfcc'
-    oldFile: null
-  /docs/html/search/enums_8.html:
-    newFile: !uuid '5942e41ea7412753124afed97e0616eedd6d49ee'
-    oldFile: null
-  /docs/html/search/enums_8.js:
-    newFile: !uuid 'f6a50122db74e0a420857a6d674910667049e2b7'
-    oldFile: null
-  /docs/html/search/enums_9.html:
-    newFile: !uuid '6090d7ba19c7ed67f978335ab6844cae1e22fb85'
-    oldFile: null
-  /docs/html/search/enums_9.js:
-    newFile: !uuid '70bc66c1c8561e51fc89da49c693658ebcdd7913'
-    oldFile: null
-  /docs/html/search/enumvalues_0.html:
-    newFile: !uuid '0fc06ae7f4dd2ac369b74d072cf0b04c31c24f37'
-    oldFile: null
-  /docs/html/search/enumvalues_0.js:
-    newFile: !uuid 'c22707653b0db37dc1f71ba16088187edfc6b200'
-    oldFile: null
-  /docs/html/search/enumvalues_1.html:
-    newFile: !uuid 'cb80bd92d0638ee27494612787a666de4ecaa917'
-    oldFile: null
-  /docs/html/search/enumvalues_1.js:
-    newFile: !uuid 'cd089690be9e8f3c98df6dcce61d6b8fe0a30851'
-    oldFile: null
-  /docs/html/search/enumvalues_10.html:
-    newFile: !uuid 'eb3a49a15b4145f9b2af13d1017d9efcd6cc568d'
-    oldFile: null
-  /docs/html/search/enumvalues_10.js:
-    newFile: !uuid '026b93733fd791ebb9177aae8977d75d5eacaa72'
-    oldFile: null
-  /docs/html/search/enumvalues_11.html:
-    newFile: !uuid 'd5d5fc2907c6d30081637a84307a9be77271b2f4'
-    oldFile: null
-  /docs/html/search/enumvalues_11.js:
-    newFile: !uuid 'a67e1d3817ec9054830f31cf8c519a4718c36e31'
-    oldFile: null
-  /docs/html/search/enumvalues_12.html:
-    newFile: !uuid '94e84a0a6cef8251f150af608b50c4f5ffb246c4'
-    oldFile: null
-  /docs/html/search/enumvalues_12.js:
-    newFile: !uuid '405838e2c8fe7cfb869b11ccccf8baee11b6a94c'
-    oldFile: null
-  /docs/html/search/enumvalues_2.html:
-    newFile: !uuid '8e31e7a15c5f6d9e5ad63b14287202eeb5e5382d'
-    oldFile: null
-  /docs/html/search/enumvalues_2.js:
-    newFile: !uuid 'abab9c333bad0d216fa106cfea3a730c18693754'
-    oldFile: null
-  /docs/html/search/enumvalues_3.html:
-    newFile: !uuid '524095996f97f397ff3e440dcaf0e2fda8362bda'
-    oldFile: null
-  /docs/html/search/enumvalues_3.js:
-    newFile: !uuid '835e7069f9951919ed65005308d31726ebac6108'
-    oldFile: null
-  /docs/html/search/enumvalues_4.html:
-    newFile: !uuid '4f6c57bc2839c7d6cf72e554ca53f84029f698a9'
-    oldFile: null
-  /docs/html/search/enumvalues_4.js:
-    newFile: !uuid '7848d2f2d41e563238728e750ab5773545ba8208'
-    oldFile: null
-  /docs/html/search/enumvalues_5.html:
-    newFile: !uuid 'e716ee214166bde35ae9448b985d8ee6d69fc66c'
-    oldFile: null
-  /docs/html/search/enumvalues_5.js:
-    newFile: !uuid '219670803ebf5e5b698406398dae760faf398526'
-    oldFile: null
-  /docs/html/search/enumvalues_6.html:
-    newFile: !uuid '37f250a55ca6b0e9a3d871ea3fd55a974137da8e'
-    oldFile: null
-  /docs/html/search/enumvalues_6.js:
-    newFile: !uuid 'd542a4a745e765027b8c29aa0242e25b787daf3b'
-    oldFile: null
-  /docs/html/search/enumvalues_7.html:
-    newFile: !uuid 'e91ebea6796f3747a5bfd83d0002ee1e893f78c3'
-    oldFile: null
-  /docs/html/search/enumvalues_7.js:
-    newFile: !uuid '74bbc56560a9c859e1ae00d3ba3066f9b8987b5e'
-    oldFile: null
-  /docs/html/search/enumvalues_8.html:
-    newFile: !uuid 'ff47ee290a2dabe4b2c52c16d1bd7966b2d33119'
-    oldFile: null
-  /docs/html/search/enumvalues_8.js:
-    newFile: !uuid '6fdfcc49abbfaadc621a53f11ed1f900415e986b'
-    oldFile: null
-  /docs/html/search/enumvalues_9.html:
-    newFile: !uuid '27acf4a247fe76efb85068865737a5b94c18fca5'
-    oldFile: null
-  /docs/html/search/enumvalues_9.js:
-    newFile: !uuid '82f62725a178f99abe1c95c94887ed590baa55b9'
-    oldFile: null
-  /docs/html/search/enumvalues_a.html:
-    newFile: !uuid 'd904bac2f23bd957879ebea5547b043f0aafc973'
-    oldFile: null
-  /docs/html/search/enumvalues_a.js:
-    newFile: !uuid 'b440fa7f94d8c4fdc984e7711ad095a52840fd27'
-    oldFile: null
-  /docs/html/search/enumvalues_b.html:
-    newFile: !uuid '1074ab6c1b28113a1e427247ce0483da4a2c8e15'
-    oldFile: null
-  /docs/html/search/enumvalues_b.js:
-    newFile: !uuid '1fba6302361800f2887e2be733d58d71173c62b1'
-    oldFile: null
-  /docs/html/search/enumvalues_c.html:
-    newFile: !uuid '18affcce704daa4338de7cae69b18daba4cbb62f'
-    oldFile: null
-  /docs/html/search/enumvalues_c.js:
-    newFile: !uuid 'c8f8b2aa3f2c7eb124f4fd08bd72d5a47a4d7637'
-    oldFile: null
-  /docs/html/search/enumvalues_d.html:
-    newFile: !uuid 'b5f75a405a2434485c935cf117e45ca149f47c82'
-    oldFile: null
-  /docs/html/search/enumvalues_d.js:
-    newFile: !uuid '0d2072d947b4e51621c2cdf2ef449e1c1c452922'
-    oldFile: null
-  /docs/html/search/enumvalues_e.html:
-    newFile: !uuid '90c2fe2b71d52aaf55ef2906a4a138cbf3ec7042'
-    oldFile: null
-  /docs/html/search/enumvalues_e.js:
-    newFile: !uuid 'ee5f00dd6d38bceb809940b5af886c968f47f927'
-    oldFile: null
-  /docs/html/search/enumvalues_f.html:
-    newFile: !uuid '972203dcf98c96721ec0237c6d7ce807bdeb18f5'
-    oldFile: null
-  /docs/html/search/enumvalues_f.js:
-    newFile: !uuid 'fcfae1d9dbed133fb92358ea376f8c43792a2198'
-    oldFile: null
-  /docs/html/search/files_0.html:
-    newFile: !uuid '172d102b869fa0fb932524abcf675e83364c7e39'
-    oldFile: null
-  /docs/html/search/files_0.js:
-    newFile: !uuid '58b802910d296031a44142c90108816d69df63d1'
-    oldFile: null
-  /docs/html/search/files_1.html:
-    newFile: !uuid '469c657bf71bfdf4d61c73e526e4b1fcceb1ec69'
-    oldFile: null
-  /docs/html/search/files_1.js:
-    newFile: !uuid '05609bf7577b5e8471e7977f044747e041d52123'
-    oldFile: null
-  /docs/html/search/files_2.html:
-    newFile: !uuid '7029b2559b9ef5784e7a607b214966edd4d4b265'
-    oldFile: null
-  /docs/html/search/files_2.js:
-    newFile: !uuid '05346c68daec416354a3e4e824f30ce7546218a0'
-    oldFile: null
-  /docs/html/search/functions_0.html:
-    newFile: !uuid '367574a753d6d27775054642558b2eb6b5f45c5b'
-    oldFile: null
-  /docs/html/search/functions_0.js:
-    newFile: !uuid 'c057d322e886cdacc0307a07c6540cd68995e092'
-    oldFile: null
-  /docs/html/search/functions_1.html:
-    newFile: !uuid '227b6943fc24c5cdaabbaba180aa1b203fddd9a0'
-    oldFile: null
-  /docs/html/search/functions_1.js:
-    newFile: !uuid 'c501bf4f0ba9c7741d7ba6b7c8918cc91437f30b'
-    oldFile: null
-  /docs/html/search/functions_10.html:
-    newFile: !uuid '3f7c67f9d6dde63476a1ea27b409e301b8431769'
-    oldFile: null
-  /docs/html/search/functions_10.js:
-    newFile: !uuid 'c0ba202256c5c9cf9cb49042d70a8489e2b024e6'
-    oldFile: null
-  /docs/html/search/functions_11.html:
-    newFile: !uuid 'a136d504a01c2df71049422869bec2b089bebe09'
-    oldFile: null
-  /docs/html/search/functions_11.js:
-    newFile: !uuid '44a299943c58226fcf94977c15f1a61af02aeb7c'
-    oldFile: null
-  /docs/html/search/functions_12.html:
-    newFile: !uuid 'df44683385f324f736ac2252b9902459b3e0901f'
-    oldFile: null
-  /docs/html/search/functions_12.js:
-    newFile: !uuid 'a4364ee21aae1e380dd0cd7b11001b6b8b5e5d1a'
-    oldFile: null
-  /docs/html/search/functions_13.html:
-    newFile: !uuid '8ab6b79f32fd6387414da468650aff8df167cace'
-    oldFile: null
-  /docs/html/search/functions_13.js:
-    newFile: !uuid '8633577e46461fb3d76143c420e82e03228b6957'
-    oldFile: null
-  /docs/html/search/functions_14.html:
-    newFile: !uuid '23ca1d195a2251cdb5c7bfd9dec79ad1b22dec67'
-    oldFile: null
-  /docs/html/search/functions_14.js:
-    newFile: !uuid 'b46515802af829fa937f8c5d08dcaa3eb4836ef3'
-    oldFile: null
-  /docs/html/search/functions_15.html:
-    newFile: !uuid '7bdcac6f384b1dc5f3281537d7a7d8cf17f954fc'
-    oldFile: null
-  /docs/html/search/functions_15.js:
-    newFile: !uuid 'f1c2b669a449ef0f9c1bb57b2632e35986ca9dbe'
-    oldFile: null
-  /docs/html/search/functions_16.html:
-    newFile: !uuid '82df22afe5070c8a4adcb694b6faed2aebe4293c'
-    oldFile: null
-  /docs/html/search/functions_16.js:
-    newFile: !uuid '440470d1168f57194309c93b3cb54b1ab7c1134d'
-    oldFile: null
-  /docs/html/search/functions_17.html:
-    newFile: !uuid '68df0838b87e3d8679ce63d699d92990177a3168'
-    oldFile: null
-  /docs/html/search/functions_17.js:
-    newFile: !uuid 'e2681edd746be99f2839f7bad47f2f398d591a70'
-    oldFile: null
-  /docs/html/search/functions_18.html:
-    newFile: !uuid '60bf7aa148bfef2143cffaab3717d896422bc098'
-    oldFile: null
-  /docs/html/search/functions_18.js:
-    newFile: !uuid '01f513558078db4b7a34a9e6f8307409a513e631'
-    oldFile: null
-  /docs/html/search/functions_2.html:
-    newFile: !uuid 'be2453d5196cd6122c94a0d9b26a76d773fda917'
-    oldFile: null
-  /docs/html/search/functions_2.js:
-    newFile: !uuid 'b7ef6e5e89a74e4aecaf3649c6a0ba79cbfc7c90'
-    oldFile: null
-  /docs/html/search/functions_3.html:
-    newFile: !uuid '9587b0fe0213d4a9e94417a007814b00b45c067b'
-    oldFile: null
-  /docs/html/search/functions_3.js:
-    newFile: !uuid '303a100e4571e9b5469f1a045d2b47b9357cb6fe'
-    oldFile: null
-  /docs/html/search/functions_4.html:
-    newFile: !uuid 'ad8154a44eb4316a4a98600173aa22d1730eb958'
-    oldFile: null
-  /docs/html/search/functions_4.js:
-    newFile: !uuid '17f07402ad621a97aa272b10fa5144865babff5c'
-    oldFile: null
-  /docs/html/search/functions_5.html:
-    newFile: !uuid '2abe58beaddc65c66307f4f89a34c3eb5e788b55'
-    oldFile: null
-  /docs/html/search/functions_5.js:
-    newFile: !uuid '0a27595239bf396eda52f8ad7158c9ad70b1dedf'
-    oldFile: null
-  /docs/html/search/functions_6.html:
-    newFile: !uuid 'e2dc39b1c6510ae3d3839e702d5d0d61755cf36a'
-    oldFile: null
-  /docs/html/search/functions_6.js:
-    newFile: !uuid '662d059bd1890d8aae2a44d9b26d6480e7775298'
-    oldFile: null
-  /docs/html/search/functions_7.html:
-    newFile: !uuid 'f27935664aa82d9dde8a618cd351992932f72c1e'
-    oldFile: null
-  /docs/html/search/functions_7.js:
-    newFile: !uuid '75640258ec3ac39204ceaaa1543114ecd50f8f60'
-    oldFile: null
-  /docs/html/search/functions_8.html:
-    newFile: !uuid '3a955996ea9a57b377b3be95d6818b3fab8f33e1'
-    oldFile: null
-  /docs/html/search/functions_8.js:
-    newFile: !uuid '2987ac20ff70076061a41024dd84e613b23086d0'
-    oldFile: null
-  /docs/html/search/functions_9.html:
-    newFile: !uuid 'eedf4089fb6361e3d4ceb696679775b0c5fd9aaa'
-    oldFile: null
-  /docs/html/search/functions_9.js:
-    newFile: !uuid 'd5e31732e54288f267f753d5818b1b3ba56f9423'
-    oldFile: null
-  /docs/html/search/functions_a.html:
-    newFile: !uuid '6ea31ff11848cbb018e5b1174d77a70dbfb268a5'
-    oldFile: null
-  /docs/html/search/functions_a.js:
-    newFile: !uuid 'fb16a6345f3fc8dd9ede4836b07e015e6ec5ae5f'
-    oldFile: null
-  /docs/html/search/functions_b.html:
-    newFile: !uuid '3d971b3886fd5eb029167add4c6e966c878149e3'
-    oldFile: null
-  /docs/html/search/functions_b.js:
-    newFile: !uuid '4e0ac68376e5bb973db4f538839991469fa0c30a'
-    oldFile: null
-  /docs/html/search/functions_c.html:
-    newFile: !uuid 'c00082a7ca090dda88ea0bfa22174996f6981868'
-    oldFile: null
-  /docs/html/search/functions_c.js:
-    newFile: !uuid '28f4673062e44b8f51e282c759a03728d7e57b85'
-    oldFile: null
-  /docs/html/search/functions_d.html:
-    newFile: !uuid 'dd6c79aa0fe81ee1a8add49157a9abf8a40e48fb'
-    oldFile: null
-  /docs/html/search/functions_d.js:
-    newFile: !uuid 'ac76a0e698bb34b22dd3f442b50a41694b39ed83'
-    oldFile: null
-  /docs/html/search/functions_e.html:
-    newFile: !uuid '6c4b7d3ec6247ad545c649d21a901b334cbdea98'
-    oldFile: null
-  /docs/html/search/functions_e.js:
-    newFile: !uuid 'bbc090a7f853006a7f408be456b5ea114a2fcc61'
-    oldFile: null
-  /docs/html/search/functions_f.html:
-    newFile: !uuid '103f077f1c515a68c81ba4974d5b56bfe056a012'
-    oldFile: null
-  /docs/html/search/functions_f.js:
-    newFile: !uuid '09c8b6ce9f2c28afc2d112eae7e98a66d55c351e'
-    oldFile: null
-  /docs/html/search/mag_sel.png:
-    newFile: !uuid '81f6040a2092402b4d98f9ffa8855d12a0d4ca17'
-    oldFile: null
-  /docs/html/search/namespaces_0.html:
-    newFile: !uuid 'c0838ce7fa096e0122e301a3572d5923365cd2eb'
-    oldFile: null
-  /docs/html/search/namespaces_0.js:
-    newFile: !uuid '023e1ab078d4b43222fcdd79e80bb399e37eb9e9'
-    oldFile: null
-  /docs/html/search/nomatches.html:
-    newFile: !uuid '72743d1a7809a91900a8370d8c46da80ab4956eb'
-    oldFile: null
-  /docs/html/search/pages_0.html:
-    newFile: !uuid '7c70468a2f5b81987b3ea5c1b69d745f3a13f438'
-    oldFile: null
-  /docs/html/search/pages_0.js:
-    newFile: !uuid '17ab2ab07418a097370bb9f5f836205b252744ba'
-    oldFile: null
-  /docs/html/search/related_0.html:
-    newFile: !uuid '1cd030136eb835947676beced324aa8e41e70a8c'
-    oldFile: null
-  /docs/html/search/related_0.js:
-    newFile: !uuid 'd05b5345684fdb0743ea2d8c85bae7feceef36e3'
-    oldFile: null
-  /docs/html/search/related_1.html:
-    newFile: !uuid '54913c40037d475e1f5d96bf34997b0d9e293515'
-    oldFile: null
-  /docs/html/search/related_1.js:
-    newFile: !uuid 'ae230b46964655c65c50d6223965f28e9eaec3f6'
-    oldFile: null
-  /docs/html/search/search.css:
-    newFile: !uuid '4d7612ff63e3b5449072d07c3ffc648c6ad0bb11'
-    oldFile: null
-  /docs/html/search/search.js:
-    newFile: !uuid 'a171dbd0f050a6efa6023f1f41850be1b1f07b42'
-    oldFile: null
-  /docs/html/search/search_l.png:
-    newFile: !uuid 'c872f4da4a01d0754f923e6c94fd8159c0621bd1'
-    oldFile: null
-  /docs/html/search/search_m.png:
-    newFile: !uuid 'b429a16ba641960da1e52e5da85dc80fd82635c8'
-    oldFile: null
-  /docs/html/search/search_r.png:
-    newFile: !uuid '97ee8b439687084201b79c6f776a41f495c6392a'
-    oldFile: null
-  /docs/html/search/typedefs_0.html:
-    newFile: !uuid 'c50f02365086dba88b1a792361973c0aa17d3a33'
-    oldFile: null
-  /docs/html/search/typedefs_0.js:
-    newFile: !uuid '83e441fda83a5257102efd9df673998ef6a9502f'
-    oldFile: null
-  /docs/html/search/typedefs_1.html:
-    newFile: !uuid '7b30d868d5929e873e172999bb34cf476773d2c2'
-    oldFile: null
-  /docs/html/search/typedefs_1.js:
-    newFile: !uuid 'e518fe0cc2f141f2f2037ede9338bc02cfbf3a78'
-    oldFile: null
-  /docs/html/search/typedefs_2.html:
-    newFile: !uuid '8640d0921bd59d2343cc4ee99bd691cf41eac0f0'
-    oldFile: null
-  /docs/html/search/typedefs_2.js:
-    newFile: !uuid 'b94e05c565c6b34784cb760c4c62d9cdceeaadf0'
-    oldFile: null
-  /docs/html/search/typedefs_3.html:
-    newFile: !uuid '843f32f2c88655bc5577a95e4b17240b05d0fffe'
-    oldFile: null
-  /docs/html/search/typedefs_3.js:
-    newFile: !uuid '647eb121f825a42eb87940cd3b900046de067659'
-    oldFile: null
-  /docs/html/search/typedefs_4.html:
-    newFile: !uuid '6bdd783553887045b7236f68c00a349192dd322d'
-    oldFile: null
-  /docs/html/search/typedefs_4.js:
-    newFile: !uuid '55c4442af572a507a50255f2085ac3999e45538d'
-    oldFile: null
-  /docs/html/search/typedefs_5.html:
-    newFile: !uuid '06a4483034d2320992ac074b9ecb955a3a70d038'
-    oldFile: null
-  /docs/html/search/typedefs_5.js:
-    newFile: !uuid 'ad0ffb40b528468a5dfb969bb2d016f2ccd31673'
-    oldFile: null
-  /docs/html/search/variables_0.html:
-    newFile: !uuid '3fe6b5af3f62cd8b123d4b42c0c03d397488d64a'
-    oldFile: null
-  /docs/html/search/variables_0.js:
-    newFile: !uuid 'e8f9c3ca1856b5a8b05cf6d2012e77105b2599a9'
-    oldFile: null
-  /docs/html/search/variables_1.html:
-    newFile: !uuid 'e73b6ce5484e0ef80fa3c32dd22eafe60632475b'
-    oldFile: null
-  /docs/html/search/variables_1.js:
-    newFile: !uuid 'e2c829575eacf4943132e3ffc0e4ce6c62bb6041'
-    oldFile: null
-  /docs/html/search/variables_10.html:
-    newFile: !uuid '572df7efe85607769067bc6a64c15100d6075473'
-    oldFile: null
-  /docs/html/search/variables_10.js:
-    newFile: !uuid '0ed90bc34398c07ace643a94aa44ddcd2c22e9d1'
-    oldFile: null
-  /docs/html/search/variables_11.html:
-    newFile: !uuid '636a29e54281898496b3fcef6dec824510658330'
-    oldFile: null
-  /docs/html/search/variables_11.js:
-    newFile: !uuid '8d201f3bf0573ad050133cba079de445a28cab59'
-    oldFile: null
-  /docs/html/search/variables_12.html:
-    newFile: !uuid 'eb1d37f7e1c3bd8f357ffb5661a5a01689201efd'
-    oldFile: null
-  /docs/html/search/variables_12.js:
-    newFile: !uuid '112be1386cfbc82290911aa7af9093a802a5073f'
-    oldFile: null
-  /docs/html/search/variables_2.html:
-    newFile: !uuid 'a58dab718b1f2fc7c42e55e0ca6d47b5f616ddf0'
-    oldFile: null
-  /docs/html/search/variables_2.js:
-    newFile: !uuid '9c945661de9ccf7dbd996bc305b29816837f0a2e'
-    oldFile: null
-  /docs/html/search/variables_3.html:
-    newFile: !uuid '0b982c0b093499437124f30c8d46d30c26ba84d4'
-    oldFile: null
-  /docs/html/search/variables_3.js:
-    newFile: !uuid '23a4e03d611f0186b6d21751fa073e9bac019d09'
-    oldFile: null
-  /docs/html/search/variables_4.html:
-    newFile: !uuid 'f0933db7c1d4621a7698e9f76858e06ecc2a45ca'
-    oldFile: null
-  /docs/html/search/variables_4.js:
-    newFile: !uuid 'aca78f6e22359af75f363509de1b993f08d45eeb'
-    oldFile: null
-  /docs/html/search/variables_5.html:
-    newFile: !uuid '076209f399a09a9388e0d7a1f575c47cb1678d9a'
-    oldFile: null
-  /docs/html/search/variables_5.js:
-    newFile: !uuid '7f4f52ecbb047957c41d095ae388ed817969a7ae'
-    oldFile: null
-  /docs/html/search/variables_6.html:
-    newFile: !uuid '0aeee74ac260f346364b632fa5e9db76014e0b93'
-    oldFile: null
-  /docs/html/search/variables_6.js:
-    newFile: !uuid 'ed2d9d422dea4f5aa283cb4d8bc66435173aa651'
-    oldFile: null
-  /docs/html/search/variables_7.html:
-    newFile: !uuid '186245558ece99e508f80201a50c40aeb148909f'
-    oldFile: null
-  /docs/html/search/variables_7.js:
-    newFile: !uuid '815e8e877f7e103f95ec7823bc6cc43bc0eb95f3'
-    oldFile: null
-  /docs/html/search/variables_8.html:
-    newFile: !uuid '5cc401c51d36484c80dca5334d3d948bbd9e87bc'
-    oldFile: null
-  /docs/html/search/variables_8.js:
-    newFile: !uuid '3ab74b612f3396034f8f4739fbb118edc9ca6752'
-    oldFile: null
-  /docs/html/search/variables_9.html:
-    newFile: !uuid '7fc07595d94625fab4bc896dad3cf499d92f7d14'
-    oldFile: null
-  /docs/html/search/variables_9.js:
-    newFile: !uuid '88598be66986d5ac1891d11828829682be8365b9'
-    oldFile: null
-  /docs/html/search/variables_a.html:
-    newFile: !uuid '6564de242f24eb87390ae2da6e031855ed7451ab'
-    oldFile: null
-  /docs/html/search/variables_a.js:
-    newFile: !uuid '574f93a5983e586f85baa492bd7143214351d3a8'
-    oldFile: null
-  /docs/html/search/variables_b.html:
-    newFile: !uuid 'cc27789b16373877fa647f22d445c22850b6a1c9'
-    oldFile: null
-  /docs/html/search/variables_b.js:
-    newFile: !uuid 'c757e4ce8d03194c745deada439201fa266fce4c'
-    oldFile: null
-  /docs/html/search/variables_c.html:
-    newFile: !uuid 'f89ab578c3529ee06c90903b0b6988dd053888ac'
-    oldFile: null
-  /docs/html/search/variables_c.js:
-    newFile: !uuid '2778ff938fed57b7eebd8b5970fd3455d62462c9'
-    oldFile: null
-  /docs/html/search/variables_d.html:
-    newFile: !uuid '1334b73906f3217a1b4fe63fd78745ced1e902b8'
-    oldFile: null
-  /docs/html/search/variables_d.js:
-    newFile: !uuid 'a01228c8cfaf4a3857b4e6884dd887b5c37ee7cc'
-    oldFile: null
-  /docs/html/search/variables_e.html:
-    newFile: !uuid '2a1c7472ea31b8cc6556126b621fdbac6719e3a3'
-    oldFile: null
-  /docs/html/search/variables_e.js:
-    newFile: !uuid '9a028f017e30a3c91a8d2b779f07026b4dcda63d'
-    oldFile: null
-  /docs/html/search/variables_f.html:
-    newFile: !uuid '2d1860e2e1425fce6ed22c071cc01710cd37ac78'
-    oldFile: null
-  /docs/html/search/variables_f.js:
-    newFile: !uuid 'b1be311f913617202757c81b8420378a403f90f4'
-    oldFile: null
-  /docs/html/struct_g_image_attr-members.html:
-    newFile: !uuid '00390d841d0b18a0e7972e4852f4f7513d288f5d'
-    oldFile: null
-  /docs/html/struct_g_image_attr.html:
-    newFile: !uuid 'f4aa36fc47f1a64142e1f42e438ab6c1deea7f34'
-    oldFile: null
-  /docs/html/struct_t___b_r_u_s_h-members.html:
-    newFile: !uuid '03e464afc0cf628ddee37f28ae26b95ece2e6bcc'
-    oldFile: null
-  /docs/html/struct_t___b_r_u_s_h.html:
-    newFile: !uuid '5579624e9d08c12f8f33ab120629d59f77499834'
-    oldFile: null
-  /docs/html/struct_t___i_m_a_g_e-members.html:
-    newFile: !uuid 'bebb060469457d7151ae1ab16439cf74586acd8e'
-    oldFile: null
-  /docs/html/struct_t___i_m_a_g_e.html:
-    newFile: !uuid 'f1672db78fb3dabcdc6e9a2e09a46d246013e455'
-    oldFile: null
-  /docs/html/struct_t___p_o_i_n_t-members.html:
-    newFile: !uuid '370e20d14171cc77a99ac4dee91a30b7f5e2e490'
-    oldFile: null
-  /docs/html/struct_t___p_o_i_n_t.html:
-    newFile: !uuid '211385d8991c053533af7a09e4b5cf2c48f3c7b7'
-    oldFile: null
-  /docs/html/struct_t___r_e_c_t-members.html:
-    newFile: !uuid 'd983f0a4e0c63ab771323b4e1e04bafbf64884d8'
-    oldFile: null
-  /docs/html/struct_t___r_e_c_t.html:
-    newFile: !uuid '9c9ce785b9959b25c0aa2e3219892827838cf474'
-    oldFile: null
-  /docs/html/struct_t___s_i_z_e-members.html:
-    newFile: !uuid 'c6c602507ba12fb2a8af03902d86fbfc8fac8437'
-    oldFile: null
-  /docs/html/struct_t___s_i_z_e.html:
-    newFile: !uuid '057c98a7a11ec2e2d8bf0ef04445f288fe4e443a'
-    oldFile: null
-  /docs/html/sync_off.png:
-    newFile: !uuid '3b443fc62892114406e3d399421b2a881b897acc'
-    oldFile: null
-  /docs/html/sync_on.png:
-    newFile: !uuid 'e08320fb64e6fa33b573005ed6d8fe294e19db76'
-    oldFile: null
-  /docs/html/tab_a.png:
-    newFile: !uuid '3b725c41c5a527a3a3e40097077d0e206a681247'
-    oldFile: null
-  /docs/html/tab_b.png:
-    newFile: !uuid 'e2b4a8638cb3496a016eaed9e16ffc12846dea18'
-    oldFile: null
-  /docs/html/tab_h.png:
-    newFile: !uuid 'fd5cb705488e60fcf30f56fcc951dee74f3b095b'
-    oldFile: null
-  /docs/html/tab_s.png:
-    newFile: !uuid 'ab478c95b67371d700a20869f7de1ddd73522d50'
-    oldFile: null
-  /docs/html/tabs.css:
-    newFile: !uuid '9cf578f23a154ff026365d61ea59013ad431466b'
-    oldFile: null
-  /docs/images:
-    newFile: !uuid '527df519efc08288bb886b3f25530550c0fbef25'
-    oldFile: null
-  /docs/images/DVB_768x432.gif:
-    newFile: !uuid 'c10d257d9e94e618b4e824130159f0b1154e7168'
-    oldFile: null
-  /docs/images/DVB_768x432_large.gif:
-    newFile: !uuid 'ca0142dd725c0f505daee37f7b1825c60b1b0674'
-    oldFile: null
-  /docs/images/DVB_edit_chnl_768x432.gif:
-    newFile: !uuid 'bcd0a41e403103ef4fa6fa379b274386f28083e4'
-    oldFile: null
-  /docs/images/DVB_mainMenu_768x432_png.gif:
-    newFile: !uuid 'de3cf82c6f86d4a6465cf767cdfea63989af48bd'
-    oldFile: null
-  /docs/images/configureResult.jpeg:
-    newFile: !uuid 'e49de4e4d42a9e1dd6d6fbd2bb49d2573d5d844f'
-    oldFile: null
-  /docs/images/configureResult1.jpeg:
-    newFile: !uuid 'fe260d48890211432348e2971dffde4d3c562fc5'
-    oldFile: null
-  /docs/images/debugInfo.jpeg:
-    newFile: !uuid 'e0d7e5a70e3b2ae2cb4e83ec0c0a4a21f19c9b37'
-    oldFile: null
-  /docs/images/gCtrlButton.jpeg:
-    newFile: !uuid '71b6b9576e81ecff88bfdcc5eb907662dc6050be'
-    oldFile: null
-  /docs/images/gCtrlIconView.jpeg:
-    newFile: !uuid '0d9d075fd782cb9fada6787c863429a47fceccef'
-    oldFile: null
-  /docs/images/gCtrlItem.jpeg:
-    newFile: !uuid '8bb36c6b787a9deb784ef754dccd5ab83e6bb72a'
-    oldFile: null
-  /docs/images/gCtrlLineEdit.jpeg:
-    newFile: !uuid '7e37512b40478e935505c44cf412a0a3587a2814'
-    oldFile: null
-  /docs/images/gCtrlListBox.jpeg:
-    newFile: !uuid '379d56b8097624bcee95c8273ad152533759fb9d'
-    oldFile: null
-  /docs/images/gCtrlMsgBox.jpeg:
-    newFile: !uuid '546b6573dfe8b15fc36cf2ad0eded9a9823f231f'
-    oldFile: null
-  /docs/images/gCtrlProgressBar.jpeg:
-    newFile: !uuid 'f4c08e1645f2cdc2197735f6d4eb056117a6c8c1'
-    oldFile: null
-  /docs/images/gCtrlRadioButton.jpeg:
-    newFile: !uuid 'e61b637d3c3fcbc224805fa116d28e4d5aee5324'
-    oldFile: null
-  /docs/remote-client.qt4_screenshot.jpg:
-    newFile: !uuid '663f832d035990af695441f83d0134885ddd0694'
-    oldFile: null
-gitCommitId: !uuid '6d54a1dce57c2bf1f8898c2cc16f4fe743a96b72'
+    newFile: !uuid '7c3a0e27037ee617db7218e1cedd84ca33dc4986'
+    oldFile: !uuid '1a00ff3130dfc82458a502a567bdd1e50789037f'
+gitCommitId: !uuid '9bdcebbad69ff12cae5433bbb86ef952426e3cb0'
 renames: {
   }
-revisionId: 194
+revisionId: 195
