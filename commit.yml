@@ -3,12 +3,9 @@ branches: {
   }
 fileChange:
   /LICENSE:
-    newFile: !uuid '1663e06d8d08ddce6bca69daff3d7a2d09211043'
-    oldFile: !uuid '8a4d3e302faaf5222446b1577bfbe3e25737e648'
-  /LICENSE_zh.CN:
-    newFile: !uuid 'f0ca841c3773af4010596af8d6bcbd7c53ef6e8f'
-    oldFile: null
-gitCommitId: !uuid '91d55645073ad2069104340b505b367b08153377'
+    newFile: !uuid 'f64406af2ce824ddb39d6f3650a1575a753d6d04'
+    oldFile: !uuid '1663e06d8d08ddce6bca69daff3d7a2d09211043'
+gitCommitId: !uuid '4a680ded177f9b15553303850c52716fc0ea1179'
 renames: {
   }
-revisionId: 202
+revisionId: 203
