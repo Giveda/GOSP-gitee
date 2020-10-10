@@ -2,10 +2,13 @@
 branches: {
   }
 fileChange:
-  /blacklist.md:
-    newFile: !uuid '75035d72878dcd3ed50a2689ddcc78d89440d2bf'
-    oldFile: !uuid '879c245f750081ccc5f71a527088e52a4ff840ca'
-gitCommitId: !uuid 'd6a17e5e81f807c59498604b5297cac97d2aff08'
+  /README.md:
+    newFile: !uuid 'ab126a9862cabd4e34fe0f364fad8ed8ffff8b62'
+    oldFile: !uuid 'f9df69a3408d5c4d2fb02d21ab42bc10d72fa5c6'
+  /corp.md:
+    newFile: null
+    oldFile: !uuid '07909e4b76ba49ede6ca3686df282619c87e9528'
+gitCommitId: !uuid 'd1dbdb306cd7bd6fbdd9c73bd412879484c1e2d6'
 renames: {
   }
-revisionId: 223
+revisionId: 224
