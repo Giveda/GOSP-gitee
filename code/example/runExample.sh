@@ -11,7 +11,7 @@ for item in $1/*
 do
     if [ -d $item ]; then
         cd $item
-        ./$item
+        ./`basename $item`
         cd -
     fi
 done
