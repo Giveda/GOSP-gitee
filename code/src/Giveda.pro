@@ -4,7 +4,7 @@
 
 TEMPLATE = lib
 CONFIG += release
-CONFIG += staticlib
+#CONFIG += staticlib
 QT -= core gui
 DEPENDPATH += .
 INCLUDEPATH += include /usr/include/freetype2 /usr/include/libpng12 

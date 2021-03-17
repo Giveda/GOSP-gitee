@@ -17,6 +17,7 @@ FILES = src example
 MAKE = make 
 
 all:
+	@$(MAKE) staticlib -C src
 	@for i in $(FILES); do \
 	if [ -d $$i ]; then \
 	$(MAKE) $@ -C $$i; \
