@@ -3,15 +3,24 @@ branches: {
   }
 fileChange:
   /code:
-    newFile: !uuid '3e7ec79abda1c45dd94cfe2b2134275b2ad87c93'
-    oldFile: !uuid '0c00cc9bd8a0fdd7e2c37379c65629d6789c7938'
-  /code/example:
-    newFile: !uuid 'eae80094fe2acb8c7b3454fe3be51ce6bd807aec'
-    oldFile: !uuid '3af2b9f85806b859ee08a05a4b4b42c70b18fbf2'
-  /code/example/runExample.sh:
-    newFile: !uuid '831c7f8f82d69bafffadaf1a562758030071fcfe'
-    oldFile: !uuid '37dd893e95be1c0c0b864f09ba080fc2f35d20e7'
-gitCommitId: !uuid '19cc6b66e780eb3a6ccb6bbeb678050a3db14ea2'
+    newFile: !uuid 'a8f7528645a4f31059d4ef2c00a136310d992a27'
+    oldFile: !uuid '3e7ec79abda1c45dd94cfe2b2134275b2ad87c93'
+  /code/.Makefile:
+    newFile: !uuid '5a474658a338b095fc2d70db81d772cdec721e1f'
+    oldFile: !uuid '80b4ce18d95c4be8c88501392af4f499b12ca582'
+  /code/fonts:
+    newFile: !uuid 'f6d1bd1a19ca55c3cb7b8c4f8ff2dcb5f41e8b1d'
+    oldFile: !uuid '990c61e7323c0c663c510b2cfbbfc926db536cc2'
+  /code/fonts/Sans.ttf:
+    newFile: !uuid '11a90e1b18830c0cf8b0ba11055cc0ae362d7a59'
+    oldFile: !uuid '11a90e1b18830c0cf8b0ba11055cc0ae362d7a59'
+  /code/src:
+    newFile: !uuid '1f69144b2fa8a069477ceacdb675d3d800128d00'
+    oldFile: !uuid 'da8f4b910bf51f31afae34467f75413ad4a3048f'
+  /code/src/Giveda.pro:
+    newFile: !uuid '55f4f739063c6f1d8214167d1ba6cd3ad458f4d9'
+    oldFile: !uuid 'f123661d6c136224dd94787c2d3c4170e97bb85f'
+gitCommitId: !uuid 'caa6e268f2de8c19be51ad3622bb9ec00ddb5e1d'
 renames: {
   }
-revisionId: 230
+revisionId: 231
