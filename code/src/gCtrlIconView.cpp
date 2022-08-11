@@ -390,7 +390,7 @@ void GCtrlIconView::moveFocus ( int toIndex )
     highlighted_pI.emit ( ikvLqH->m_itemList.at ( toIndex ) );
     
     highlighted_pi.emit ( toIndex );
-    ikvLqH->m_nCurItemIndex = toIndex;
+    ikvLqH->m_nCurItemIndex = toIndex;;
     ikvLqH->m_bIsNeedShowItemInfo = true;
 }
 
