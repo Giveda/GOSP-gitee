@@ -1,5 +1,5 @@
 # Emma
-这里保存着Emma的一部分劳动成果
+这里保存着Emma的一部分[劳动成果](https://gitee.com/k12edu/emma/)    
 
 # 著作权
 这里所有的作品，其著作权都归Emma所有，    
