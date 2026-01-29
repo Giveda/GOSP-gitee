@@ -3,6 +3,8 @@ for English, please refer to: https://gitee.com/giveda/GOSP/blob/master/README_e
 
   **谨以此产品致敬Qt为世界做出的杰出贡献。**         
 
+在未经授权（比如未购买）的情况下，禁止基于本项目的内容训练AI（人工智能）。
+
 # 一、简介  
 Qt是欧洲人创始的一个优秀的c++开发框架，API简单易用，社区庞大，资源丰富；但Qt太重量级了（需要很多的RAM和ROM，非常复杂）。为了解决这个问题，我开发了GOSP这个框架； **GOSP在不依赖Qt的前提下，提供了类似Qt的API接口，仅需要几百KB的硬件资源（比Qt小的多），能运行在Qt不支持的低配置硬件上（对Qt生态形成补充），适用于嵌入式开发。**          
 
