@@ -15,7 +15,7 @@ Here is some applications(examples):
 
 Reference:  
 http://blog.qt.io/cn/2018/08/15/qt_on_microcontrollers_mcu/  
-http://giveda.com/
+http://mike6924@outlook.com/
 
 
 # 2. Main Features
@@ -58,7 +58,7 @@ If any commercial behavior or purpose is involved, we will adopt the following c
 
 # 4. How to Use
 Read the following easy guide document: https://gitee.com/giveda/GOSP/blob/master/HowTo.md  
-Read the following HTML document: http://giveda.com/gui_engine/html/index.html    
+Read the following HTML document: http://mike6924@outlook.com/gui_engine/html/index.html    
 Welcode to join in QQ group: 914464844    
 
 

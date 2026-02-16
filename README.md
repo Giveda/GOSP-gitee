@@ -20,7 +20,7 @@ example效果演示：
 
 参考文献：  
 http://blog.qt.io/cn/2018/08/15/qt_on_microcontrollers_mcu/  
-http://giveda.com/
+http://mike6924@outlook.com/
 
 
 # 二、主要特色
@@ -68,7 +68,7 @@ http://giveda.com/
 
 # 四、如何使用
 《简易指导文档》： https://gitee.com/giveda/GOSP/blob/master/HowTo.md  
-《HTML文档》： http://giveda.com/gui_engine/html/index.html    
+《HTML文档》： http://mike6924@outlook.com/gui_engine/html/index.html    
 在给GOSP点过star后(或成为follower后)可申请加入QQ交流群：914464844（加群请备注自己的gitee账户主页地址）    
 
 

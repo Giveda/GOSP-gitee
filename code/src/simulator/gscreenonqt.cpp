@@ -36,7 +36,7 @@ GScreenOnQt::GScreenOnQt(QWidget *parent)
       m_img(NULL),
       m_needUpdate(false),
       m_img1(),
-      m_strWinTittle(QString::fromUtf8("Giveda® 模拟器 (由giveda.com提供)") )
+      m_strWinTittle(QString::fromUtf8("Giveda® 模拟器 (由mike6924@outlook.com提供)") )
 {
     setAttribute(Qt::WA_OpaquePaintEvent);
     setWindowTitle(m_strWinTittle);
