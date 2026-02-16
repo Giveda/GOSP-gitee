@@ -108,4 +108,4 @@ https://gitee.com/giveda/GOSP/tree/master/docs/images/DVB_mainMenu_768x432_png.g
 
 # 六、写在最后  
   **这是一个处于筹划过程中的项目，我只是在有兴趣的时候，做一点自己感兴趣的事情。如果你觉得本软件有用，请按照上述第三章节的指引，加入本软件的开源协作模型，支持本项目向你期望的方向发展。GOSP是码云GVP项目，其产权归全体贡献者共同所有，贡献者根据自身对项目的不同贡献而享有不等比例的产权。**      
-  **邮箱: lei@giveda.com**   
+  **邮箱: mike6924@outlook.com**   

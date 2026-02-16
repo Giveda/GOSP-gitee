@@ -98,4 +98,4 @@ https://gitee.com/giveda/GOSP/tree/master/docs/images/DVB_mainMenu_768x432_png.g
 
 # 6. The End  
   **This is a project in the process of planning. I just do something I am interested in when I am interested. If you think the software is useful, you can join in the open source collaboration model to support this project in the direction you expect. The property rights of GOSP belong to all contributors, the contributors enjoy different proportions of property rights according to their different contributions to the project. **   
-  **contact: lei@giveda.com**   
+  **contact: mike6924@outlook.com**   

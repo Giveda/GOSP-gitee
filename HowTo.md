@@ -36,4 +36,4 @@ cd example        #进入example目录
 
 如果提示Project ERROR: Package Giveda not found，就将lib/Giveda.pc复制到/usr/lib/pkgconfig/下。  
 
-  **contact: imleizhang@qq.com**   
+  **contact: mike6924@outlook.com**   
